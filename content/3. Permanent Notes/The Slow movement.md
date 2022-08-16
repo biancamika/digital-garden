@@ -2,10 +2,10 @@
 title: "The Slow movement"
 ---
 ## Reference
-- **Source:** [[The McDonaldization of Education - the rise of slow - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/The McDonaldization of Education - the rise of slow - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[The cult of speed]]
+	- [[3. Permanent Notes/The cult of speed]]
 ## Notes
 + originated from Slow Food
 	+ abdicates industrial food conglomerates

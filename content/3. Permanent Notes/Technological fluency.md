@@ -2,12 +2,12 @@
 title: "Technological fluency"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Technology must be used as a tool of liberation]]
-	- [[Critical thinking and skill development are not mutually exclusive]]
-	- [[Creativity is power]]
+	- [[3. Permanent Notes/Technology must be used as a tool of liberation]]
+	- [[3. Permanent Notes/Critical thinking and skill development are not mutually exclusive]]
+	- [[3. Permanent Notes/Creativity is power]]
 ## Notes
 ### What is it? 
 From [Technological Fluency, Digital Literacy, and Information Literacy](http://tutorials.istudy.psu.edu/techfluency/techfluency2.html#:~:text=Technological%20fluency%20is%20knowing%20how,both%20information%20and%20digital%20literacy.):

@@ -2,15 +2,15 @@
 title: "The object of true education is to make people"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 	
-	- [[The goal of education is transformation]]
-	- [[Constructionism]]
-	- [[Critical pedagogy]]
-	- [[Popular education]]
-	- [[Critical thinking and skill development are not mutually exclusive]]
-	- [[Design justice]]
+	- [[3. Permanent Notes/The goal of education is transformation]]
+	- [[3. Permanent Notes/Constructionism]]
+	- [[3. Permanent Notes/Critical pedagogy]]
+	- [[3. Permanent Notes/Popular education]]
+	- [[3. Permanent Notes/Critical thinking and skill development are not mutually exclusive]]
+	- [[3. Permanent Notes/Design justice]]
 ## Notes
 > “I insist that the object of all true education is not to make people carpenters, it is to make carpenters people.
 —W. E. B. Du Bois, The Talented Tenth”

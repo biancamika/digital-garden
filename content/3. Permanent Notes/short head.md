@@ -2,12 +2,12 @@
 title: "short head"
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Seth Godin]]; [[1. Resource Notes/This is Marketing - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #marketing
 - **Relevant Notes:**
-	- [[Build your own quadrant]]
-	- [[long tail]]
+	- [[3. Permanent Notes/Build your own quadrant]]
+	- [[3. Permanent Notes/long tail]]
 ## Notes
 - **Definition:** the portion of distribution curve where a large # of people are interested in buying limited products
 	-  only selling large volumes of a reduced number of popular items

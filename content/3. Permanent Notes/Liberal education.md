@@ -2,10 +2,10 @@
 title: "Liberal education"
 ---
 ## Reference
-- **Source:** [[Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Vocational education]]
+	- [[3. Permanent Notes/Vocational education]]
 ## Notes
 ### What is liberal education?
 + Manifested in the form of colleges and universities

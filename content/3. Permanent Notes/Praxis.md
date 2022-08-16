@@ -2,11 +2,11 @@
 title: "Praxis"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[The goal of education is transformation]]
-	- [[Higher-order skills]]
+	- [[3. Permanent Notes/The goal of education is transformation]]
+	- [[3. Permanent Notes/Higher-order skills]]
 ## Notes
 ### What does Praxis mean?
 + Greek term that originally meant =="practical knowledge for action". ==

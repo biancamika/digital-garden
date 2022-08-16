@@ -2,14 +2,14 @@
 title: "Secondary reflection"
 ---
 ## Reference
-- **Source:** Doing Philosophy by Dr. Angeles; [[2021-04-29]]
-- **Keywords:** [[permanent notes]]
+- **Source:** Doing Philosophy by Dr. Angeles; [[4. Miscellaneous Notes/Daily Notes/2021-04-29]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #philosophy #metaphysics #life #personaldevelopment 
 - **Relevant Notes:**
-	- [[Primary reflection]]
-	- [[context collapse]]
-	- [[Identity isn't constructed independently]]
-	- [[sick systems]]
+	- [[3. Permanent Notes/Primary reflection]]
+	- [[3. Permanent Notes/context collapse]]
+	- [[3. Permanent Notes/Identity isn't constructed independently]]
+	- [[3. Permanent Notes/sick systems]]
 ## Notes
 - puts together what has been broken apart; locates it in the bigger scheme of things
 - E.g. experiences:

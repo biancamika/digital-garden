@@ -3,13 +3,13 @@ title: "Creativity is power"
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation - Class]]
+	- Smile Indias, [[1. Resource Notes/Interdisciplinary Approaches to Creation & Innovation - Class]]
 	- [[Oli Mould]], [[Against Creativity (Book)]]
-- **Keywords:** [[permanent notes]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #creativity #innovation 
 - **Relevant Notes:**
-	- [[Higher-order skills]]
-	- [[The limits of our language are the limits of our world]]
+	- [[3. Permanent Notes/Higher-order skills]]
+	- [[3. Permanent Notes/The limits of our language are the limits of our world]]
 ## Notes
 - What if we viewed creativity not just as an ability, or skill, but as **power**?
 	- to blend knowledge (what we know)

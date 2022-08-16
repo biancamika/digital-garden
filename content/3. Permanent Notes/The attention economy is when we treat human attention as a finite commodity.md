@@ -3,15 +3,15 @@ title: "The attention economy is when we treat human attention as a finite commo
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation - Class]]
+	- Smile Indias; [[1. Resource Notes/Interdisciplinary Approaches to Creation & Innovation - Class]]
 	- James Williams
-- **Keywords:** [[permanent notes]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #attention #cognition #capitalism
 - **Relevant Notes:**
-	- [[Everything has a cost]]
-	- [[You have agency over your own attention]]
-	- [[Technology keeps us stuck in a feedback loop with ourselves]]
-	- [[More access does not translate to more engagement]]
+	- [[3. Permanent Notes/Everything has a cost]]
+	- [[3. Permanent Notes/You have agency over your own attention]]
+	- [[3. Permanent Notes/Technology keeps us stuck in a feedback loop with ourselves]]
+	- [[3. Permanent Notes/More access does not translate to more engagement]]
 ## Notes
 - A finite commodity that is managed and capitalized on by a few
 - [Is Our Attention for Sale?](https://www.youtube.com/watch?v=PSaybP1UivQ)

@@ -2,8 +2,8 @@
 title: "Art is the opposite of hype"
 ---
 ## Reference
-- **Source:** [[Anna Andjelic]]; [[The Sociology of Business - Newsletter]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Anna Andjelic]]; [[1. Resource Notes/The Sociology of Business - Newsletter]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #art #culture #sociology #business
 - **Relevant Notes:**
 	- Placeholder

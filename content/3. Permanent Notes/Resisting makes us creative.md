@@ -3,11 +3,11 @@ title: "Resisting makes us creative"
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias, [[Interdisciplinary Approaches to Creation & Innovation - Class]]
-- **Keywords:** [[permanent notes]]
+	- Smile Indias, [[1. Resource Notes/Interdisciplinary Approaches to Creation & Innovation - Class]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #creativity #innovation #mindfulness #society #culture 
 - **Relevant Notes:**
-	- [[The limits of our language are the limits of our world]]
+	- [[3. Permanent Notes/The limits of our language are the limits of our world]]
 ## Notes
 - **By making us more attentive.**
 	- Attentiveness that does not assume that there is something 'new' to be seen

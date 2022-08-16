@@ -2,12 +2,12 @@
 title: "Freedom is being conscious of your constraints"
 ---
 ## Reference
-- **Source:** [[Kernel Learn Track - Resource Notes]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Kernel Learn Track - Resource Notes]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #web3 #crypto #philosophy #personaldevelopment 
 - **Relevant Notes:** 
-	- [[The freedom of no escape]]
-	- [[Freedom from conditioning]]
+	- [[3. Permanent Notes/The freedom of no escape]]
+	- [[3. Permanent Notes/Freedom from conditioning]]
 ## Notes
 + Freedom is defined by its opposite: limitations
 + Freedom = **Awareness + acceptance**

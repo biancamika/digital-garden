@@ -2,17 +2,17 @@
 title: "The State Change Method"
 ---
 ## Reference
-- **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]], [[Wes Kao]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/In Online Ed Content Is No Longer King - Cohorts Are - Essay]], [[Wes Kao]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Interactive processing]]
-	- [[The goal of education is transformation]]
+	- [[3. Permanent Notes/Interactive processing]]
+	- [[3. Permanent Notes/The goal of education is transformation]]
 ## Notes
 > It's a dialogue, not a static lecture
 
 ### How to deliver engaging live lectures on Zoom
 
-![[Pasted image 20210724001843.png]]
+![[images/Pasted image 20210724001843.png]]
 
 + **Monotony causes audiences to tune out. Movement causes audiences to become alert.**
 + **State Change Method:** _Aim for a state change every 3–5 minutes to break up the monotony of a monologue-style lecture. A state change is anything that punctuates an instructor’s monologue and offers a change in pace that causes students to perk up and snap back to attention._
@@ -40,7 +40,7 @@ title: "The State Change Method"
 + When you’re in a small group, the dynamics are different because the tone is conversational.
 + On the other hand, lecturing to a room of 100+ people in Zoom is a different story. The instructor can’t personally jump in to save the conversation anymore. This is why I recommend instructors ==practice teaching to a large enough audience where they can’t just rely on personalized attention to individual students to carry the day.==
 
-![[Pasted image 20210724002339.png]]
+![[images/Pasted image 20210724002339.png]]
 
 + When you lecture for a larger group, the dynamics switch from a conversation to more of a performance. You still want to be conversational, but now you are ==performing for a group.==
 
@@ -48,9 +48,9 @@ title: "The State Change Method"
 
 **1. Vary your pace/style: Fast and slow, loud and quiet.**
 
-![[Pasted image 20210724002445.png]]
+![[images/Pasted image 20210724002445.png]]
 
-**2. Fight the urge to tell. Embrace the [[Socratic method]] and ask instead.**
+**2. Fight the urge to tell. Embrace the [[3. Permanent Notes/Socratic method]] and ask instead.**
 
 **3. Add interactivity. And then add some more.**
 -   small group discussions

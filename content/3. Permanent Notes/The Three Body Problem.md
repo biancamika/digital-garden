@@ -2,8 +2,8 @@
 title: "The Three Body Problem"
 ---
 ## Reference
-- **Source:** [[Yancy Strickler]]; [[The Dark Forest Theory of the Internet - Literature Notes]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Yancy Strickler]]; [[2. Literature Notes/The Dark Forest Theory of the Internet - Literature Notes]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #physics #mechanics
 - **Relevant Notes:**
 ## Notes

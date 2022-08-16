@@ -2,10 +2,10 @@
 title: "Interleaving learning"
 ---
 ## Reference
-- **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Interactive processing]]
+	- [[3. Permanent Notes/Interactive processing]]
 ## Notes
 + where instructors mix different topics, ideas, and activities together during study, forcing students to ==intentionally switch ==between them rather than focusing on a single subject
 + This can result in ==better learning outcomes== for students

@@ -2,12 +2,12 @@
 title: "Digital learning exacerbates and reproduces inequality"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Education lives within a system of domination and liberation]]
-	- [[Design justice]]
-	- [[Design Justice Network Principles]]
+	- [[3. Permanent Notes/Education lives within a system of domination and liberation]]
+	- [[3. Permanent Notes/Design justice]]
+	- [[3. Permanent Notes/Design Justice Network Principles]]
 ## Notes
 + Many of the most visible for-profit coding schools and boot camps are ==expensive, inaccessible, and have dubious placement outcomes.==
 + Digital learning among young people remains ==structured== by race, class, and gender.

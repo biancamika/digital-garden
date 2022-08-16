@@ -2,12 +2,12 @@
 title: "The purpose of capitalism is to build our culture"
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Seth Godin]]; [[1. Resource Notes/This is Marketing - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #culture #economics
 - **Relevant Notes:**
-	- [[Marketers make change]]
-	- [[Brand mood]]
+	- [[3. Permanent Notes/Marketers make change]]
+	- [[3. Permanent Notes/Brand mood]]
 ## Notes
 - >The purpose of our culture isn’t to enable capitalism, even capitalism that pays your bills. The purpose of capitalism is to build our culture.
 - To change a huge culture, start first with a ==small group.==

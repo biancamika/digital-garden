@@ -2,13 +2,13 @@
 title: "Technology keeps up stuck in a feedback loop with ourselves"
 ---
 ## Reference
-- **Source:** [[Anna Wiener]]; [[Uncanny Valley - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Anna Wiener]]; [[1. Resource Notes/Uncanny Valley - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #technology  #attention 
 - **Relevant Notes:**
-	- [[Technology keeps us stuck in a feedback loop with ourselves]]
-	- [[The attention economy is when we treat human attention as a finite commodity]]
-	- [[Waldenponding]]
+	- [[3. Permanent Notes/Technology keeps us stuck in a feedback loop with ourselves]]
+	- [[3. Permanent Notes/The attention economy is when we treat human attention as a finite commodity]]
+	- [[3. Permanent Notes/Waldenponding]]
 ## Notes
 > Everyone I knew was stuck in a feedback loop with themselves. Technology companies stood by, ready to become everyone’s library, memory, personality.
 - The tech industry creates ==consumers== of its leisure and work culture.

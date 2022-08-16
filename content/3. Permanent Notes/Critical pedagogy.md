@@ -2,11 +2,11 @@
 title: "Critical pedagogy"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[The goal of education is transformation]]
-	- [[Popular education]]
+	- [[3. Permanent Notes/The goal of education is transformation]]
+	- [[3. Permanent Notes/Popular education]]
 
 
 ## Notes

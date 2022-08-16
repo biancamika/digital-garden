@@ -2,11 +2,11 @@
 title: "The cult of speed"
 ---
 ## Reference
-- **Source:** [[The McDonaldization of Education - the rise of slow - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/The McDonaldization of Education - the rise of slow - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[McDonaldization]]
-	- [[The Slow movement]]
+	- [[3. Permanent Notes/McDonaldization]]
+	- [[3. Permanent Notes/The Slow movement]]
 ## Notes
 + coined by journalist Carl Honore
 + Fast and slow are shorthand for ==ways of being, or philosophies of life==

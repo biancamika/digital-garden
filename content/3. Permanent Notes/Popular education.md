@@ -2,15 +2,15 @@
 title: "Popular education"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Education lives within a system of domination and liberation]]
-	- [[Problem-based learning]]
-	- [[Praxis]]
-	- [[The goal of education is transformation]]
+	- [[3. Permanent Notes/Education lives within a system of domination and liberation]]
+	- [[3. Permanent Notes/Problem-based learning]]
+	- [[3. Permanent Notes/Praxis]]
+	- [[3. Permanent Notes/The goal of education is transformation]]
 ## Notes
-Pedagogies of [[Design justice]] must be based on this.
+Pedagogies of [[3. Permanent Notes/Design justice]] must be based on this.
 ### What is popular education?
 #### Key Principles
 1. **Education is never neutral:** “it either maintains the current system of domination, or it is designed to liberate people;""

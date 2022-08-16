@@ -2,12 +2,12 @@
 title: "God is an artist"
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[John Mark Comer]]; [[1. Resource Notes/Garden City - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #philosophy #life #religion #art
 - **Relevant Notes:**
-	- [[All useful things should be beautiful]]
-	- [[Consistently approach the universe]]
+	- [[3. Permanent Notes/All useful things should be beautiful]]
+	- [[3. Permanent Notes/Consistently approach the universe]]
 ## Notes
    > God is a lavish, opulent,   extravagant   artist ,   and   creation   is   his   beauty   on   display.
 

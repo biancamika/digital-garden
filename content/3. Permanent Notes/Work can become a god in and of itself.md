@@ -2,12 +2,12 @@
 title: "Work can become a god in and of itself"
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[John Mark Comer]]; [[1. Resource Notes/Garden City - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #philosophy #life #work
 - **Relevant Notes:**
-	- [[Everybody gets to choose what they worship]]
-	- [[Sweet Spot]]
+	- [[3. Permanent Notes/Everybody gets to choose what they worship]]
+	- [[3. Permanent Notes/Sweet Spot]]
 ## Notes
 > My point is that as human beings, we have this slant to look to our work for significance we can only find in God. When we uncouple our work from God, work becomes a sort of god in and of itself.
 

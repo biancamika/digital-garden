@@ -2,12 +2,12 @@
 title: "Grief and resilience live together"
 ---
 ## Reference
-- **Source:** [[Michelle Obama]]; [[Becoming - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Michelle Obama]]; [[1. Resource Notes/Becoming - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #life #philosophy #advice
 - **Relevant Notes:**
-	- [[Frictionless life should not be fetishized]]
-	- [[Everything has a cost]]
+	- [[3. Permanent Notes/Frictionless life should not be fetishized]]
+	- [[3. Permanent Notes/Everything has a cost]]
 ## Notes
 > But what America got that night was a moment of release, a chance to feel its own resilience.
 - how we grow stronger

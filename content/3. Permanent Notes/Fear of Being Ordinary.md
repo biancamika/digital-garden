@@ -2,15 +2,15 @@
 title: "Fear of Being Ordinary"
 ---
 ## Reference
-- **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Venkatesh Rao]]; [[1. Resource Notes/Breaking Smart - Newsletter]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #psychology #people 
 - **Relevant Notes:**
-	- [[Freedom from conditioning]]
-	- [[Identity isn't constructed independently]]
+	- [[3. Permanent Notes/Freedom from conditioning]]
+	- [[3. Permanent Notes/Identity isn't constructed independently]]
 ## Notes
  - FOBO is the opposite of FOMO: Fear of Missing Out. This is exploited by third parties who aim to drown you in information.
- - It is responsible for [[Waldenponding]].
+ - It is responsible for [[3. Permanent Notes/Waldenponding]].
 
 > If FOMO, Fear Of Missing Out, is the basic fear exploited by third parties that want to drown you in information, the basic fear exploited by people telling you to unplug and retreat is ==FOBO: Fear Of Being Ordinary.==
 
@@ -24,7 +24,7 @@ title: "Fear of Being Ordinary"
 
 >  This game is based on the opposite fear to FOMO which I call FOBO. If FOMO is Fear of Missing Out, FOBO is Fear Of Being Ordinary.
 
-- The heart of this is that we are in the Global Social Computer in the Cloud (GSCITC). See [[Breaking Smart - Literature Notes]] for more details.
+- The heart of this is that we are in the Global Social Computer in the Cloud (GSCITC). See [[2. Literature Notes/Breaking Smart - Literature Notes]] for more details.
 	- We just don't want to be another component of the GSCTIC; our efforts aren't recognized even if they contribute to the system
 
 >  This is the heart of FOBO. Fear of Being Ordinary. ==Fear of being just another entangled particle in the GSCITC.== Fear of your ego dissolving into the collective ego. Fear of having "nothing to show" for playing a part, despite it being sustainable.

@@ -2,13 +2,13 @@
 title: "Marketers make change"
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Seth Godin]]; [[1. Resource Notes/This is Marketing - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #marketing
 - **Relevant Notes:**
-	- [[Sonder]]
-	- [[The best way to serve others with our work is to serve the work]]
-	- [[Higher-order skills]]
+	- [[3. Permanent Notes/Sonder]]
+	- [[3. Permanent Notes/The best way to serve others with our work is to serve the work]]
+	- [[3. Permanent Notes/Higher-order skills]]
 ## Notes
 - Marketing can be a form of generosity
 	- >Marketing acts (interesting choice of word, acts) are the generous actions of people who care.

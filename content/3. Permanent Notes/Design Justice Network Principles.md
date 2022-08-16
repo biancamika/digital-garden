@@ -2,14 +2,14 @@
 title: "Design Justice Network Principles"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Teachers are facilitators]]
-	- [[Creativity is power]]
-	- [[Resisting makes us creative]]
-	- [[The best way to serve others with our work is to serve the work]]
-	- [[Design justice]]
+	- [[3. Permanent Notes/Teachers are facilitators]]
+	- [[3. Permanent Notes/Creativity is power]]
+	- [[3. Permanent Notes/Resisting makes us creative]]
+	- [[3. Permanent Notes/The best way to serve others with our work is to serve the work]]
+	- [[3. Permanent Notes/Design justice]]
 ## Notes
 1. “We Use Design to Sustain, Heal, and Empower Our Communities, as Well as to Seek Liberation from Exploitative and Oppressive Systems”
 2. “We Center the Voices of Those Who Are Directly Impacted by the Outcomes of the Design Process”

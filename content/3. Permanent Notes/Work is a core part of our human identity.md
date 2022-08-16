@@ -2,13 +2,13 @@
 title: "Work is a core part of our human identity"
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[John Mark Comer]]; [[1. Resource Notes/Garden City - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #philosophy #life #work
 - **Relevant Notes:**
-	- [[Frictionless life should not be fetishized]]
-	- [[Identity isn't constructed independently]]
-	- [[Primary reflection]]
+	- [[3. Permanent Notes/Frictionless life should not be fetishized]]
+	- [[3. Permanent Notes/Identity isn't constructed independently]]
+	- [[3. Permanent Notes/Primary reflection]]
 ## Notes
 >  Because when we stop working, we lose a part of who we are. 
 

@@ -2,12 +2,12 @@
 title: "interactive processing"
 ---
 ## Reference
-- **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Constructionism]]
-	- [[Interleaving learning]]
-	- [[Teachers are facilitators]]
+	- [[3. Permanent Notes/Constructionism]]
+	- [[3. Permanent Notes/Interleaving learning]]
+	- [[3. Permanent Notes/Teachers are facilitators]]
 ## Notes
 + occurs when “students ==engage in interaction with partners or teammates== over the content".
 + Why is this approach so powerful?

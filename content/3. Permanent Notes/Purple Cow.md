@@ -2,11 +2,11 @@
 title: "Purple Cow"
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Seth Godin]]; [[1. Resource Notes/This is Marketing - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #marketing
 - **Relevant Notes:**
-	- [[Build your own quadrant]]
+	- [[3. Permanent Notes/Build your own quadrant]]
 ## Notes
 - Marketing concept from Seth Godin
 	- >The book presents Godin's personal belief that creative advertising is less effective today because of clutter and advertising avoidance.

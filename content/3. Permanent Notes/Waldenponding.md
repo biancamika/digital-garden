@@ -2,19 +2,19 @@
 title: "Waldenponding"
 ---
 ## Reference
-- **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Venkatesh Rao]]; [[1. Resource Notes/Breaking Smart - Newsletter]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #philosophy #attention #technology
 - **Relevant Notes:**
-	- [[Attention is a zero-sum game]]
-	- [[Technology keeps us stuck in a feedback loop with ourselves]]
-	- [[Everybody gets to choose what they worship]]
-	- [[Identity isn't constructed independently]]
-	- [[The antidote to the ego is awareness]]
+	- [[3. Permanent Notes/Attention is a zero-sum game]]
+	- [[3. Permanent Notes/Technology keeps us stuck in a feedback loop with ourselves]]
+	- [[3. Permanent Notes/Everybody gets to choose what they worship]]
+	- [[3. Permanent Notes/Identity isn't constructed independently]]
+	- [[3. Permanent Notes/The antidote to the ego is awareness]]
 ## Notes
 ### Against Waldenponding 1
 - A philosophy of relating to technology based on Thoreau's Walden Pond experiment. It's basically all about unplugging and retreating from technology. 
-- driven by [[Fear of Being Ordinary]] and ego-attachment
+- driven by [[3. Permanent Notes/Fear of Being Ordinary]] and ego-attachment
 
 > ==philosophy of relating to technology== I call Waldenponding (after ==Thoreau's Walden Pond experiment== on which Walden is based). The crude caricature is "smash your smart phone and go live in a log cabin to reclaim your attention and your life from being hacked by evil social media platforms."
 

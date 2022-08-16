@@ -2,8 +2,8 @@
 title: "Low price is a last resort"
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Seth Godin]]; [[1. Resource Notes/This is Marketing - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #business #pricing 
 - **Relevant Notes:**
 	- Placeholder

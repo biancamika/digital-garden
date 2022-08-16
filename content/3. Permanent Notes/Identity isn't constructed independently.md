@@ -2,14 +2,14 @@
 title: "Identity isn't constructed independently"
 ---
 ## Reference
-- **Source:** [[Lawrence Yeo]]; [[More to That - Blog]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Lawrence Yeo]]; [[1. Resource Notes/More to That - Blog]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #identity #psychology 
 - **Relevant Notes:**
-	- [[Work is a core part of our human identity]]
-	- [[Fear of Being Ordinary]]
-	- [[Primary reflection]]
-	- [[Secondary reflection]]
+	- [[3. Permanent Notes/Work is a core part of our human identity]]
+	- [[3. Permanent Notes/Fear of Being Ordinary]]
+	- [[3. Permanent Notes/Primary reflection]]
+	- [[3. Permanent Notes/Secondary reflection]]
 ## Notes
 -  It's always constructed in relationship to something else that exists alongside you.
 -  Our identities bring together those who are ==similar,== but break apart those who are ==different.==

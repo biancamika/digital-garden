@@ -2,12 +2,12 @@
 title: "Brand mood"
 ---
 ## Reference
-- **Source:** [[Anna Andjelic]]; [[The Sociology of Business - Newsletter]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Anna Andjelic]]; [[1. Resource Notes/The Sociology of Business - Newsletter]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #brand #sociology #culture #business
 - **Relevant Notes:**
-	- [[The purpose of capitalism is to build our culture]]
-	- [[Build your own quadrant]]
+	- [[3. Permanent Notes/The purpose of capitalism is to build our culture]]
+	- [[3. Permanent Notes/Build your own quadrant]]
 ## Notes
  - can simply be defined as a brand's essence, which is captured through both the ==abstract (e.g. values, beliefs) and the concrete (e.g. aesthetics, people)==
  - a brand either has it or it doesn't

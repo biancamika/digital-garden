@@ -2,10 +2,10 @@
 title: "Vocational education"
 ---
 ## Reference
-- **Source:** [[Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Liberal education]]
+	- [[3. Permanent Notes/Liberal education]]
 ## Notes
 + Manifested in the form of bootcamps and credentials
 + Helps students:

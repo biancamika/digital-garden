@@ -3,12 +3,12 @@ title: "Doing nothing is active listening"
 ---
 ## Reference
 - **Source:** 
-	- Smile Indias; [[Interdisciplinary Approaches to Creation & Innovation - Class]]
+	- Smile Indias; [[1. Resource Notes/Interdisciplinary Approaches to Creation & Innovation - Class]]
 	- [[Jenny Odell]], [[How to Do Nothing (Book)]]
-- **Keywords:** [[permanent notes]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #personaldevelopment #mindfulness 
 - **Relevant Notes:**
-	- [[Doing nothing is self-care]]
+	- [[3. Permanent Notes/Doing nothing is self-care]]
 ## Notes
 > _“I hear, see, and smell things in a world where others also hear, see, and smell me. And it takes a break to remember that: a break to do nothing, to just listen, to remember in the deepest sense ==what, when, and where we are.==
 > 

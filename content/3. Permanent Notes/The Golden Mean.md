@@ -2,12 +2,12 @@
 title: "The Golden Mean"
 ---
 ## Reference
-- **Source:** [[Patricia Mou]]; [[Wellness Wisdom - Newsletter]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Patricia Mou]]; [[1. Resource Notes/Wellness Wisdom - Newsletter]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #personaldevelopment #philosophy 
 - **Relevant Notes:**
-	- [[Sweet Spot]]
-	- [[The antidote to the ego is awareness]]
+	- [[3. Permanent Notes/Sweet Spot]]
+	- [[3. Permanent Notes/The antidote to the ego is awareness]]
 ## Notes
 - A sliding scale for determining what traits of character are virtuous. 
 - By Aristotle

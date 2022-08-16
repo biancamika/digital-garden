@@ -2,15 +2,15 @@
 title: "Freedom from conditioning"
 ---
 ## Reference
-- **Source:** [[Lawrence Yeo]]; [[More to That - Blog]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Lawrence Yeo]]; [[1. Resource Notes/More to That - Blog]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #sociology #culture #people 
 - **Relevant Notes:**
-	- [[sick systems]]
-	- [[The antidote to the ego is awareness]]
-	- [[The alternative to freedom is unconsciousness]]
-	- [[Fear of Being Ordinary]]
-	- [[Primary reflection]]
+	- [[3. Permanent Notes/sick systems]]
+	- [[3. Permanent Notes/The antidote to the ego is awareness]]
+	- [[3. Permanent Notes/The alternative to freedom is unconsciousness]]
+	- [[3. Permanent Notes/Fear of Being Ordinary]]
+	- [[3. Permanent Notes/Primary reflection]]
 ## Notes
 - Defined by Krishnamurti, Indian speaker and writer
 - Letting go of all of ==society's influences== that have forced us into certain roles

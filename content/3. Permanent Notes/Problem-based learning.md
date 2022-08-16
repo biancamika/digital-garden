@@ -2,12 +2,12 @@
 title: "Problem-based learning"
 ---
 ## Reference
-- **Source:** [[Design Justice - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/Design Justice - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 	
-	- [[Constructionism]]
-	- [[Popular education]]
-	- [[Teachers are facilitators]]
+	- [[3. Permanent Notes/Constructionism]]
+	- [[3. Permanent Notes/Popular education]]
+	- [[3. Permanent Notes/Teachers are facilitators]]
 ## Notes
 ### What is problem-based learning?
 From [Wikipedia](https://en.wikipedia.org/wiki/Problem-based_learning):
@@ -19,4 +19,4 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Problem-based_learning):
 	+ the task is appropriate to the learner's level of understaning and ability
 	+ the learner must reflect on what is being learned and how they learned it
 	+ the educator encourages the learner to test their ideas in various contexts
-+ **[[Teachers are facilitators]]:** Teachers act as facilitators to help students achieve their own learning goals
++ **[[3. Permanent Notes/Teachers are facilitators]]:** Teachers act as facilitators to help students achieve their own learning goals

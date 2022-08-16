@@ -2,12 +2,12 @@
 title: "The best way to serve others with our work is to serve the work"
 ---
 ## Reference
-- **Source:** [[John Mark Comer]]; [[Garden City - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[John Mark Comer]]; [[1. Resource Notes/Garden City - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #philosophy #life #work
 - **Relevant Notes:**
-	- [[We serve others through our emotional labor]]
-	- [[Marketers make change]]
+	- [[3. Permanent Notes/We serve others through our emotional labor]]
+	- [[3. Permanent Notes/Marketers make change]]
 ## Notes
 > A genuine, authentic love of excellence isn’t rooted in greed or narcissism or materialism — that’s dualism talking.   It’s   rooted   in   love ,   for   God   and   others.   A   desire   to   serve   God   and   his   world   well. 
     

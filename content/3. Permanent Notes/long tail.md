@@ -2,12 +2,12 @@
 title: "long tail"
 ---
 ## Reference
-- **Source:** [[Seth Godin]]; [[This is Marketing - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Seth Godin]]; [[1. Resource Notes/This is Marketing - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #marketing
 - **Relevant Notes:**
-	- [[Build your own quadrant]]
-	- [[short head]]
+	- [[3. Permanent Notes/Build your own quadrant]]
+	- [[3. Permanent Notes/short head]]
 ## Notes
 - **Definition:**  the portion of the distribution having many occurrences far from the "head" or central part of the distribution.
 - a business strategy that allows companies to realize significant profits by ==selling low volumes of hard-to-find items to many customers,== instead of only selling large volumes of a reduced number of popular items.

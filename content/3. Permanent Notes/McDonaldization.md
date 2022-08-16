@@ -2,11 +2,11 @@
 title: "McDonaldization"
 ---
 ## Reference
-- **Source:** [[The McDonaldization of Education - the rise of slow - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/The McDonaldization of Education - the rise of slow - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[The cult of speed]]
-	- [[The Slow movement]]
+	- [[3. Permanent Notes/The cult of speed]]
+	- [[3. Permanent Notes/The Slow movement]]
 ## Notes
 + coined by George Ritzer
 + also known as "need for speed"

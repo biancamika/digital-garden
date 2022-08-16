@@ -2,8 +2,8 @@
 title: "Ideas are just a multiplier of execution"
 ---
 ## Reference
-- **Source:** [[The Workshopper Playbook - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/The Workshopper Playbook - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
 	- 
 ## Notes

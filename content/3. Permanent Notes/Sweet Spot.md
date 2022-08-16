@@ -2,14 +2,14 @@
 title: "Sweet Spot"
 ---
 ## Reference
-- **Source:** [[Patricia Mou]]; [[Wellness Wisdom - Newsletter]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Patricia Mou]]; [[1. Resource Notes/Wellness Wisdom - Newsletter]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #personaldevelopment 
 - **Relevant Notes:**
-	- [[Work can become a god in and of itself]]
-	- [[Publicity is costly]]
-	- [[The Golden Mean]]
-	- [[The antidote to the ego is awareness]]
+	- [[3. Permanent Notes/Work can become a god in and of itself]]
+	- [[3. Permanent Notes/Publicity is costly]]
+	- [[3. Permanent Notes/The Golden Mean]]
+	- [[3. Permanent Notes/The antidote to the ego is awareness]]
 ## Notes
 - Term by Mr. Money Moustache 
 - basically the ==optimal== point to be in life; in between a shortage and a surplus

@@ -2,11 +2,11 @@
 title: "Salve corpus amanti"
 ---
 ## Reference
-- **Source:** [[Alan Moore]]; [[Do Design - Book]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[Alan Moore]]; [[1. Resource Notes/Do Design - Book]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 	- #philosophy #mindfulness #attention
 - **Relevant Notes:**
-	- [[Consistently approach the universe]]
+	- [[3. Permanent Notes/Consistently approach the universe]]
 ## Notes
 - **Meaning:** To save the lover's body
 - When you see with your eyes, but you experience it emotionally -- feeling at one with it -- at the same time 

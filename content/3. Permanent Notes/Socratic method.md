@@ -2,12 +2,12 @@
 title: "Socratic method"
 ---
 ## Reference
-- **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
-- **Keywords:** [[permanent notes]]
+- **Source:** [[1. Resource Notes/In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
+- **Keywords:** [[3. Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[The State Change Method]]
-	- [[Interactive processing]]
-	- [[Critical thinking and skill development are not mutually exclusive]]
+	- [[3. Permanent Notes/The State Change Method]]
+	- [[3. Permanent Notes/Interactive processing]]
+	- [[3. Permanent Notes/Critical thinking and skill development are not mutually exclusive]]
 ## Notes
 > Instead of answering their question, say this,
 
