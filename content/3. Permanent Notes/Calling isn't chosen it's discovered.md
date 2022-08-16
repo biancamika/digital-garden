@@ -1,5 +1,5 @@
 ---
-title: "Calling isn't chosen; it's discovered"
+title: "Calling isn't chosen it's discovered"
 ---
 ## Reference
 - **Source:** [[John Mark Comer]]; [[1. Resource Notes/Garden City - Book]]
