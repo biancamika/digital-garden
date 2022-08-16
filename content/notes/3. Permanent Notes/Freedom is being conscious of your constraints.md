@@ -1,5 +1,5 @@
 ---
-title: Freedom is being conscious of your constraints
+title: "Freedom is being conscious of your constraints"
 ---
 ## Reference
 - **Source:** [[Kernel Learn Track - Resource Notes]]

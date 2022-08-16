@@ -1,5 +1,5 @@
 ---
-title: KERNEL Learn Track - Resource Notes
+title: "Kernel Learn Track - Resource Notes"
 ---
 ## Reference
 - **Source:** [[Kernel]]

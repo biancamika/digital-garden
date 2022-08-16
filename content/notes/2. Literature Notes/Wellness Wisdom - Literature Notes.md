@@ -1,5 +1,5 @@
 ---
-title: Wellness Wisdom - Literature Notes
+title: "Wellness Wisdom - Literature Notes"
 ---
 ## Notes
 See [[Wellness Wisdom - Newsletter]]

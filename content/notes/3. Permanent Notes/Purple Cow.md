@@ -1,5 +1,5 @@
 ---
-title: Purple Cow
+title: "Purple Cow"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

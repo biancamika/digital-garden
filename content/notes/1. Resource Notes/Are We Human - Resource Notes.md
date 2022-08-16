@@ -1,5 +1,5 @@
 ---
-title: Are We Human - Resource Notes
+title: "Are We Human - Resource Notes"
 ---
 ## Information
 - **Source:** [[Beatriz Colomina]]; [[Mark Wigley]]

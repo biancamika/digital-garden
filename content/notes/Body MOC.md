@@ -1,5 +1,5 @@
 ---
-title: Body MOC
+title: "Body MOC"
 ---
 Everything to do with fitness, nutrition, dance, embodiment, etc.
 **Dance Notes:**

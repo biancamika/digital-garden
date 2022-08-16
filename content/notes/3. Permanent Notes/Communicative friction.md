@@ -1,5 +1,5 @@
 ---
-title: Communicative friction
+title: "Communicative friction"
 ---
 ## Reference
 - **Source:** [[Jasmine Sun]]; [[Half-Baked Futures - Newsletter]]

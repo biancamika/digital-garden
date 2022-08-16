@@ -1,5 +1,5 @@
 ---
-title: Digital learning exacerbates and reproduces inequality
+title: "Digital learning exacerbates and reproduces inequality"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

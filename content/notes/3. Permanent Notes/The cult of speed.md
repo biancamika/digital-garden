@@ -1,5 +1,5 @@
 ---
-title: The cult of speed
+title: "The cult of speed"
 ---
 ## Reference
 - **Source:** [[The McDonaldization of Education - the rise of slow - Essay]]

@@ -1,5 +1,5 @@
 ---
-title: The Workshopper Playbook - Book
+title: "The Workshopper Playbook - Book"
 ---
 ## Information
 - **Source:** [[Jonatahan Courtney]]

@@ -1,8 +1,8 @@
 ---
-title: Surrogate activities
+title: "Surrogate activities"
 ---
 ## Reference
-- **Source:** [[Nadia Eghbal]]; [[Monomythical (Newsletter)]]
+- **Source:** [[Nadia Eghbal]]; [[notes/1. Resource Notes/Monomythical - Newsletter]]
 - **Keywords:** [[permanent notes]]
 	- #creativity #psychology
 - **Relevant Notes:**

@@ -1,5 +1,5 @@
 ---
-title: Decolonizing design
+title: "Decolonizing design"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

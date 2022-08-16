@@ -1,5 +1,5 @@
 ---
-title: Udacitys Sebastian Thrun Godfather Of Free Online Education Changes - Essay
+title: "Udacitys Sebastian Thrun Godfather Of Free Online Education Changes - Essay"
 ---
 ## Information
 - **Source:** 

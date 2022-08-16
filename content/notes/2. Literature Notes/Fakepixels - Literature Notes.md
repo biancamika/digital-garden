@@ -1,5 +1,5 @@
 ---
-title: Fakepixels - Literature Notes
+title: "Fakepixels - Literature Notes"
 ---
 ## Notes
 See [[Fakepixels - Newsletter]]

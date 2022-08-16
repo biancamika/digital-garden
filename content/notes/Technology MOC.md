@@ -1,5 +1,5 @@
 ---
-title: Technology MOC
+title: "Technology MOC"
 ---
 Everything techy
 

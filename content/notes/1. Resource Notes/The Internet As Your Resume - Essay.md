@@ -1,5 +1,5 @@
 ---
-title: The Internet As Your Resume - Essay
+title: "The Internet As Your Resume - Essay"
 ---
 ## Information
 - **Source:** [[Rushil]]; https://www.rushil2cents.com/the-internet-as-your-resume/

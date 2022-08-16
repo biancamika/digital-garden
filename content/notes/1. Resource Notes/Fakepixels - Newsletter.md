@@ -1,5 +1,5 @@
 ---
-title: Fakepixels - Newsletter
+title: "Fakepixels - Newsletter"
 ---
 ## Information
 - **Source:** [[Tina He]]

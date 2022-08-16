@@ -1,5 +1,5 @@
 ---
-title: Grief and resilience live together
+title: "Grief and resilience live together"
 ---
 ## Reference
 - **Source:** [[Michelle Obama]]; [[Becoming - Book]]

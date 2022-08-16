@@ -1,5 +1,5 @@
 ---
-title: Brand mood
+title: "Brand mood"
 ---
 ## Reference
 - **Source:** [[Anna Andjelic]]; [[The Sociology of Business - Newsletter]]

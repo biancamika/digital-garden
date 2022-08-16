@@ -1,5 +1,5 @@
 ---
-title: Kernel Learn Track - Module 1
+title: "Kernel Learn Track - Module 1"
 ---
 See [[Kernel Learn Track - Resource Notes]]
 ## Ethereum's History and State

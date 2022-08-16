@@ -1,5 +1,5 @@
 ---
-title: Words MOC
+title: "Words MOC"
 ---
 Yay! New ways to explain things
 + [[Catachresis]]

@@ -1,5 +1,5 @@
 ---
-title: The Dirty Little Secrets About The Worst Coding Bootcamps Out There - Essay
+title: "The Dirty Little Secrets About The Worst Coding Bootcamps Out There - Essay"
 ---
 ## Information
 - **Source:** 

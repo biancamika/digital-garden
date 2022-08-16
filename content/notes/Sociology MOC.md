@@ -1,5 +1,5 @@
 ---
-title: Sociology MOC
+title: "Sociology MOC"
 ---
 Everything to do with people and how they socialize
 

@@ -1,5 +1,5 @@
 ---
-title: trauma bonding
+title: "trauma bonding"
 ---
 ## Reference
 - **Source:** [[Anna Wiener]]; [[Uncanny Valley - Book]]

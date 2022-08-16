@@ -1,5 +1,5 @@
 ---
-title: Attention is a zero-sum game
+title: "Attention is a zero-sum game"
 ---
 ## Reference
 - **Source:** [[Lawrence Yeo]]; [[More to That - Blog]]

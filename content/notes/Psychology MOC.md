@@ -1,5 +1,5 @@
 ---
-title: Psychology MOC
+title: "Psychology MOC"
 ---
 inside the enigma that is the human mind
 + [[Everyone always acts in accordance with their internal narratives]]

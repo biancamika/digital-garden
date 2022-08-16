@@ -1,5 +1,5 @@
 ---
-title: Mindfulness MOC
+title: "Mindfulness MOC"
 ---
 being present again
 + [[Deep Listening]]

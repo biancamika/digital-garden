@@ -1,5 +1,5 @@
 ---
-title: The Dark Forest Theory of the Internet - Literature Notes
+title: "The Dark Forest Theory of the Internet - Literature Notes"
 ---
 ##  Notes
 See [[Yancy Strickler]]

@@ -1,5 +1,5 @@
 ---
-title: Deschooling Society - Book
+title: "Deschooling Society - Book"
 ---
 ## Information
 - **Source:** [[Ivan Illich]]

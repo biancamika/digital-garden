@@ -1,5 +1,5 @@
 ---
-title: The Minecraft Generation - Essay
+title: "The Minecraft Generation - Essay"
 ---
 ## Information
 - **Source:** [[Clive Thompson]]

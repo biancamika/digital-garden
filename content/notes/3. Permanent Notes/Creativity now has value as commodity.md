@@ -1,5 +1,5 @@
 ---
-title: Creativity now has value as a commodity
+title: "Creativity now has value as a commodity"
 ---
 ## Reference
 - **Source:** 

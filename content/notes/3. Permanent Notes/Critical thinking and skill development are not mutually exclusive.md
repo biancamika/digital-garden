@@ -1,5 +1,5 @@
 ---
-title: Critical thinking and skill development are not mutually exclusive
+title: "Critical thinking and skill development are not mutually exclusive"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

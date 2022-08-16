@@ -1,5 +1,5 @@
 ---
-title: The limits of our language are the limits of our world
+title: "The limits of our language are the limits of our world"
 ---
 ## Reference
 - **Source:** [[Alan Moore]]; [[Do Design - Book]]

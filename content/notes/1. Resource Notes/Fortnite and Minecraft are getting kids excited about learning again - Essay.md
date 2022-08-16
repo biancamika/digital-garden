@@ -1,5 +1,5 @@
 ---
-title: Fortnite and Minecraft are getting kids excited about learning again - Essay
+title: "Fortnite and Minecraft are getting kids excited about learning again - Essay"
 ---
 ## Information
 - **Source:** [[Greg Toppo]]; [‘Fortnite’ and ‘Minecraft’ are getting kids excited about learning again](https://www.fastcompany.com/90666530/fortnite-minecraft-education "‘Fortnite’ and ‘Minecraft’ are getting kids excited about learning again")

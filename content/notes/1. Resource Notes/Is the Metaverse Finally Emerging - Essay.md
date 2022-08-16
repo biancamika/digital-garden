@@ -1,5 +1,5 @@
 ---
-title: Is the Metaverse Finally Emerging - Essay
+title: "Is the Metaverse Finally Emerging - Essay"
 ---
 ## Information
 - **Source:** [[Ray Schroeder]]; https://www.insidehighered.com/digital-learning/blogs/online-trending-now/metaverse-finally-emerging

@@ -1,5 +1,5 @@
 ---
-title: Design Justice - Literature Notes
+title: "Design Justice - Literature Notes"
 ---
 See [[Design Justice - Book]]
 #literaturenotes 

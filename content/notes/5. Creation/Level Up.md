@@ -1,5 +1,5 @@
 ---
-title: Level Up
+title: "Level Up"
 ---
 ![Educational Metaverse](https://media.wired.com/photos/617af404123f968d359c5ec4/master/pass/Gear-Meta-Education-1.gif)
 ## Sources

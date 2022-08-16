@@ -1,9 +1,5 @@
 ---
-title: Interdisciplinary Approaches to Creation & Innovation - Class
----
----
-See [[020 School MOC]]
-
+title: "Interdisciplinary Approaches to Creation & Innovation - Class"
 ---
 
 ## Information

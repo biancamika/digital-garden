@@ -1,5 +1,5 @@
 ---
-title: Education lives within a system of domination and liberation
+title: "Education lives within a system of domination and liberation"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

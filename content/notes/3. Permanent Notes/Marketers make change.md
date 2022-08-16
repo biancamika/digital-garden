@@ -1,5 +1,5 @@
 ---
-title: Marketers make change
+title: "Marketers make change"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

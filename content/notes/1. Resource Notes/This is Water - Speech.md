@@ -1,5 +1,5 @@
 ---
-title: This is Water - Speech
+title: "This is Water - Speech"
 ---
 ## Information
 - **Source:** [[David Foster Wallace]]

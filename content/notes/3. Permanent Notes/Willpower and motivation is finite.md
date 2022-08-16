@@ -1,5 +1,5 @@
 ---
-title: Willpower and motivation is finite
+title: "Willpower and motivation is finite"
 ---
 ## Reference
 - **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]

@@ -1,5 +1,5 @@
 ---
-title: Rehub Training Notes
+title: "Rehub Training Notes"
 ---
 **Plies**
 + STEP into first position, don't force the rotation

@@ -1,5 +1,5 @@
 ---
-title: Resisting Distance Learning - Essay
+title: "Resisting Distance Learning - Essay"
 ---
 ## Information
 - **Source:** 

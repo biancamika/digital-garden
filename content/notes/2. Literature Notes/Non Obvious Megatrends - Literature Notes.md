@@ -1,5 +1,5 @@
 ---
-title: Non Obvious Megatrends - Literature Notes
+title: "Non Obvious Megatrends - Literature Notes"
 ---
 ## Notes
 See [[Non Obvious Megatrends - Book]]

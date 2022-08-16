@@ -1,6 +1,6 @@
 ---
 created: 2021-07-09T00:07:42+08:00
-title: A Pig Was Once Killed in Our Garage - Book
+title: "A Pig Was Once Killed in Our Garage - Book"
 modified: 2021-07-09T01:23:44+08:00
 ---
 ## Information

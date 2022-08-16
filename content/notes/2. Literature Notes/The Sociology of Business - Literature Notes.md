@@ -1,5 +1,5 @@
 ---
-title: The Sociology of Business - Literature Notes
+title: "The Sociology of Business - Literature Notes"
 ---
 ## Notes
 See [[The Sociology of Business - Newsletter]]

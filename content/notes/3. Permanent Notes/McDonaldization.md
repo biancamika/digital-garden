@@ -1,5 +1,5 @@
 ---
-title: McDonaldization
+title: "McDonaldization"
 ---
 ## Reference
 - **Source:** [[The McDonaldization of Education - the rise of slow - Essay]]

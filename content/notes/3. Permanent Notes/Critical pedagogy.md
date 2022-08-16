@@ -1,5 +1,5 @@
 ---
-title: Critical pedagogy
+title: "Critical pedagogy"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

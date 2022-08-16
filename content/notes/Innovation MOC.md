@@ -1,5 +1,5 @@
 ---
-title: Innovation MOC
+title: "Innovation MOC"
 ---
 innovating the future or whatever
 

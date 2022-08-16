@@ -1,5 +1,5 @@
 ---
-title: A Digtial Yggdrasil - Education as a Public Good - Proposal
+title: "A Digtial Yggdrasil - Education as a Public Good - Proposal"
 ---
 ## Information
 - **Source:** [[Qing Ze]]

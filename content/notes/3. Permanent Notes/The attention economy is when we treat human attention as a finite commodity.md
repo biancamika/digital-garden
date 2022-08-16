@@ -1,5 +1,5 @@
 ---
-title: The attention economy is when we treat human attention as a finite commodity
+title: "The attention economy is when we treat human attention as a finite commodity"
 ---
 ## Reference
 - **Source:** 

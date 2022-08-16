@@ -1,5 +1,5 @@
 ---
-title: Business MOC
+title: "Business MOC"
 ---
 eVeRyOne iS aN EnTrEpReNeUr
 + [[Art is the opposite of hype]]

@@ -1,5 +1,5 @@
 ---
-title: Monomythical - Newsletter
+title: "Monomythical - Newsletter"
 ---
 ## Information
 - **Source:** [[Nadia Eghbal]]

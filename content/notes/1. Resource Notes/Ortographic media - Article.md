@@ -1,5 +1,5 @@
 ---
-title: Ortographic Media - Article
+title: "Ortographic Media - Article"
 ---
 ## Information
 - **Source:** [[Robin Sloan]]

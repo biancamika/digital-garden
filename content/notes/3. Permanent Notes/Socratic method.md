@@ -1,5 +1,5 @@
 ---
-title: Socratic method
+title: "Socratic method"
 ---
 ## Reference
 - **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]

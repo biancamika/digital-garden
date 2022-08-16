@@ -1,5 +1,5 @@
 ---
-title: The Rise and Fall of Internet Art Communities - Essay
+title: "The Rise and Fall of Internet Art Communities - Essay"
 ---
 ## Information
 - **Source:** [[Kelsey Ables]]

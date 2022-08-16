@@ -1,5 +1,5 @@
 ---
-title: The case study factory - Essay
+title: "The case study factory - Essay"
 ---
 ## Information
 - **Source:** UXDesign.cc

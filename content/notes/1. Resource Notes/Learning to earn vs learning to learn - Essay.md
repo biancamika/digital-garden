@@ -1,5 +1,5 @@
 ---
-title: Learning to earn vs learning to learn - Essay
+title: "Learning to earn vs learning to learn - Essay"
 ---
 ## Information
 - **Source:** [[EdMuse]]

@@ -1,5 +1,5 @@
 ---
-title: Wellness Wisdom - Newsletter
+title: "Wellness Wisdom - Newsletter"
 ---
 ## Information
 - **Source:** [[Patricia Mou]]

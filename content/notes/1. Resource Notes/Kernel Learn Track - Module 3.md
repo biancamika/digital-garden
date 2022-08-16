@@ -1,5 +1,5 @@
 ---
-title: Kernel Learn Track - Module 3
+title: "Kernel Learn Track - Module 3"
 ---
 ## Take Back the Web
 + Why did the initial visions for the world wide web not work out quite as their inventors intended? It seems that it boils down to ==the incentives== for building it.

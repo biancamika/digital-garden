@@ -1,5 +1,5 @@
 ---
-title: Gamification vs Pointsification - Essay
+title: "Gamification vs Pointsification - Essay"
 ---
 ## Information
 - **Source:** [[Ana Lorena Fabrega]]; https://afabrega.com/my-blog/gamification-vs-pointsification 

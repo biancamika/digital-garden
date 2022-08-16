@@ -1,5 +1,5 @@
 ---
-title: The McDonaldization of Education - the rise of slow - Essay
+title: "The McDonaldization of Education - the rise of slow - Essay"
 ---
 ## Information
 - **Source:** [[Shelley Wright]]

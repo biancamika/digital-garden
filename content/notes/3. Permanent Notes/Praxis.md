@@ -1,5 +1,5 @@
 ---
-title: Praxis
+title: "Praxis"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

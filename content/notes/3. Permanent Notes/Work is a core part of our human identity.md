@@ -1,5 +1,5 @@
 ---
-title: Work is a core part of our human identity
+title: "Work is a core part of our human identity"
 ---
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City - Book]]

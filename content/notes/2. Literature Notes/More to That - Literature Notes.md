@@ -1,5 +1,5 @@
 ---
-title: More to That - Literature Notes
+title: "More to That - Literature Notes"
 ---
 ## Notes
 #literaturenotes 

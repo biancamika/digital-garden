@@ -1,6 +1,6 @@
 ---
 created: 2021-07-09T16:33:53+08:00
-title: Design Justice - Book
+title: "Design Justice - Book"
 modified: 2021-07-09T16:43:32+08:00
 ---
 ## Information 

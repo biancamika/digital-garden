@@ -1,5 +1,5 @@
 ---
-title: The Sociology of Business - Newsletter
+title: "The Sociology of Business - Newsletter"
 ---
 ## Information
 - **Source:** [[Anna Andjelic]]

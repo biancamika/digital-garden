@@ -1,5 +1,5 @@
 ---
-title: Kernel Learn Track - Module 4
+title: "Kernel Learn Track - Module 4"
 ---
 ## Internet Age Institutions
 + [Chesterton's Fence](https://fs.blog/2020/03/chestertons-fence/) story: don't break down barriers the function of which you do not fully understand. 

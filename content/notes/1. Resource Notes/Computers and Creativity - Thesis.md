@@ -1,5 +1,5 @@
 ---
-title: Computers and Creativity - Thesis
+title: "Computers and Creativity - Thesis"
 ---
 ## Information
 - **Source:** [[Molly Mielke]]; https://www.mollymielke.com/cc#mold

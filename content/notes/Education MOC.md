@@ -1,5 +1,5 @@
 ---
-title: Education MOC
+title: "Education MOC"
 ---
 Passion and purpose!
 Will tackle  metalearning, edtech, systems surrounding education, etc.

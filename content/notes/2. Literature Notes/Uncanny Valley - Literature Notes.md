@@ -1,5 +1,5 @@
 ---
-title: Uncanny Valley - Literature Notes
+title: "Uncanny Valley - Literature Notes"
 ---
 ## Notes
 #literaturenotes 

@@ -1,5 +1,5 @@
 ---
-title: In Online Ed Content Is No Longer King - Cohorts Are - Essay
+title: "In Online Ed Content Is No Longer King - Cohorts Are - Essay"
 ---
 ## Information
 - **Source:** [[Wes Kao]]

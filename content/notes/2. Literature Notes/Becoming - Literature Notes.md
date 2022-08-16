@@ -1,5 +1,5 @@
 ---
-title: Becoming - Literature Notes
+title: "Becoming - Literature Notes"
 ---
 ## Notes
 #literaturenotes 

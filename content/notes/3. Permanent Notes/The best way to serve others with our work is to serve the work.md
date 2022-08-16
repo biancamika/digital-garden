@@ -1,5 +1,5 @@
 ---
-title: The best way to serve others with our work is to "serve the work"
+title: "The best way to serve others with our work is to serve the work"
 ---
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City - Book]]

@@ -1,5 +1,5 @@
 ---
-title: On Digital Gardening
+title: "On Digital Gardening"
 ---
 ## Notes
 From my Are.na channels: [Digital Gardens](https://www.are.na/bianca-aguilar/digital-gardens-dzctygsih6y) and [Tools for Thought](https://www.are.na/bianca-aguilar/tools-for-thought-w7et3bbvndy)

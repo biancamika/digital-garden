@@ -1,5 +1,5 @@
 ---
-title: Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay
+title: "Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay"
 ---
 ## Information
 - **Source:** [[Mind Apivessa]]

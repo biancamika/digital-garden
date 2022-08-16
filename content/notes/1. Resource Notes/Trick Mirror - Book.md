@@ -1,5 +1,5 @@
 ---
-title: Trick Mirror - Book
+title: "Trick Mirror - Book"
 ---
 #unfinished
 ## Information

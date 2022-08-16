@@ -1,5 +1,5 @@
 ---
-title: Attention MOC
+title: "Attention MOC"
 ---
 Our scarcest resource
 + [[Attention is a zero-sum game]]

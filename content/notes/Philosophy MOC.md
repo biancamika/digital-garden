@@ -1,5 +1,5 @@
 ---
-title: Philosophy MOC
+title: "Philosophy MOC"
 ---
 Things I generally believe in? Need to learn more about philosophy lol
 **Permanent Notes:**

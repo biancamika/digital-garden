@@ -1,5 +1,5 @@
 ---
-title: Why the Metaverse Matters - Essay
+title: "Why the Metaverse Matters - Essay"
 ---
 ## Information
 - **Source:** [[Philip Wang]]; https://www.gather.town/post/why-the-metaverse-matters

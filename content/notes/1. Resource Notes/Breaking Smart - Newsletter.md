@@ -1,5 +1,5 @@
 ---
-title: Breaking Smart - Newsletter
+title: "Breaking Smart - Newsletter"
 ---
 ## Information
 - **Source:** [[Venkatesh Rao]]

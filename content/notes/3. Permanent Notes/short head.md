@@ -1,5 +1,5 @@
 ---
-title: short head
+title: "short head"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

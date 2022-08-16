@@ -1,5 +1,5 @@
 ---
-title: Garden City - Literature Notes
+title: "Garden City - Literature Notes"
 ---
 ## Notes
 #literaturenotes 

@@ -1,5 +1,5 @@
 ---
-title: Check Your Pulse (Newsletter)
+title: "Check Your Pulse (Newsletter)"
 ---
 ## Information
 - **Source:** [[Sari Azout]]

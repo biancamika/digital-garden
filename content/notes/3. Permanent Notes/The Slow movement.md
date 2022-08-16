@@ -1,5 +1,5 @@
 ---
-title: The Slow movement
+title: "The Slow movement"
 ---
 ## Reference
 - **Source:** [[The McDonaldization of Education - the rise of slow - Essay]]

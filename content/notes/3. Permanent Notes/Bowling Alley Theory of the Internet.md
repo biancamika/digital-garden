@@ -1,5 +1,5 @@
 ---
-title: Bowling Alley Theory of the Internet
+title: "Bowling Alley Theory of the Internet"
 ---
 ## Reference
 - **Source:** [[Yancy Strickler]]; [[The Dark Forest Theory of the Internet - Literature Notes]]

@@ -1,5 +1,5 @@
 ---
-title: Consistently approach the universe
+title: "Consistently approach the universe"
 ---
 ## Reference
 - **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]

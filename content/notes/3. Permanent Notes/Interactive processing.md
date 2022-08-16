@@ -1,5 +1,5 @@
 ---
-title: interactive processing
+title: "interactive processing"
 ---
 ## Reference
 - **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]

@@ -1,5 +1,5 @@
 ---
-title: Garden City - Book
+title: "Garden City - Book"
 ---
 ## Information
 - **Source:** [[John Mark Comer]]

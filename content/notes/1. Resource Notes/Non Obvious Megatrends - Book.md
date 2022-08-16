@@ -1,5 +1,5 @@
 ---
-title: Non Obvious Megatrends - Book
+title: "Non Obvious Megatrends - Book"
 ---
 ## Information
 - **Source:** [[Rohit Bhargava]]

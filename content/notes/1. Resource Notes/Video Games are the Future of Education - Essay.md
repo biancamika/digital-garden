@@ -1,5 +1,5 @@
 ---
-title: Video Games are the Future of Education - Essay
+title: "Video Games are the Future of Education - Essay"
 ---
 ## Information
 - **Source:** [[Nabeel Querehesi]]; https://nabeelqu.co/education

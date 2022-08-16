@@ -1,5 +1,5 @@
 ---
-title: Design Justice Network Principles
+title: "Design Justice Network Principles"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

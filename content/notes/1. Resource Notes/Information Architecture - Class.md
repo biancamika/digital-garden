@@ -1,11 +1,6 @@
 ---
-title: Information Architecture - Class
+title: "Information Architecture - Class"
 ---
----
-See [[020 School MOC]] 
-
----
-
 ## Information
 - **Tags:** #design 
 

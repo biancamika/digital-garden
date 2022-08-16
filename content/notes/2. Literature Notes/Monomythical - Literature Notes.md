@@ -1,9 +1,9 @@
 ---
-title: Monomythical - Literature Notes
+title: "Monomythical - Literature Notes"
 ---
 ## Notes
 #literaturenotes 
-See [[Monomythical (Newsletter)]]
+See [[notes/1. Resource Notes/Monomythical - Newsletter]]
 ### 24: Monasteries
 - [[Surrogate activities]] are unsatisfying hobbies because of working towards superficial goals. Term from Ted Kaczynski.
 > We're so obsessively focused on getting through a normal day-to-day that we can't even see how much we've lost. Even now, I'm typing this while trying to figure out which daybed to order for my living room and whether to enroll my new cat in kitten kindergarten. Kaczynski would call these =="surrogate activities": hobbies that work toward artificial goals, but are ultimately unsatisfying.==

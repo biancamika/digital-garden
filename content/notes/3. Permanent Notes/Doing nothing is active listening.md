@@ -1,5 +1,5 @@
 ---
-title: Doing nothing is active listening
+title: "Doing nothing is active listening"
 ---
 ## Reference
 - **Source:** 

@@ -1,5 +1,5 @@
 ---
-title: Rosieland - Newsletter
+title: "Rosieland - Newsletter"
 ---
 ## Information
 - **Source:** [[Rosie Sherry]]

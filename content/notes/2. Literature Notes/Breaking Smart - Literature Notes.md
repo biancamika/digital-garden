@@ -1,5 +1,5 @@
 ---
-title: Breaking Smart - Literature Notes
+title: "Breaking Smart - Literature Notes"
 ---
 ##  Notes
 #literaturenotes 

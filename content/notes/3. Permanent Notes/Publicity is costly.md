@@ -1,5 +1,5 @@
 ---
-title: Publicity is costly
+title: "Publicity is costly"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

@@ -1,5 +1,5 @@
 ---
-title: Sweet Spot
+title: "Sweet Spot"
 ---
 ## Reference
 - **Source:** [[Patricia Mou]]; [[Wellness Wisdom - Newsletter]]

@@ -1,5 +1,5 @@
 ---
-title: On Roblox Kids Learn Its Hard to Earn Money Making Games - Essay
+title: "On Roblox Kids Learn Its Hard to Earn Money Making Games - Essay"
 ---
 ## Information
 - **Source:** [[Cecilia D' Anastasio]]

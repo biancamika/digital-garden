@@ -1,5 +1,5 @@
 ---
-title: sick systems
+title: "sick systems"
 ---
 ## Reference
 - **Source:** [[Anna Wiener]]; [[Uncanny Valley - Book]]

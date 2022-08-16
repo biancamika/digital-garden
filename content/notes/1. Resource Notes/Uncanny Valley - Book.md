@@ -1,5 +1,5 @@
 ---
-title: Uncanny Valley - Book
+title: "Uncanny Valley - Book"
 ---
 ## Information
 - **Source:** [[Anna Wiener]]

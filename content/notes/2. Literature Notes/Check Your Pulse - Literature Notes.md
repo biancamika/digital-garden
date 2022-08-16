@@ -1,5 +1,5 @@
 ---
-title: Check Your Pulse - Literature Notes
+title: "Check Your Pulse - Literature Notes"
 ---
 ##  Notes
 #literaturenotes 

@@ -1,5 +1,5 @@
 ---
-title: Everything has a cost
+title: "Everything has a cost"
 ---
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City - Book]]

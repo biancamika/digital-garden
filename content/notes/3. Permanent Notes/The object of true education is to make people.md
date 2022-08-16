@@ -1,5 +1,5 @@
 ---
-title: The object of true education is to make people
+title: "The object of true education is to make people"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

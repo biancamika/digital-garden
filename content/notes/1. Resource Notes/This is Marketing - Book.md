@@ -1,5 +1,5 @@
 ---
-title: This is Marketing - Book
+title: "This is Marketing - Book"
 ---
 ## Information
 - **Source:** [[Seth Godin]]

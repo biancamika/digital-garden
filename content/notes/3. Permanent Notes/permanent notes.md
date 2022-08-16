@@ -1,4 +1,4 @@
 ---
-title: permanent notes
+title: "permanent notes"
 ---
 # Permanent Notes

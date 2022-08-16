@@ -1,5 +1,5 @@
 ---
-title: Rosieland - Literature Notes
+title: "Rosieland - Literature Notes"
 ---
 ##  Notes
 See [[Rosieland - Newsletter]]

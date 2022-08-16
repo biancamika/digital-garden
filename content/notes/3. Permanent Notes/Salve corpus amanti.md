@@ -1,5 +1,5 @@
 ---
-title: Salve corpus amanti
+title: "Salve corpus amanti"
 ---
 ## Reference
 - **Source:** [[Alan Moore]]; [[Do Design - Book]]

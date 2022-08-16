@@ -1,5 +1,5 @@
 ---
-title: Everybody gets to choose what they worship
+title: "Everybody gets to choose what they worship"
 ---
 ## Reference
 - **Source:** [[David Foster Wallace]]; [[This is Water - Speech]]

@@ -1,5 +1,5 @@
 ---
-title: In Online Ed Content Is No Longer King - Cohorts Are - Literature Notes
+title: "In Online Ed Content Is No Longer King - Cohorts Are - Literature Notes"
 ---
 See [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]]
 #literaturenotes 

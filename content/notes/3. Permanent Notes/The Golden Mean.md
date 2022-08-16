@@ -1,5 +1,5 @@
 ---
-title: The Golden Mean
+title: "The Golden Mean"
 ---
 ## Reference
 - **Source:** [[Patricia Mou]]; [[Wellness Wisdom - Newsletter]]

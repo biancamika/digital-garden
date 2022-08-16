@@ -1,5 +1,5 @@
 ---
-title: Dissecting Digital Design
+title: "Dissecting Digital Design"
 ---
 ## Notes
 https://space.hyperlink.academy/307974367572132425

@@ -1,5 +1,5 @@
 ---
-title: Freestyle Workshop
+title: "Freestyle Workshop"
 ---
 Concepts from **Coach Reflex**
 1. Tracing (external, internal, body part, reaction)

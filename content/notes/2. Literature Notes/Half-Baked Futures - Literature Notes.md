@@ -1,5 +1,5 @@
 ---
-title: Half-Baked Futures - Literature Notes
+title: "Half-Baked Futures - Literature Notes"
 ---
 See [[Half-Baked Futures - Newsletter]]
 #literaturenotes 

@@ -1,5 +1,5 @@
 ---
-title: Kernel Learn Track - Module 0
+title: "Kernel Learn Track - Module 0"
 ---
 See [[Kernel Learn Track - Resource Notes]]
 ## The Play of Pattern

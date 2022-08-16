@@ -1,5 +1,5 @@
 ---
-title: long tail
+title: "long tail"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

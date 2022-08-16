@@ -1,5 +1,5 @@
 ---
-title: Liberal education
+title: "Liberal education"
 ---
 ## Reference
 - **Source:** [[Our Way Out - Close Collaboration Between Liberal and Vocational Education - Essay]]

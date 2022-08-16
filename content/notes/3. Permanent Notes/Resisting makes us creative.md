@@ -1,5 +1,5 @@
 ---
-title: Resisting makes us creative
+title: "Resisting makes us creative"
 ---
 ## Reference
 - **Source:** 

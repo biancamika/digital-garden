@@ -1,5 +1,5 @@
 ---
-title: Content, Services, and Asset Businesses in the Metaverse - Essay
+title: "Content, Services, and Asset Businesses in the Metaverse - Essay"
 ---
 ## Information
 - **Source:** [[Matthew Ball]]; https://www.matthewball.vc/all/csametaverse

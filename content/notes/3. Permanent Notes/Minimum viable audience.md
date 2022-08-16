@@ -1,5 +1,5 @@
 ---
-title: Minimum viable audience
+title: "Minimum viable audience"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

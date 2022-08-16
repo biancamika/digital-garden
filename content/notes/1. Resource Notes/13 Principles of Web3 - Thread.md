@@ -1,5 +1,5 @@
 ---
-title: 13 Principles of Web3 - Thread
+title: "13 Principles of Web3 - Thread"
 ---
 ## Information
 - **Source:** [[David Phelps]]; https://twitter.com/divine_economy/status/1454218925483384834

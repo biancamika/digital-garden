@@ -1,5 +1,5 @@
 ---
-title: Developh Camp
+title: "Developh Camp"
 ---
 ## Foundations
 ### Identity & Practice

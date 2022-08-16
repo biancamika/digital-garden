@@ -1,5 +1,5 @@
 ---
-title: Technology must be used as a tool of liberation
+title: "Technology must be used as a tool of liberation"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

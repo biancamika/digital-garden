@@ -1,5 +1,5 @@
 ---
-title: Identity isn't constructed independently
+title: "Identity isn't constructed independently"
 ---
 ## Reference
 - **Source:** [[Lawrence Yeo]]; [[More to That - Blog]]

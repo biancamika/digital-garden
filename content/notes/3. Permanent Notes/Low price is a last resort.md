@@ -1,5 +1,5 @@
 ---
-title: Low price is a last resort
+title: "Low price is a last resort"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

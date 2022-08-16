@@ -1,5 +1,5 @@
 ---
-title: Spirituality MOC
+title: "Spirituality MOC"
 ---
 I believe in something bigger than myself
 + [[Calling isn't chosen; it's discovered]]

@@ -1,5 +1,5 @@
 ---
-title: Banking model of education
+title: "Banking model of education"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

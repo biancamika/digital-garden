@@ -1,5 +1,5 @@
 ---
-title: We serve others through our emotional labor
+title: "We serve others through our emotional labor"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

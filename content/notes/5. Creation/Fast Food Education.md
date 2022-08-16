@@ -1,5 +1,5 @@
 ---
-title: Fast Food Education
+title: "Fast Food Education"
 ---
 ![Illustration](https://previews.123rf.com/images/rahultiwari3190/rahultiwari31901905/rahultiwari3190190500113/122797662-education-fast-food-concept-represented-by-burger-with-books-hand-draw-design-illustration-.jpg)
 ## Sources

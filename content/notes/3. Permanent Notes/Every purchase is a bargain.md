@@ -1,5 +1,5 @@
 ---
-title: Every purchase is a bargain
+title: "Every purchase is a bargain"
 ---
 ## Reference
 - **Source:** [[Seth Godin]]; [[This is Marketing - Book]]

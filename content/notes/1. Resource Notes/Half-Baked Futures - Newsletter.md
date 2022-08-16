@@ -1,5 +1,5 @@
 ---
-title: Half-Baked Futures - Newsletter
+title: "Half-Baked Futures - Newsletter"
 ---
 ## Information
 - **Source:** [[Jasmine Sun]]

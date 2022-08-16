@@ -1,5 +1,5 @@
 ---
-title: Capitalism in virtual worlds - Essay
+title: "Capitalism in virtual worlds - Essay"
 ---
 ## Reference
 - **Source:**

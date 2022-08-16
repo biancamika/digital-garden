@@ -1,5 +1,5 @@
 ---
-title: Popular education
+title: "Popular education"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

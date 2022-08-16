@@ -1,5 +1,5 @@
 ---
-title: Ideas are just a multiplier of execution
+title: "Ideas are just a multiplier of execution"
 ---
 ## Reference
 - **Source:** [[The Workshopper Playbook - Book]]

@@ -1,5 +1,5 @@
 ---
-title: Waldenponding
+title: "Waldenponding"
 ---
 ## Reference
 - **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]

@@ -1,5 +1,5 @@
 ---
-title: The State Change Method
+title: "The State Change Method"
 ---
 ## Reference
 - **Source:** [[In Online Ed Content Is No Longer King - Cohorts Are - Essay]], [[Wes Kao]]

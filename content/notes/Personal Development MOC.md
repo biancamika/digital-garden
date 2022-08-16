@@ -1,5 +1,5 @@
 ---
-title: Personal Development MOC
+title: "Personal Development MOC"
 ---
 self-improvement stuff
 + [[Doing nothing is active listening]]

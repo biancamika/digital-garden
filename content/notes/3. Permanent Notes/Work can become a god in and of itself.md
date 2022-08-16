@@ -1,5 +1,5 @@
 ---
-title: Work can become a god in and of itself
+title: "Work can become a god in and of itself"
 ---
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City - Book]]

@@ -1,5 +1,5 @@
 ---
-title: The freedom of no escape
+title: "The freedom of no escape"
 ---
 ## Reference
 - **Source:** [[Kernel Learn Track - Resource Notes]]

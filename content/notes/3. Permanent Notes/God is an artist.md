@@ -1,5 +1,5 @@
 ---
-title: God is an artist
+title: "God is an artist"
 ---
 ## Reference
 - **Source:** [[John Mark Comer]]; [[Garden City - Book]]

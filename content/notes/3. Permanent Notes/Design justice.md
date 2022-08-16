@@ -1,5 +1,5 @@
 ---
-title: Design justice
+title: "Design justice"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

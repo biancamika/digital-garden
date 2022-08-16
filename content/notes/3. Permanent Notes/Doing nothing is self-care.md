@@ -1,5 +1,5 @@
 ---
-title: Doing nothing is self-care
+title: "Doing nothing is self-care"
 ---
 ## Reference
 - **Source:** 

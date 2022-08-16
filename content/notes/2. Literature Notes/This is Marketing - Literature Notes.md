@@ -1,5 +1,5 @@
 ---
-title: This is Marketing - Literature Notes
+title: "This is Marketing - Literature Notes"
 ---
 ## Notes
 #literaturenotes 

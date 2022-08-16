@@ -1,5 +1,5 @@
 ---
-title: The goal of education is transformation
+title: "The goal of education is transformation"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]

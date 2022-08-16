@@ -1,5 +1,5 @@
 ---
-title: You have agency over your own attention
+title: "You have agency over your own attention"
 ---
 ## Reference
 - **Source:** [[Venkatesh Rao]]; [[Breaking Smart - Newsletter]]

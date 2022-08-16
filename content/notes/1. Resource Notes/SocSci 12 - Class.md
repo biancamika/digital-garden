@@ -1,9 +1,5 @@
 ---
-title: SocSci 12 - Class
----
----
-See [[020 School MOC]]
-
+title: "SocSci 12 - Class"
 ---
 
 ## Information

@@ -1,5 +1,5 @@
 ---
-title: Design is the foundation of the artificial world
+title: "Design is the foundation of the artificial world"
 ---
 ## Reference
 - **Source:** [[Design Justice - Book]]
