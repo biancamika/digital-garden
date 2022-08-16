@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Bianca Aguilar
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,17 +10,15 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+enableGitHubEdit: false
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Bianca Aguilar's braindump
 page_title:
-  "🪴 Quartz 3.2"
+  "Bianca's Digital Garden"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/biancamikaila
+  - link_name: Are.na
+    link: https://are.na/bianca-aguilar
