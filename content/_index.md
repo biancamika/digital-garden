@@ -1,26 +1,43 @@
 ---
-title: 🪴 Quartz 3.2
+title: Bianca's Digital Garden
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+<img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" style="width:100%;">
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+# Welcome! 👋 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts. I take notes because I have too many tabs open in my 5 MB brain :') and don't want to forget all the wonderful things I get to learn.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+<p style="padding: 2em 1em; background: #ffe6e6; border-radius: 4px;">
+  Warning: This website is forever a work in progress! Some notes may have weird formatting too + broken links. Currently trying to fix that.
+</p>
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+## Main Maps of Content (MOCs) 🧭
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
++ **General works 📂**
+  + [[About]]
+  + [[Now]]
++ **Philosophy and psychology 💭**
+  + [[Philosophy MOC]]
+    + [[Mindfulness MOC]]
+  + [[Psychology MOC]]
+    + [[Attention MOC]]
+  + [[Personal Development MOC]]
+  + [[Education MOC]]
++ **Religion 🛐**
+  + [[Spirituality MOC]]
++ **Social sciences 👥**
+  + [[Sociology MOC]]
+  <!-- Economics MOC -->
++ **Languages**
+  + [[Words MOC]]
++ **Technology ⚙️**
+  + [[Technology MOC]]
+  + [[Innovation MOC]]
+  + [[Business MOC]]
++ **Arts and recreation 🎭**
+  + [[Art MOC]]
+  + [[Design MOC]]
+  + [[Creativity MOC]]
 

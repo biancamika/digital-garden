@@ -1,0 +1,312 @@
+---
+title: Non Obvious Megatrends - Book
+---
+## Information
+- **Source:** [[Rohit Bhargava]]
+- **Tags:** #nonfiction #business #trends #strategy
+- **Notes:** [[Non Obvious Megatrends - Literature Notes]]
+
+## Highlights
+- You can’t understand the world better simply by reading about it as much as possible. You do so by being intentional about what you pay attention to in the first place.
+	- LOCATION: Page 20
+- What   if   the   secret   to   having   better   ideas   that   clients   loved   was   to   get   better   at   curating   them   be- fore I needed them?
+	- LOCATION: Page 22
+- Seeing the non-obvious makes you more open minded to change and can help you disrupt instead of getting disrupted.
+	- LOCATION: Page 26
+- Engaging in non-obvious thinking starts with adopting a growth mindset. 
+	- LOCATION: Page 29
+- Non-Obvious Mindset 1: Be Observant Pay attention to the world, and train yourself to notice the details that others miss.
+	- LOCATION: Page 30
+- Being observant isn’t simply about seeing the big things. It’s also about training yourself to pay attention to the little things.
+	- LOCATION: Page 31
+- EXPLAIN THE WORLD TO CHILDREN.
+	- LOCATION: Page 33
+- WATCH PROCESSES IN ACTION. 
+	- LOCATION: Page 33
+- PUT YOUR DEVICES AWAY. 
+	- LOCATION: Page 33
+- Non-Obvious Mindset 2: Be Curious Ask questions, invest in learning, and approach unfamiliar situations with a sense of wonder. 
+	- LOCATION: Page 34
+- why curiosity matters: It’s a prerequisite to discovery. 
+	- LOCATION: Page 34
+- The more we know about a topic, for example, the more difficult it becomes to think outside our expertise and broaden our view. Psychologists describe this phenomenon as the “curse of knowledge.” 
+	- LOCATION: Page 35
+- CONSUME “BRAINFUL MEDIA.” 
+	- LOCATION: Page 36
+- READ UNFAMILIAR MAGAZINES. 
+	- LOCATION: Page 36 
+- ASK QUESTIONS CONSTANTLY. 
+	- LOCATION: Page 36
+- Non-Obvious Mindset 3: Be Fickle Save interesting ideas for later consumption without overanalyzing them in the moment. 
+	- LOCATION: Page 37
+- Any experienced facilitator or creative coach will tell you that the best way to kill the flow of a brainstorming session is to dwell on individual ideas. Ideation and analysis need a buffer of time between them for either to be effective. 
+	- LOCATION: Page 38
+- Being fickle isn’t about abandoning ideas too quickly or being unable to focus. It’s about freeing yourself from the pressure to recognize connections among ideas immediately and making it easier to return to a collec- tion of ideas to analyze them later. 
+	- LOCATION: Page 38
+- SAVE IDEAS OFFLINE. 
+	- LOCATION: Page 39
+- SET YOURSELF A TIME LIMIT. 
+	- LOCATION: Page 39
+- TAKE SHORTER NOTES. 
+	- LOCATION: Page 39
+- Non-Obvious Mindset 4: Be Thoughtful Take time to develop a meaningful point of view, and consider alternative viewpoints. 
+	- LOCATION: Page 40
+- WAIT A MOMENT. 
+	- LOCATION: Page 41
+- WRITE.   THEN   REWRITE .  
+	- LOCATION: Page 41
+- EMBRACE THE PAUSES. 
+	- LOCATION: Page 41
+- Non-Obvious Mindset 5: Be Elegant Describe ideas or insights in more beautiful, deliberate, simple, and understandable ways.
+	- LOCATION: Page 41
+- KEEP IT SHORT. 
+	- LOCATION: Page 43
+- USE   POETIC   LANGUAGE . 
+	- LOCATION: Page 43
+- BREAK IT INTO PIECES. 	
+	-	LOCATION: Page 43
+- if you want to get better at antici- pating the future, start by getting better at understanding the present. 
+	- LOCATION: Page 46
+- A   trend   is   a   cu- rated observation of the accelerating present. 
+	- LOCATION: Page 46
+- Although some trends may seem to spotlight a currently popular story or cultural event, they typically describe behaviors and beliefs that develop over time. Fads describe something that’s briefly popular but doesn’t last. Great trends reflect a mo- ment in time, but that moment is never fleeting, and the basic idea is more elevated. Good trends always focus on the shift in an underlying human behavior or belief. They don’t describe a sin- gle interesting story or a hot new product or industry. 
+	- LOCATION: Page 46
+- Trend spotting isn’t the same as identifying actual trends. When you focus on spotting stories that stand out, you   gravitate   toward   collecting   interesting   ideas   without   understanding   the   broader   context   of   what   they   mean . 
+	- LOCATION: Page 47
+- The Haystack Method is a process for curating trends that starts with gathering stories and ideas and sorting them into groups that make sense (the hay), then analyzing each of the groups to see whether they reveal an underlying trend (the needle). 
+	- LOCATION: Page 47
+- The HayStack Method: STEP 1 Gathering Gathering is the disciplined act of collecting stories and ideas while taking notes of why they are interesting. 
+	- LOCATION: Page 48
+- The key is to give yourself a reminder of what you found interesting about the story when you saved it. This will make your notes more useful when you return to them later. 
+	- LOCATION: Page 49
+- FOCUS   ON   INSIGHTS. 
+	- LOCATION: Page 49
+- Don’t try to summarize everything about the article or idea; instead focus on what made the idea memorable or any insights you had at the moment you saved it. 2. ADD   LABELS.   Use   “note   boxes”   to   make   your   notes   easily   skimmable.   Write   a   few   key   words   in a box next to your notes as a reminder why you chose the article or idea. 
+	- LOCATION: Page 49
+- IDENTIFY   INTERSECTIONS   AND   APPLICATIONS. 
+	- LOCATION: Page 50
+- START A FOLDER. 
+	- LOCATION: Page 52
+- SET A TIMELINE. 
+	- LOCATION: Page 52
+- SEEK CONCEPTS, NOT CONCLUSIONS. 
+	- LOCATION: Page 52
+- Perspective often comes from the passage of time and the patience to allow patterns to emerge on their own. The HayStack Method: STEP 2 Aggregating Aggregating is the process of grouping ideas together to uncover bigger themes. 
+	- LOCATION: Page 53
+- During this stage, you need to resist grouping ideas by industry or topic. Instead, aggregate ideas and articles based on human motivations or broader themes. 
+	- LOCATION: Page 54
+- START WITH HUMAN NEEDS. 
+	- LOCATION: Page 56
+- the basic human need for belonging fuels many activities that people engage in online, from sharing their images on social media to join- ing online communities. • RECOGNIZE THE OBVIOUS. 
+	- LOCATION: Page 56
+- SAVE UNUSUAL IDEAS. 
+	- LOCATION: Page 56
+- The HayStack Method: STEP 3 Elevating Elevating involves identifying the underlying themes that align a group of ideas to describe a single, bigger con- cept. 
+	- LOCATION: Page 56
+- Your aim in this step should be to identify bigger ideas that bring many stories together. 
+	- LOCATION: Page 58
+- SEEK OUT COMMON WORDS.
+	- LOCATION: Page 60
+- COMBINE INDUSTRY VERTICALS. 
+	- LOCATION: Page 60
+- FOLLOW THE MONEY. 
+	- LOCATION: Page 60
+- The HayStack Method: STEP # 4 Naming Naming is the art of describing a collection of ideas in an accessible and memorable way. 
+	- LOCATION: Page 60
+- MASHUP WORDS. 
+	- LOCATION: Page 65
+- The   best   mashups   are   easy   to   pronounce   and   sound   as   close   to   a   real word as possible. • ADD ALLITERATION. 
+	- LOCATION: Page 65
+- GO FOR A TWIST. By taking an obvious phrase or a commonly used term and inserting a small change, you end up with   a   name   that   surprises   and   stands   out.  
+	- LOCATION: Page 65
+- The HayStack Method: STEP 5 Proving Proving entails seeking out data, stories, and conversations to validate whether a collection of ideas can justi- fiably be described as a trend. 
+	- LOCATION: Page 66
+- My team and I evaluate trends using a framework of three key elements: the core idea of the trend, its impact, and its acceleration. 
+	- LOCATION: Page 66
+- FOCUS ON VARIETY. 
+	- LOCATION: Page 69
+- If a trend is going to describe how business is done or how con- sumers behave, it should be supported by examples or cases in many industries. • WATCH YOUR BIASES. 
+	- LOCATION: Page 69
+- Non-obvious trends are not self-serving. • USE AUTHORITATIVE SOURCES.
+	- LOCATION: Page 69
+- if you are going to hone your ability to curate trends, you must embrace the notion that sometimes you will be wrong. 
+	- LOCATION: Page 73
+- The most valu- able trends are the ones that inspire action. 
+	- LOCATION: Page 77
+- intersection thinking ,   a   method   for   connecting   disparate   concepts   and   beliefs   from   unrelated   industries   to   generate   new ideas or products. 
+	- LOCATION: Page 78
+- INTERSECTION THINKING: Method # 1 Focus On Similarities
+	- LOCATION: Page 78
+- INTERSECTION THINKING: Method # 2 Embrace Serendipitous Ideas 				
+	- LOCATION: Page 79
+- INTERSECTION THINKING: Method # 3 Wander Into The Unfamiliar
+	- LOCATION: Page 80
+- Intersection Thinking: Method # 4 Be Persuadable
+	- LOCATION: Page 80
+- TREND ACTION GUIDE: TIP # 1 Engage Your Customers
+	- LOCATION: Page 84
+- TREND ACTION GUIDE: TIP # 2 Share Your Story
+	- LOCATION: Page 86
+- TREND ACTION GUIDE: TIP # 3 Evolve Your Strategy
+	- LOCATION: Page 87
+- TREND ACTION GUIDE: TIP # 4 Strengthen Your Company’s Culture
+	- LOCATION: Page 89
+- Workplace surveys after surveys show that what people desire most is making an authentic human connection with their co-workers feeling that their work matters, and having some autonomy over their own time.
+	- LOCATION: Page 89
+- TREND ACTION GUIDE: TIP # 5 Develop Your Career
+	- LOCATION: Page 91
+- Curating trends can help you bring non-obvious ideas to life. It can also help you to identify what most other people or competitors will be thinking about so you can choose to strategically do the opposite.
+	- LOCATION: Page 100
+- As individualism rises globally, people are carefully cultivating how they are perceived both online and off- line, chasing stardom, and making themselves vulnerable to criticism in the process.
+	- LOCATION: Page 96
+- Amplified Identity
+	- LOCATION: Page 100
+- Studies indicate that instead of making us self-centered liars, social media may be giving us the one thing we need to shape our identities in a digital world: power over our stories.
+	- LOCATION: Page 104
+- by engaging in public shaming, we are “defining the boundaries of normality by tearing apart the people outside of it.”
+	- LOCATION: Page 107
+- A growing worldwide shift toward individuality and the means to control our stories is driving us all spend more time thinking about how we present ourselves.
+	- LOCATION: Page 109
+- OVERCOME THE NARCISSISM BIAS.
+	- LOCATION: Page 111
+- CONSIDER   THE   IDENTITY   DIVIDE .
+	- LOCATION: Page 111
+- Remember that at the core of most social media activities is the normal desire to find one’s own identity and share it with the world. That’s not narcissism. It’s human nature.
+	- LOCATION: Page 111
+- HELP OTHERS MANAGE THEIR IDENTITY.
+	- LOCATION: Page 112
+- Ungendering
+	- LOCATION: Page 115
+- Traditional gender divisions and labels are getting replaced with a more fluid understanding of gender iden- tity, forcing a reevaluation of how we see employees, customers, brands and one another.
+	- LOCATION: Page 115
+- In the information economy, our attention is our most valuable resource, leading us to be more skeptical of those who manipulate us to get it, and instead seek out and trust those who communicate in more authen- tic ways.
+	- LOCATION: Page 131
+- Attention Wealth
+	- LOCATION: Page 131
+- Stories are a powerful tool because the human brain is more in- clined to pay attention to an engaging narrative than to a bunch of facts. Knowing this, brands are trying to win our attention and earn our trust by sharing their back stories and vulnerabilities.
+	- LOCATION: Page 135
+- Technology that helps people or companies with self-serving intentions manufacture content that captures our attention and distorts the truth will continue to grow more sophisticated. As a result, we will become more skeptical of content in general, even that produced by seemingly legitimate fact-checked sources.
+	- LOCATION: Page 137
+- “outrage porn.” The term refers to stories and headlines intentionally written in a way to pro- voke anger. It is a technique used frequently by liberal-leaning and conservative-leaning media outlets alike.
+	- LOCATION: Page 138
+- When the world is supposedly on fire, why waste time worrying about it until you can smell smoke? Unfortu- nately, even when that smoke arrives, there are plenty of people who suggest it’s just a smoke machine. I have referred to this state of affairs as our “modern believability crisis,” when we are unsure of whom and what to be- lieve or where to place our attention.
+	- LOCATION: Page 139
+- Surrounded by so much noise from brands, media outlets, and politicians vying for our attention and blurring the line between what’s real or not, we’ve become good at selectively focusing out of necessity. To do so, we are turning inward to our core beliefs and aligning ourselves with those who share them. In the process, we are also   becoming   more   closed   off   to   perspectives   that   differ   from   our   own,   a   trend   we   called   Truthing   back   in 2018. One of the effects of this introspective trend is that we are increasingly entrusting our attention to individual curators to help spotlight where we should spend our attention wealth.
+	- LOCATION: Page 144
+- In an information economy, attention is the currency.
+	- LOCATION: Page 144
+- Purposeful Profit
+	- LOCATION: Page 146
+- As consumers and employees demand more sustainable and ethical practices from businesses, companies re- spond by adapting products, taking stands on issues, and putting purpose first.
+	- LOCATION: Page 146
+- Two voices leading the connection between purpose, mindfulness and organizational performance are Dr. Eliza Shah and Paresh Shah, founders of Lifter Leadership. Their groundbreaking research has identified “Lifters,” an emerging segment that spans all age groups and can be trained to drive purpose, innovation, work- place health and change. Lifters are positive, purposeful workers who simultaneously uplift their co-workers, customers, communities and their company.
+	- LOCATION: Page 146
+- In the past, brands would limit themselves to “soft branding” of cause-related initiatives—preferring to take a quiet role as an invisible supporter rather than taking a public stand. This was once the best way for a corpo- ration to support initiatives that aligned with its core values without feeling overtly promotional.
+	- LOCATION: Page 148
+- Data Abundance
+	- LOCATION: Page 152
+- The growing ubiquity of data and the myriad ways it can be collected raise big questions about how to make it truly useful, who owns the data, and who should stand to profit from it.
+	- LOCATION: Page 153
+- In addition to all this data collected by organizations and information shared online by individuals, there is one other source of considerable data that is increasingly being made publicly available: “open data.” This term refers to the vast stores of data dumped online by companies and governments in the name of transparency or regulatory compliance.
+	- LOCATION: Page 154	
+- When it comes to data, quality is far more important than quantity
+	- LOCATION: Page 158
+- A   story   in   the   Washington   Post   reported   that   teenagers   are   curating   their   accounts   on   Instagram   and   deleting old photos that either did not get many likes or no longer were wanted on their profiles. But when users delete old posts, that alters their page views and engagement time stats, skewing the data that Instagram is trying to monetize. The less accurate their data, the fewer opportunities there are to sell advertising. Desperate to stop users from deleting the data its business model depends on, Instagram introduced a feature that allows users to archive their old images instead of deleting them. As we continue to generate more data, there will be growing urgency to ensure the data is in good enough shape   to   be   usable.
+	- LOCATION: Page 158
+- In other words, having access to a treasure trove of data collected by wearable devices doesn’t necessarily translate to health providers finding meaning in it. Even patients struggle to find real value in the data beyond “feel-good stats.” The devices provide plenty of pats on the back, for example, displaying celebratory firework icons every time the user reaches an arbitrary goal, such as walking 10,000 steps in a day. The result is plenty of data collection, yet potentially little impact on long-term health or happiness from it.
+	- LOCATION: Page 164
+- Although we willingly trade our data, we remain concerned about how such details are used, a point I wrote about   back   in   2014   with   a   trend   we   called   Privacy   Paranoia .   Still,   the   reason   we   do   it   is   because   we   are   under   the influence   of   what   behavioral   economics   call   benefit   immediacy :   We   share   information   willingly   because   the benefits of doing so are immediate while the risks are delayed.
+	- LOCATION: Page 169
+- Protective Tech
+	- LOCATION: Page 173
+- As we increasingly rely on predictive technology that keeps us and our world safe and makes life more conve- nient, we must contend with the privacy trade-offs required to make it work.
+	- LOCATION: Page 173
+- The tension between the desire for smart tech to help us manage our lives—in this case, our health—and our worry that it might infringe on privacy will only grow as this tech becomes more ubiquitous. It raises a natural question: Should we cede so many health and life decisions to machines?
+	- LOCATION: Page 178
+- As   the   Protective   Tech   megatrend   plays   out   over   the   coming   decade,   a   generation   of   young   consumers   will   ex- pect technology to optimize every waking moment of their lives. But as they become dependent on technology to take care of the mundane tasks of adulting, will they also lose the ability to handle more nuanced parts of having human relationships and turn to technology for those as well?
+	- LOCATION: Page 181
+- Predictive smart technology already makes our lives more convenient and safer. But in order to provide real- time utility, these technologies have to “listen,” collecting information about us and our environment 24/7. As protective tech becomes more sophisticated, it will lead to more debates about how much of our daily lives should be trackable and how important personal privacy and individual liberties are when weighed against the broader interests of society.
+	- LOCATION: Page 182
+- As learning technology gets smarter, it’s evolution will largely come from watching humans and parsing the media that humans create—which leads to an unusual chal- lenge for humanity. Just as we must serve as role models for our children, increasingly we will need to serve that same role for our technology as well.
+	- LOCATION: Page 183
+- Flux Commerce
+	- LOCATION: Page 184
+- As the lines between industries erode, how we sell and buy anything changes constantly, leading to a con- tinual disruption of business models, distribution channels, consumer expectations and even innovation it- self.
+	- LOCATION: Page 185
+- The enthusiasm around a “fad” has always been intense and viral. But fad fatigue has had a tremendous ef- fect on how we buy (or not buy) products. We are simply moving on to the next flavor of the month faster and faster. This has put companies under tremendous pressure to find new ways to innovate. They are trying to find the “next big thing” and fear that nothing less than a complete overhaul of their business will be necessary to assure their relevance and survival. It has led some of the more desperate to naively look to recreate exactly what   they   see   more   innovative   competitors   doing—a   trend   we   described   as   Innovation   Envy   in   2019.
+	- LOCATION: Page 191
+- Often, companies will mistake invention for innovation. They are not the same thing. This com- mon mistake can lead to shallow ideation, one-dimensional product or service ideas, and undif- ferentiated engagement with your customers. Look beyond products to consider new business models that integrate greater purpose and deliver more robust experiences that delight cus- tomers.
+	- LOCATION: Page 191
+- Likeonomics Brands, products, and services succeed by being more human, mission driven, and personally likeable through their policies and people, gaining an advantage over less empathetic competitors.
+	- LOCATION: Page 199
+- Culting of Retail The best retailers create passionate users who not only buy products, but also rave about their experiences. They inspire their social networks to try for themselves.
+	- LOCATION: Page 200
+- Brutal Transparency Aggressive honesty will lead to edgier and more effective marketing as brands reveal this unexpected tactic that consumers welcome.
+- LOCATION: Page 204
+- Corporate Humanism Companies find their humanity as they create more consumer-friendly policies and practices, spend more time listening to customers, and encourage employees to represent them in public.
+	- LOCATION: Page 204
+- Social Loneliness Despite online connections, people feel a real-world sense of loneliness, prompting them to seek ways to cre- ate deeper friendships or at least a chance to connect
+	- LOCATION: Page 205
+- Backstorytelling Organizations discover that taking people behind the scenes of their brand and history is one of the most powerful ways to inspire loyalty and drive purchase.
+	- LOCATION: Page 208
+- Precious Print Thanks to our digital-everything culture, the few objects and moments we choose to interact with in print be- come more valuable.
+	- LOCATION: Page 211
+- Heroic Design Design takes a leading role in the invention and adoption of new products, ideas, and campaigns to help change the world.
+	- LOCATION: Page 212
+- For the first time, the trends were broken down into five categories: Culture + Consumer Behavior, Marketing + Social Media, Economics + Entrepreneurship, Technology + Design, and Media + Education.
+	- LOCATION: Page 214
+- Lovable Imperfection Consumers search for true authenticity and reward minor imperfections in products, personalities, and brands by showing greater loyalty and trust.
+	- LOCATION: Page 221
+- Branded Utility Brands use content marketing and greater integration between marketing and operations centers to augment promotions with real ways to add value to customer’s lives.
+	- LOCATION: Page 221
+- Curated Sensationalism As the line between news and entertainment blurs, smart curation displaces journalism as engaging content is paired with sensational headlines to drive millions of views.
+	- LOCATION: Page 225
+- Everyday Stardom The growth of personalization leads more consumers to expect everyday interactions to be transformed into celebrity experiences with them as the stars of the show.
+	- LOCATION: Page 226
+- As companies use big data to personalize experiences and revamp customers’ experience, consumers’ expec- tations rise, sometimes verging on the impossible.
+	- LOCATION: Page 232
+- Mood Matching As tracking technology becomes more sophisticated, media, advertising, and immersive experiences like gaming and learning can be tailored to match consumer moods.
+	- LOCATION: Page 233
+- Engineered Addiction Greater understanding of the behavioral science behind habit formation leads to more designers and engi- neers intentionally creating addictive experiences that capture consumers’ time, money, and loyalty.
+	- LOCATION: Page 236
+- If you consider the growth of everything from packaged foods to fantasy sports, this trend is central to how experiences can be engineered to be irresistible whether they are good for us or not.
+	- LOCATION: Page 236
+- Strategic Downgrading As more products and services get upgraded, consumers start rejecting these supposedly improved options and downgrading to simpler, cheaper, and more functional versions.
+	- LOCATION: Page 244
+- Virtual Empathy The dramatic growth of virtual reality and immersive technology allows creators to tell deeper stories and lets people see the world from another point of view, growing their empathy for those unlike themselves.
+	- LOCATION: Page 247
+- Automated Adulthood As more people go through a prolonged period of emerging adulthood, a growing range of technology and services helps to automate all aspects of their journey to adulthood.
+	- LOCATION: Page 268
+- Side Quirks A global shift toward individualism has led to a surge in side-hustle, entrepreneurs driven by passion, and a renewed appreciation for what makes people unique.
+	- LOCATION: Page 278
+- Deep Diving While brands compete for our shrinking attention spans with more content than ever, many people prefer to go all in on the topics and experiences that truly capture their interest.
+	- LOCATION: Page 277
+- Truthing With trust eroding in media and institutions, people are engaging in a personal quest for the truth based on direct observation and face-to-face interaction.
+	- LOCATION: Page 283
+- Enlightened Consumption Empowered with information about products and services, people are choosing to make a statement about their values and the world through what they buy, where they work, and how they invest.
+	- LOCATION: Page 285
+- Brand Stand Reacting to a polarized media atmosphere, more brands feel compelled to take a stand and highlight their core values rather than try to be all things to all people.
+	- LOCATION: Page 301
+- Manipulated Outrage Media, data analytics, and advertising are combining forces to create a perpetual stream of noise that is in- tended to incite rage and elicit angry reactions on social media and in real life.
+	- LOCATION: Page 303
+- Data Pollution As we create more methods for quantifying the world around us, data are manipulated, contaminated, and sabotaged, making it harder to separate true insights from useless noise.
+	- LOCATION: Page 306
+- Approachable Luxury Luxury is no longer defined by scarcity and privilege, but rather more down-to-earth authentic human experi- ences that create unforgettable moments worth sharing.
+	- LOCATION: Page 310
+- Touchworthy Overwhelmed by digital, consumers turn back toward products and experiences that they can touch, feel, and sense to deliver a much-needed sense of calm, simplicity, and humanity.
+	- LOCATION: Page 316
+- Enterprise Empathy Empathy becomes a driver of innovation and revenue as well as a point of differentiation for products, ser- vices, hiring, and experiences.
+	- LOCATION: Page 316
+- Innovation Envy Fear leads entrepreneurs, businesses, and institutions to envy competitors and approach innovation with admiration or desperation.
+	- LOCATION: Page 317
+- Passive Loyalty
+	- LOCATION: Page 329
+- As switching from brands becomes easier, companies re-evaluate who is loyal, who isn’t, and how to inspire true loyalty.
+	- LOCATION: Page 329
+- Forward-looking brands redesign their loyalty programs and try delight to inspire loyalty.
+	- LOCATION: Page 333
+- seeing the world in a narrow or one-dimensional way is even more damaging than a doomsday prophecy, because it often leads to people make flawed decisions today —not   just   spread   empty   dread   for   our   distant   future.
+	- LOCATION: Page 336
+
+
+

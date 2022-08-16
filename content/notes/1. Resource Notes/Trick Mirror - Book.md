@@ -1,0 +1,179 @@
+---
+title: Trick Mirror - Book
+---
+#unfinished
+## Information
+- **Source:** [[Jia Tolentino]]
+- **Tags:** #nonfiction #essays
+- **Notes:** [[Trick Mirror (Literature Notes)]]
+
+## Highlights
+- As more people began to register their existence digitally, a pastime turned into an imperative: you had to register yourself digitally to exist.
+    - The I in the Internet, p. 5
+- The call of self-expression turned the village of the internet into a city, which expanded at time-lapse speed, social connections bristling like neurons in every direction.
+    - The I in the Internet, p. 7
+- Where we had once been free to be ourselves online, we were now chained to ourselves online, and this made us self-conscious.
+    - The I in the Internet, p. 7
+- But you can’t just walk around and be visible on the internet—for anyone to see you, you have to act.
+    - The I in the Internet, p. 8
+- our world—digitally mediated, utterly consumed by capitalism—makes communication about morality very easy but makes actual moral living very hard.
+    - The I in the Internet, p. 9
+- The internet reminds us on a daily basis that it is not at all rewarding to become aware of problems that you have no reasonable hope of solving.
+    - The I in the Internet, p. 11
+- five intersecting problems: first, how the internet is built to distend our sense of identity; second, how it encourages us to overvalue our opinions; third, how it maximizes our sense of opposition; fourth, how it cheapens our understanding of solidarity; and, finally, how it destroys our sense of scale.
+    - The I in the Internet, p. 12
+- The self is not a fixed, organic thing, but a dramatic effect that emerges from a performance. This effect can be believed or disbelieved at will.
+    - The I in the Internet, p. 13
+- Online, your audience can hypothetically keep expanding forever, and the performance never has to end.
+    - The I in the Internet, p. 15
+- The representation of an activity will vary in some degree from the activity itself and therefore inevitably misrepresent it
+    - The I in the Internet, p. 19
+- an open-ended, affinity-based, generative online identity is hard to keep alive.
+    - The I in the Internet, p. 22
+- But the internet brings the “I” into everything. The internet can make it seem that supporting someone means literally sharing in their experience—that solidarity is a matter of identity rather than politics or morality, and that it’s best established at a point of maximum mutual vulnerability in everyday life.
+	- November 23, 2019
+	- The I in the Internet, p. 26
+- But the worse the internet gets, the more we appear to crave it—the more it gains the power to shape our instincts and desires.
+	- November 23, 2019
+	- The I in the Internet, p. 32
+- A social body that can’t concentrate or communicate with itself is like a person who can’t think and act.”
+	- November 23, 2019
+	- The I in the Internet, p. 32
+- Capitalism has no land left to cultivate but the self. Everything is being cannibalized—not just goods and labor, but personality and relationships and attention.
+	- November 23, 2019
+	- The I in the Internet, p. 32
+- that I’m in danger of becoming a “character to myself.”
+	- December 28, 2019
+	- Reality TV Me, p. 44
+- the requirement and the impossibility of knowing yourself under the artificial conditions of contemporary life.
+	- December 28, 2019
+	- Reality TV Me, p. 52
+- But the psychological parasite of the ideal woman has evolved to survive in an ecosystem that pretends to resist her.
+	- December 28, 2019
+	- Always Be Optimizing, p. 65
+- She can believe—reasonably enough, and with the full encouragement of feminism—that she herself is the architect of the exquisite, constant, and often pleasurable type of power that this image holds over her time, her money, her decisions, her selfhood, and her soul.
+	- December 28, 2019
+	- Always Be Optimizing, p. 65
+- success would handcuff her to her looks, to “physical self-consciousness and sacrifice,”
+	- December 29, 2019
+	- Always Be Optimizing, p. 78
+- we idealize beauty that appears to require almost no intervention—women who look poreless and radiant even when bare-faced in front of an iPhone camera, women who are beautiful in almost punishingly natural ways.
+	- December 29, 2019
+	- Always Be Optimizing, p. 79
+- Beauty work is labeled “self-care” to make it sound progressive.
+	- December 29, 2019
+	- Always Be Optimizing, p. 80
+- I value control almost as a matter of etiquette—as an aesthetic—even when I can feel that instinct tipping into cruelty and reflexive disgust.
+	- December 29, 2019
+	- Always Be Optimizing, p. 86
+- for people whose jobs are their bodies
+	- December 29, 2019
+	- Always Be Optimizing, p. 88
+- women, formed in a way that makes us inextricable from social and technological machinery, could become fluid and radical and resistant. We could be like cyborgs—shaped in an image we didn’t choose for ourselves, and disloyal and disobedient as a result.
+	- December 29, 2019
+	- Always Be Optimizing, p. 92
+- Resistance to a system is presented on the terms of the system. It’s so much easier, when we gain agency, to adapt rather than to oppose.
+	- December 30, 2019
+	- Always Be Optimizing, p. 93
+- Technology, in fact, has made us less than oppositional: where beauty is concerned, we have deployed technology not only to meet the demands of the system but to actually expand these demands.
+	- December 30, 2019
+	- Always Be Optimizing, p. 93
+- a girl is a “human being before becoming a woman,” and she “knows already that to accept herself as a woman is to become resigned and to mutilate herself.” This is part of the reason these childhood characters are all so independent, so eager to make the most of whatever presents itself: they—or, more to the point, their creators—understand that adulthood is always looming, which means marriage and children, which means, in effect, the end.
+	- December 30, 2019
+	- Pure Heroines, p. 102
+- The story told by an ‘other’ finally revealed his own identity. And he, dressed in his magnificent purple tunic, breaks down and cries.
+	- December 30, 2019
+	- Pure Heroines, p. 124
+- the hero suddenly becomes aware not just of his own story but also of his own need to be narrated.
+	- December 30, 2019
+	- Pure Heroines, p. 125
+- “overcome by emotion” at the fact of understanding her life in story form.
+	- December 30, 2019
+	- Pure Heroines, p. 125
+- affidamento, or “entrustment,”
+	- December 30, 2019
+	- Pure Heroines, p. 125
+- When two women “entrusted” themselves to each other, they prioritized not their similarities but their differences. They recognized that the differences between their stories were central to their identities, and in doing this, they also created these identities and affirmed this difference as strength.
+	- December 30, 2019
+	- Pure Heroines, p. 125
+- December 30, 2019
+- Pure Heroines, p. 125
+- Entrustment was a framework that not only allowed them to understand themselves as both woman and human, but consciously predicated the second identity on the first.
+- December 30, 2019
+- Pure Heroines, p. 128
+- The heroine’s journey, or her lack of one, serves as a reminder that whatever is dictated is not eternal, not predestined, not necessarily true. The trajectory of literary women from brave to blank to bitter is a product of material social conditions. The fact that the heroine’s journey is framed as a default one for women is proof of our failure to see, for so long, that other paths were possible, and that many other ones exist.
+- December 30, 2019
+- Pure Heroines, p. 128
+- Difference was not the problem; it was the beginning of the solution. That realization, they decided, would be the foundation of their sense that they were free.
+- December 30, 2019
+- Ecstasy, p. 139
+- And Christian theology convinced me that I had been born in a compromised situation. It made me want to investigate my own ideas about what it means to be good.
+- December 30, 2019
+- Ecstasy, p. 141
+- I turned my attention inward, tried to build a church on the inside, tried to understand faith as something that could draw me closer to something overwhelming and pure.
+- December 30, 2019
+- Ecstasy, p. 142
+- “The safest road to Hell is the gradual one,” Screwtape reminds Wormwood, “the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.”
+- December 30, 2019
+- Ecstasy, p. 148
+- The nature of a revelation is that you don’t have to re-experience it; you don’t even have to believe whatever is revealed to hang on to it for as long as you want.
+- December 30, 2019
+- Ecstasy, p. 151
+- When you love something so much that you dream of emptying yourself out for it, you’d be forgiven for wanting to let your love finish the job.
+- December 30, 2019
+- Ecstasy, p. 153
+- The situations in my life when I have been sympathetic to desperation are the situations when I have felt sure I was encountering God.”
+- December 30, 2019
+- Ecstasy, p. 155
+- “Our life is impossibility, absurdity,” wrote Simone Weil. “Everything we want contradicts the conditions or the consequences attached to it….It is because we are a contradiction—being creatures—being God and infinitely other than God.”
+- December 30, 2019
+- The Story of a Generation in Seven Scams, p. 170
+- personhood in the twenty-first century would be a commodity like cotton or gold.
+- December 30, 2019
+- The Story of a Generation in Seven Scams, p. 174
+- On Facebook, our basic humanity is reframed as an exploitable viral asset.
+- December 30, 2019
+- The Story of a Generation in Seven Scams, p. 174
+- Instead of fair wages and benefits, we have our personalities and stories and relationships, and we’d better learn to package them well for the internet in case we ever get in an accident while uninsured.
+- December 30, 2019
+- The Story of a Generation in Seven Scams, p. 178
+- A politics built around getting and spending money is sexier than a politics built around politics.
+- December 30, 2019
+- The Story of a Generation in Seven Scams, p. 194
+- It would be better, of course, to do things morally. But who these days has the ability or the time?
+- January 1, 2020
+- We Come from Old Virginia, p. 218
+- Institutions, by definition, are not natural or primal. They are not what just happens when you let boys be boys. They are created and sustained for a reason. They do work.
+- January 1, 2020
+- We Come from Old Virginia, p. 221
+- Women’s bodies have always been test sites upon which governing hierarchies are broken down and reiterated.
+- January 1, 2020
+- We Come from Old Virginia, p. 221
+- Violence against women is fundamentally connected to other systems of violence.
+- January 1, 2020
+- We Come from Old Virginia, p. 229
+- The best-case scenario for a rape victim in terms of adjudication is the worst-case scenario in terms of experience: for people to believe you deserve justice, you have to be destroyed.
+- January 1, 2020
+- We Come from Old Virginia, p. 234
+- But even the suggestion that I was making something out of nothing made me wonder if I was, in fact, making something out of nothing. I started wanting things to happen to me, as if to prove to myself that I wasn’t crazy, wasn’t hallucinating. Spiky with resentment, I glared at men who looked at me too closely, daring them to give me another event to write down in my little secret file of incidents, daring them to make visible the dawning sense I had of women living in a continual state of violation, daring them to help me realize that I wasn’t making any of this up.
+- January 1, 2020
+- We Come from Old Virginia, p. 234
+- the story didn’t need to be clean, and it didn’t need to be satisfying; that, in fact, it would never be clean or satisfying, and once I realized that, I would be able to see what was true.
+- January 1, 2020
+- The Cult of the Difficult Woman, p. 240
+- When she was canonized, in 1920, she joined a society of women—St. Lucy, St. Cecilia, St. Agatha—who were martyred because of their purity, the same way we now canonize pop-culture saints who were martyred over vice.
+- January 1, 2020
+- The Cult of the Difficult Woman, p. 241
+- Rewriting a woman’s story inevitably means engaging with the male rules that previously defined it. To argue against an ideology, you have to acknowledge and articulate it.
+- when you write against something, you lend it strength and space and time.
+	- January 1, 2020
+	- The Cult of the Difficult Woman, p. 241
+- Female celebrities are now venerated for their difficulty—their flaws, their complications, their humanity—with the idea that this will allow us, the ordinary women, to be flawed, and human, and possibly venerated, too.
+	- January 1, 2020
+	- The Cult of the Difficult Woman, p. 243
+- Sexism rears its head no matter who a woman is, no matter what her desires and ethics might be. And a woman doesn’t have to be a feminist icon to resist it—she can just be self-interested, which is not always the same thing.
+	- January 1, 2020
+	- The Cult of the Difficult Woman, p. 262
+- If I object to the wife’s diminishment for the same reason that I object to the bride’s glorification, maybe this reason is much simpler and more obvious than I’ve imagined: I don’t want to be diminished, and I do want to be glorified—not in one shining moment, but whenever I want.
+	- January 2, 2020
+	- I Thee Dread, p. 291

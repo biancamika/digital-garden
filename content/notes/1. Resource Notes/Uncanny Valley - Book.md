@@ -1,0 +1,81 @@
+---
+title: Uncanny Valley - Book
+---
+## Information
+- **Source:** [[Anna Wiener]]
+- **Tags:** #nonfiction #memoir #technology #SiliconValley
+- **Notes:** [[Uncanny Valley - Literature Notes]]
+
+## Highlights
+- Expansion: that was the endgame.
+	- January 31, 2020
+	- Incentives, p. 20
+- Good interface design was like magic, or religion: it cultivated the mass suspension of disbelief.
+	- February 1, 2020
+	- Incentives, p. 40
+- Despite evidence that emotional intelligence, unlike programming languages or agile development, could not be taught—there was a reason compassion was a tall hurdle for AI—soft skills were undervalued.
+	- February 2, 2020
+	- Incentives, p. 86
+- “Look up sick systems,” said Noah. “Look up trauma bonding. It’s the culty thing: keep people busy until they forget about the parts of their life they left behind.”
+	- February 3, 2020
+	- Incentives, p. 107
+- I’d been so busy eating, drinking, performing my entitlement, that I hadn’t even tasted the food.
+	- February 3, 2020
+	- Incentives, p. 119
+- The fetishized life without friction: What was it like? An unending shuttle between meetings and bodily needs? A continuous, productive loop? Charts and data sets. It wasn’t, to me, an aspiration. It was not a prize.
+	- February 3, 2020
+	- Incentives, p. 137
+- After all, his work was seen as strategy, while my work was interpreted as love.
+	- February 3, 2020
+	- Incentives, p. 140
+- “We already call our customers ‘users.’”
+	- February 3, 2020
+	- Incentives, p. 142
+- I understood my blind faith in ambitious, aggressive, arrogant young men from America’s soft suburbs as a personal pathology, but it wasn’t personal at all. It had become a global affliction.
+	- February 3, 2020
+	- Incentives, p. 154
+- Perhaps gunning for high output in one’s twenties was a way to compress the peak-of-life productive years, tee up an early retirement with a still-youthful body, but it seemed brazen to play God with time.
+	- February 3, 2020
+	- Scale, p. 166
+- Tech culture provided endless outlets for men to pursue activities coded as female—including, apparently, body manipulation.
+	- February 3, 2020
+	- Scale, p. 166
+- What books make up the core of your operating system?
+	- February 3, 2020
+	- Scale, p. 173
+- Everyone I knew was stuck in a feedback loop with themselves. Technology companies stood by, ready to become everyone’s library, memory, personality.
+	- February 7, 2020
+	- Scale, p. 186
+- The tech industry was making me a perfect consumer of the world it was creating. It wasn’t just about leisure, the easy access to nice food and private transportation and abundant personal entertainment. It was the work culture, too: what Silicon Valley got right, how it felt to be there. The energy of being surrounded by people who so easily articulated, and satisfied, their desires. The feeling that everything was just within reach.
+	- February 8, 2020
+	- Scale, p. 196	
+- Homogeneity was a small price to pay for the erasure of decision fatigue. It liberated our minds to pursue other endeavors, like work.
+	- February 8, 2020
+	- Scale, p. 199
+- his life no more important than anyone else’s life—except, by the terms governing the ecosystem, it was.
+	- February 9, 2020
+	- Scale, p. 207
+- sometimes wondered whether there was a unique psychic burden shared by people who worked in technology, specifically those of us building and supporting software that existed only in the cloud. The abstractions of knowledge work were well documented, but this felt new. It was not just the cognitive dissonance of how lucrative and powerful tech companies had become, when their tools did not physically exist, but that all software was vulnerable, at any time, to erasure.
+	- February 9, 2020
+	- Scale, p. 218
+- He didn’t stand up at the end of the day and think, as I did: Oh, right—a body.
+	- February 9, 2020
+	- Scale, p. 219
+- Silicon Valley had become a gesture, an idea, an expansion, and an erasure. A shorthand and a Rorschach test. A dream or a mirage.
+	- February 10, 2020
+	- Scale, p. 232
+- There was a running joke that the tech industry was simply reinventing commodities and services that had long existed. This joke was disliked by many entrepreneurs and venture capitalists, though I thought they should be thankful for the diversion: it moved the conversation away from structural questions about why certain things, like mass transit, or housing, or urban development, had problems in the first place.
+	- February 11, 2020
+	- Scale, p. 237
+- What I didn’t realize was that technologists’ excitement about urbanism wasn’t just an enthusiasm for cities, or for building large-scale systems, though these interests were sincere. It was an introductory exercise, a sandbox, a gateway: phase one of settling into newfound political power.
+	- February 11, 2020
+	- Scale, p. 240
+- I liked feeling right; I loved feeling right. Unfortunately, I also wanted to feel good. I wanted to find a way, while I could, to engage with my own life.
+	- February 13, 2020
+	- Scale, p. 261
+- I was looking for stories; I should have seen a system.
+	- February 13, 2020
+	- Scale, p. 262
+- Life in the attention economy had made me oblivious. My social media feeds overflowed with feminist slogans, iconography, and products: ceramic vases shaped like naked breasts, baby onesies that read THE FUTURE IS FEMALE. This had been my internet for months.
+	-  February 13, 2020
+	- Scale, p. 268

@@ -1,0 +1,126 @@
+---
+title: This is Marketing - Book
+---
+## Information
+- **Source:** [[Seth Godin]]
+- **Tags:** #nonfiction #marketing #business
+- **Notes:** [[This is Marketing - Literature Notes]]
+
+## Highlights
+- The first step on the path to make things better is to make better things.
+	- August 31, 2019
+	- The compass points toward trust, p. 9
+- Your emergency is not a license to steal my attention. Your insecurity is not a permit to hustle me or my friends.
+	- September 1, 2019
+	- Chapter Three: Marketing Changes People Through Stories, Connections, and Experience, p. 20
+- Marketing is our quest to make change on behalf of those we serve, and we do it by understanding the irrational forces that drive each of us.
+	- September 2, 2019
+	- Chapter Four: The Smallest Viable Market, p. 29
+- use psychographics instead of demographics.
+	- September 5, 2019
+	- Empathy is at the heart of marketing, p. 42
+- Sonder is defined as that moment when you realize that everyone around you has an internal life as rich and as conflicted as yours.
+	- September 5, 2019
+	- Empathy is at the heart of marketing, p. 44
+- Everything that we purchase—every investment, every trinket, every experience—is a bargain. That’s why we bought it. Because it was worth more than what we paid for it.
+	- November 7, 2019
+	- Chapter Five: In Search of “Better”, p. 49
+- “Adherence to conspiracy theory might not always be the result of some perceived lack of control, but rather a deep-seated need for uniqueness.”
+	- December 13, 2019
+	- Empathy is at the heart of marketing, p. 51
+- You’re not running around grabbing every conceivable lock to try out your key. Instead, you’re finding people (the lock), and since you are curious about their dreams and desires, you will create a key just for them, one they’ll happily trade attention for.
+	- December 14, 2019
+	- Empathy is at the heart of marketing, p. 60
+- The alternative is to build your own quadrant. To find two axes that have been overlooked. To build a story, a true story, that keeps your promise, that puts you in a position where you are the clear and obvious choice
+	- December 16, 2019
+	- Chapter Six: Beyond Commodities, p. 69
+- The alternative is to find and build and earn your story, the arc of the change you seek to produce.
+	- December 17, 2019
+	- Does it work?, p. 75
+- Marketing acts (interesting choice of word, acts) are the generous actions of people who care.
+	- December 17, 2019
+	- Does it work?, p. 76
+- Emotional labor is the work we do to provide service.
+	- December 16, 2019
+	- Chapter Seven: The Canvas of Dreams and Desires, p. 80
+- This core basket of dreams and desires means that marketers, like artists, don’t need many colors to paint an original masterpiece.
+	- December 17, 2019
+	- The most effective remarkability comes from design, p. 92
+- If you can’t succeed in the small, why do you believe you will succeed in the large?
+	- December 17, 2019
+	- Deep change is difficult, and worth it, p. 102
+- Everyone always acts in accordance with their internal narratives.
+	- December 17, 2019
+	- Deep change is difficult, and worth it, p. 104
+- Even when we adopt the behavior of an outlier, when we do something the
+	- December 17, 2019
+	- Deep change is difficult, and worth it, p. 106
+- Marketers don’t make average stuff for average people. Marketers make change. And they do it by normalizing new behaviors.
+	- December 17, 2019
+	- Deep change is difficult, and worth it, p. 111
+- In order to change a culture, we begin with an exclusive cohort. That’s where we can offer the most tension and create the most useful connections.
+	- December 17, 2019
+	- Chapter Eleven: Status, Dominance, and Affiliation, p. 134
+- sonder is the generous act of accepting that others don’t want, believe, or know what we do—and have a similar noise in their heads.
+	- December 18, 2019
+	- Chapter Twelve: A Better Business Plan, p. 143
+- The purpose of our culture isn’t to enable capitalism, even capitalism that pays your bills. The purpose of capitalism is to build our culture.
+	- December 18, 2019
+	- What does this remind you of?, p. 154
+- If you want to build a marketing asset, you need to invest in connection and other nontransferable properties. If people care, you’ve got a brand.
+	- December 18, 2019
+	- What does this remind you of?, p. 154
+- If a brand is our mental shorthand for the promise that you make, then a logo is the Post-it reminder of that promise. Without a brand, a logo is meaningless.
+	- December 18, 2019
+	- Chapter Fourteen: Treat Different People Differently, p. 159
+- Lazy marketers try to buy enrollment with flashy ads. The best marketers earn enrollment by seeking people who want the change being offered. And they do it by connecting people to others who want the change as well. And that change is precisely what marketers seek.
+	-  December 18, 2019
+	-  Chapter Fourteen: Treat Different People Differently, p. 163
+- You’ll serve many people. You’ll profit from a few.
+	- December 18, 2019
+	- Goals, strategy, and tactics, p. 171
+- Direct marketing is action oriented. And it is measured. Brand marketing is culturally oriented. And it can’t be measured.
+	- December 18, 2019
+	- Goals, strategy, and tactics, p. 177
+- The path isn’t to be found when someone types in a generic term. The path is to have someone care enough about you and what you create that they’ll type in your name. That they’ll be looking for you, not a generic alternative.
+	- December 18, 2019
+	- Goals, strategy, and tactics, p. 170
+- Even “free” publicity costs you in terms of time and effort.
+	- December 18, 2019
+	- Goals, strategy, and tactics, p. 176
+- But frequency teaches us that there’s a very real dip—a gap between when we get bored and when people get the message.
+	- January 8, 2020
+	- Pricing is a marketing tool, not simply a way to get money, p. 179
+- Marketing changes your pricing. Pricing changes your marketing.
+	- January 8, 2020
+	- Pricing is a marketing tool, not simply a way to get money, p. 184
+- We don’t know how to make a living if we give everything away. The road out of this paradox is to combine two offerings, married to each other: Free ideas that spread. Expensive expressions of those ideas that are worth paying for.
+	- January 8, 2020
+	- Pricing is a marketing tool, not simply a way to get money, p. 188
+- That story isn’t for everyone, but for the right people, it transforms the experience. Who’s it for, what’s it for, and how is status changed? What will I tell the others?
+- January 8, 2020
+- Pricing is a marketing tool, not simply a way to get money, p. 182
+- Low price is the last refuge of a marketer who has run out of generous ideas.
+	- January 9, 2020
+	- Permission is anticipated, personal, and relevant, p. 195
+- It’s almost impossible to spread your word directly. Too expensive, too slow. To find individuals, interrupt them, and enroll them, one by one . . . it’s a daunting task. The alternative is to intentionally create a product or service that people decide is worth talking about. I call this a Purple Cow.
+	- January 9, 2020
+	- What’s fake?, p. 202
+- The goal isn’t to maximize your social media numbers. The goal is to be known to the smallest viable audience.
+	- January 9, 2020
+	- Chapter Nineteen: The Funnel, p. 216
+- This means that living on the long tail has two essential elements: Creates the definitive, the most essential, the extraordinary contribution to the field. Connects the market you’ve designed it for, and helps them see that you belong in the short head. That this hit is the glue that holds them together.
+	- January 9, 2020
+	- Chapter Nineteen: The Funnel, p. 216
+- Yes, the internet is a discovery tool. But no, you’re not going to get discovered that way. Instead, you will make your impact by uniting those you seek to serve.
+	- January 9, 2020
+	- Chapter Nineteen: The Funnel, p. 207
+- consider focusing on which steps to shift or eliminate. Explore what happens if people engage in your ideas or your community before you ask them to send you money. Invest in the lifetime value of a customer, building new things for your customers instead of racing around trying to find new customers for your things.
+	- January 9, 2020
+	- Chapter Nineteen: The Funnel, p. 207
+- by dividing the market into many curves, not just one, we end up with many short heads and many long tails.
+	- January 9, 2020
+	- Chapter Nineteen: The Funnel, p. 215
+- He has articulated a simple three-step narrative for action: the story of self, the story of us, and the story of now.
+	- January 15, 2020
+	- It’s not your tribe, p. 231
