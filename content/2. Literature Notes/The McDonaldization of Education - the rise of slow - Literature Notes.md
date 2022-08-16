@@ -1,16 +1,16 @@
 ---
 title: "The McDonaldization od Education - the rise of slow - Literature Notes"
 ---
-See [[The McDonaldization of Education - the rise of slow - Essay]]
+See [[1. Resource Notes/The McDonaldization of Education - the rise of slow - Essay]]
 #literaturenotes 
 ## Notes
-**"[[The cult of speed]]"**
+**"[[3. Permanent Notes/The cult of speed]]"**
 + coined by journalist Carl Honore
 + Fast and slow are shorthand for ==ways of being, or philosophies of life==
 	+ Fast: busy, controlling, aggressive, hurried, analytical, stressed, superficial, impatient, active, quantity-over-quality
 	+ Slow: calm, careful, receptive, still, intuitive, unhurried, patient, reflective, quality-over-quantity. It is about ==making real and meaningful connections with people== — culture, work, food, everything.
 
-**[[McDonaldization]]**
+**[[3. Permanent Notes/McDonaldization]]**
 + coined by George Ritzer
 + also known as "need for speed"
 + the process by which the ==principles of the fast food industry are coming to dominate== more and more sectors of the world
@@ -42,7 +42,7 @@ See [[The McDonaldization of Education - the rise of slow - Essay]]
 + Predictability
 	+ causes the ==standardization of a curriculum and the way it's taught==
 		+ with little to no regard for student interest, background, or ethnicity
-		+ [[Digital learning exacerbates and reproduces inequality]]
+		+ [[3. Permanent Notes/Digital learning exacerbates and reproduces inequality]]
 	+ Every student must be able to display the same skill (or regurgitation of content knowledge) at the same time.
 + Calculability
 	+ Important to calculate whether there's a difference being made or not, so ==system of high stakes testing== is introduced
@@ -61,7 +61,7 @@ See [[The McDonaldization of Education - the rise of slow - Essay]]
 			+ Others quit early or need stress leave
 		+ Children are more heavily medicated now than any other time in history
 
-**[[The Slow movement]]**
+**[[3. Permanent Notes/The Slow movement]]**
 + originated from Slow Food
 	+ abdicates industrial food conglomerates
 	+ seeks to reconnect citizens to the richness of a common life with the neighbours who grow and prepare our food
@@ -75,7 +75,7 @@ See [[The McDonaldization of Education - the rise of slow - Essay]]
 	+ Clean
 	+ Fair
 
-**[[The Slow movement]] for education**
+**[[3. Permanent Notes/The Slow movement]] for education**
 + What it's all about...
 	+ Reimagining what it means to be a community of learners
 	+ Requires us to admit to and evaluate the organic messiness of learning
@@ -87,7 +87,7 @@ See [[The McDonaldization of Education - the rise of slow - Essay]]
 		+ Allows children to engage in real, meaningful work that matters to them and their community
 		+ Empowes children with the opportunity to identify and seek solutions to problems in their community
 		+ Consequence of these changes: re-educating communities to see students as authentic and active participants in community life
-		+ Authentic education is also an ==act of justice==. [[Design justice]]
+		+ Authentic education is also an ==act of justice==. [[3. Permanent Notes/Design justice]]
 			+ allowing kids to explore social issues
 			+ helping them become ethical citizens who speak out and make a difference
 	+ Individualized
@@ -95,7 +95,7 @@ See [[The McDonaldization of Education - the rise of slow - Essay]]
 		+ Respond to ==real needs== of students
 		+ Shift to using content to teach skills, student interest, and how to learn
 		+ Student-centered
-		+ Teachers must become co-learners, and let go of control. [[Teachers are facilitators]]
+		+ Teachers must become co-learners, and let go of control. [[3. Permanent Notes/Teachers are facilitators]]
 		+ Requires ==trust==: districts to trust administrators, administrators to trust teachers, and teachers to trust students.
 		+ Supporting all of this is a community deeply connected to the life of the school
 	+ Formative
@@ -114,8 +114,8 @@ See [[The McDonaldization of Education - the rise of slow - Essay]]
 ✓ We ==create learning environments== that are carefully crafted, receptive, still, intuitive, unhurried, patient, reflective, quality-over-quantity and engaging.
 ✓ We develop curriculum that has ==greater depth than breadth.==
 ✓ We make sure our curriculum takes into account ==local culture== and celebrates the uniqueness of our ==local community.==
-✓ We don’t isolate skills development but ==let students grow their skills== as they engage with important content. [[Critical thinking and skill development are not mutually exclusive]]
-✓ We construct learning environments that ==foster questioning, creativity and innovation==, such as the maker movement and project/problem based learning. [[Problem-based learning]]
+✓ We don’t isolate skills development but ==let students grow their skills== as they engage with important content. [[3. Permanent Notes/Critical thinking and skill development are not mutually exclusive]]
+✓ We construct learning environments that ==foster questioning, creativity and innovation==, such as the maker movement and project/problem based learning. [[3. Permanent Notes/Problem-based learning]]
 ✓ We find the courage to have serious discussions about ==abolishing standardized testing, classroom marks and grading, and the use of “birth year” as our primary criterion for sorting students.==
 ✓ We ==lobby our governments for funds== to assure true equality in education for all children.
 ✓ We ==discontinue the ranking== of teachers and schools.
@@ -125,5 +125,5 @@ See [[The McDonaldization of Education - the rise of slow - Essay]]
 ✓ We ==make student voice and choice an integral part== of everyday teaching and learning.
 
 **Related Notes:**
-+ [[Learning to earn vs. learning to learn - Literature Notes]]
-+ [[Design Justice - Literature Notes]]
++ [[2. Literature Notes/Learning to earn vs. learning to learn - Literature Notes]]
++ [[2. Literature Notes/Design Justice - Literature Notes]]

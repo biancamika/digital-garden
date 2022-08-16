@@ -3,8 +3,8 @@ title: "Becoming - Literature Notes"
 ---
 ## Notes
 #literaturenotes 
-See [[Becoming - Book]]
-- [[Growth is a never-ending process]].
+See [[1. Resource Notes/Becoming - Book]]
+- [[3. Permanent Notes/Growth is a never-ending process]].
 > Now I think it’s one of the most useless questions an adult can ask a child—What do you want to be when you grow up? As if growing up is finite. As if at some point you become something and that’s the end.
 
   > Becoming is never giving up on the idea that there’s more growing to be done.
@@ -14,7 +14,7 @@ See [[Becoming - Book]]
 
   >Do we settle for the world as it is, or do we work for the world as it should be?
 
-- [[Grief and resilience live together]].
+- [[3. Permanent Notes/Grief and resilience live together]].
 >But what America got that night was a moment of release, a chance to feel its own resilience.
 
 - Transformation is both ==patience== and ==rigor.==

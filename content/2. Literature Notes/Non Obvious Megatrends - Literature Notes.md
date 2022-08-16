@@ -2,7 +2,7 @@
 title: "Non Obvious Megatrends - Literature Notes"
 ---
 ## Notes
-See [[Non Obvious Megatrends - Book]]
+See [[1. Resource Notes/Non Obvious Megatrends - Book]]
 #literaturenotes #unfinished
 - Don't be a speed reader; be a **speed understander**.
  > You can’t understand the world better simply by reading about it as much as possible. You do so by being intentional about what you pay attention to in the first place.

@@ -3,8 +3,8 @@ title: "Do Design - Literature Notes"
 ---
 ## Notes
 #literaturenotes
-See [[Do Design - Book]]
-- [[Salve corpus amanti]] (save the lover's body): the experience of seeing with your eyes but “experiencing it emotionally and viscerally as with ==ecstasy== and with a sense of ==total unity and oneness.==”
+See [[1. Resource Notes/Do Design - Book]]
+- [[3. Permanent Notes/Salve corpus amanti]] (save the lover's body): the experience of seeing with your eyes but “experiencing it emotionally and viscerally as with ==ecstasy== and with a sense of ==total unity and oneness.==”
     >salve corpus amanti, literally translated as ‘save the lover’s body’.
    
    >_We need to understand that humanity is a living system too, deeply interconnected with nature’s systems. We all ride flows of matter, energy and information. So it is absurd to persist in refusing to see our world as being interconnected, attempting to describe it instead as a place to be managed like numbers on an Excel spreadsheet, devoid of meaning, context, community and history. This could be our downfall._ 
@@ -13,10 +13,10 @@ See [[Do Design - Book]]
 - Questioning beauty takes us from thinking about ==surface impressions to core foundations.==
    
    >the question of beauty takes us away from the surfaces to thinking about the core foundations of things.
-- [[All useful things should be beautiful]].
+- [[3. Permanent Notes/All useful things should be beautiful]].
    
    >all useful things should also be beautiful. God, as architect Mies van der Rohe said, was in the details and, you never know, an angel may come one day and sit on that chair – it had to be worthy of such an event.
-- [[The limits of our language are the limits of our world]].
+- [[3. Permanent Notes/The limits of our language are the limits of our world]].
     - if you cannot describe a new destination, you will never get there.
   
   >the limits of our language are the limits of our world. A new language enables us to make the transition from where we are now, to where we need to get to. It lets us leap disciplinary boundaries. If we can’t describe it, then we struggle to make it.
@@ -30,7 +30,7 @@ See [[Do Design - Book]]
     - importance of language: its ability to uplift us, or to shape the way we see and therefore act in the world.
 - By bringing the subject and observer together, ==empathy broadens our horizons==, allowing us to create works with truth and beauty.
     >by removing the distance between subject and observer, empathy gifts us a huge depth of field. It allows us to create works of great truth and great beauty.
-- [[The greatest enemy of creative success is the attempt to fortify against failure]].
+- [[3. Permanent Notes/The greatest enemy of creative success is the attempt to fortify against failure]].
    >‘The greatest enemy of creative success is the attempt to fortify against failure.’
 - Work on your creation until ==people cannot imagine it existing any other way.==
    >labour at your work until people cannot imagine what you have designed existing any other way. Beauty is work well resolved. It is simple.

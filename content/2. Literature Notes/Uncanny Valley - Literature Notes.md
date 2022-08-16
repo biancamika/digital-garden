@@ -7,9 +7,9 @@ title: "Uncanny Valley - Literature Notes"
  > Good interface design was like magic, or religion: it cultivated the mass suspension of disbelief.
 - ==Soft skills were undervalued== despite evidence showing that ==emotional intelligence cannot be taught.==
   > Despite evidence that emotional intelligence, unlike programming languages or agile development, could not be taught—there was a reason compassion was a tall hurdle for AI—soft skills were undervalued.
-- Phenomena like [[sick systems]] and [[trauma bonding]] show ==how people keep busy as a coping mechanism.==
+- Phenomena like [[3. Permanent Notes/sick systems]] and [[3. Permanent Notes/trauma bonding]] show ==how people keep busy as a coping mechanism.==
  >  “Look up sick systems,” said Noah. “Look up trauma bonding. It’s the culty thing: keep people busy until they forget about the parts of their life they left behind.”
-- [[Frictionless life should not be fetishized]].
+- [[3. Permanent Notes/Frictionless life should not be fetishized]].
   > The fetishized life without friction: What was it like? An unending shuttle between meetings and bodily needs? A continuous, productive loop? Charts and data sets. It wasn’t, to me, an aspiration. It was not a prize.
 - Perceptions of work can be tainted by ==gender bias.==
   > After all, his work was seen as strategy, while my work was interpreted as love.
@@ -17,7 +17,7 @@ title: "Uncanny Valley - Literature Notes"
    > Tech culture provided endless outlets for men to pursue activities coded as female—including, apparently, body manipulation.
 - Books make up the core of our ==operating system.==
    >  What books make up the core of your operating system?
-- [[Technology keeps us stuck in a feedback loop with ourselves]].
+- [[3. Permanent Notes/Technology keeps us stuck in a feedback loop with ourselves]].
    >  Everyone I knew was stuck in a feedback loop with themselves. Technology companies stood by, ready to become everyone’s library, memory, personality.
 - The tech industry creates ==consumers== of its leisure and work culture.
    > The tech industry was making me a perfect consumer of the world it was creating. It wasn’t just about leisure, the easy access to nice food and private transportation and abundant personal entertainment. It was the work culture, too: what Silicon Valley got right, how it felt to be there. The energy of being surrounded by people who so easily articulated, and satisfied, their desires. The feeling that everything was just within reach.

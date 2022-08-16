@@ -3,7 +3,7 @@ title: "Check Your Pulse - Literature Notes"
 ---
 ##  Notes
 #literaturenotes 
-See [[Check Your Pulse - Newsletter]]
+See [[1. Resource Notes/Check Your Pulse - Newsletter]]
 ### #55: Community-curated Knowledge Networks
 #community #social #people #technology 
 - Potential category: ==online communities at the intersection of content curation and knowledge management. == Knowledge organization is an untapped market.
@@ -19,8 +19,8 @@ See [[Check Your Pulse - Newsletter]]
 	- Chronological feeds have rewired our brains.
 		- ==Everything is fleeting in the feed.== This means you're either on, always connected, or off and feeling FOMO.
 		- Related notes:
-			- [[Technology keeps us stuck in a feedback loop with ourselves]]?
-			- [[Attention is a zero-sum game]]
+			- [[3. Permanent Notes/Technology keeps us stuck in a feedback loop with ourselves]]?
+			- [[3. Permanent Notes/Attention is a zero-sum game]]
 	- Digital architecture has turned us into ==obsessive documenters/consumers of the present.== However, we remain ==indifferent to the archives== we leave behind.
 >We seem to have accepted the job of the curator as providing a list of links with some commentary on an organized schedule. But this format is subject to the same accidental property of social media; ephemerality. 
 > What’s amazing is how chronological feeds — essentially accidental experiments of digital architecture — have rewired our brains. In the feed, everything is fleeting. This design property means you’re either always on and connected, or you’re off and wondering if you’re missing something important. 
@@ -40,7 +40,7 @@ See [[Check Your Pulse - Newsletter]]
 	- Despite technology's disruptions, content consumption is mostly unchanged.
 		- Basically, we've moved the words from the page to the screen.
 		- Related:
-			- [[The limits of our language are the limits of our world]]
+			- [[3. Permanent Notes/The limits of our language are the limits of our world]]
 > The conversation around curation thus far has focused too much on reducing the amount of information, and too little on what other architectures might be possible outside of the feeds or newsletters we’ve grown accustomed to.
 > While technology successfully disrupted content production, the experience of consuming content remains unchanged – the words have merely moved from a printed page to a screen. 
 - Thanks to the Internet, we now have the opportunity to introduce new types of ==digital architecture==. These will help us understand the world by adding ==context and relation.==
@@ -50,7 +50,7 @@ See [[Check Your Pulse - Newsletter]]
 		- we're slowly moving away from big social
 		- we better understand how to incentivize platforms
 
-![[Pasted image 20201118132423.png]]
-![[Pasted image 20201118132434.png]]
+![[images/Pasted image 20201118132423.png]]
+![[images/Pasted image 20201118132434.png]]
 >The Internet offers us the first major opportunity to introduce new, digitally-native information architectures that improve our understanding of the world through added context and relation.
 > The potential to build community-curated knowledge networks remains largely untapped. There are reasons to be optimistic; the economic feasibility of paid communities, a renewed interest in curation, a slow move away from big social, and an improved understanding of platform incentives. All combined, this will lead to communities that are more sustainable, aligned, and intentional

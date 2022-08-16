@@ -1,4 +1,4 @@
 ---
 title: "Art MOC"
 ---
-+ [[Art is the opposite of hype]]
++ [[3. Permanent Notes/Art is the opposite of hype]]

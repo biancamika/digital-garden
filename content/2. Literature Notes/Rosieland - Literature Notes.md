@@ -2,7 +2,7 @@
 title: "Rosieland - Literature Notes"
 ---
 ##  Notes
-See [[Rosieland - Newsletter]]
+See [[1. Resource Notes/Rosieland - Newsletter]]
 #literaturenotes 
 ### Community is dead, long live community!
 - ==People and conversations== are at the heart of any community. This is what people often don’t see, or all too easily forget.

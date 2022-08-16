@@ -2,13 +2,13 @@
 title: "Business MOC"
 ---
 eVeRyOne iS aN EnTrEpReNeUr
-+ [[Art is the opposite of hype]]
-+ [[Brand mood]]
-+ [[Build your own quadrant]]
-+ [[Every purchase is a bargain]]
-+ [[long tail]]
-+ [[Low price is a last resort]]
-+ [[Marketers make change]]
-+ [[Minimum viable audience]]
-+ [[Purple Cow]]
-+ [[short head]]
++ [[3. Permanent Notes/Art is the opposite of hype]]
++ [[3. Permanent Notes/Brand mood]]
++ [[3. Permanent Notes/Build your own quadrant]]
++ [[3. Permanent Notes/Every purchase is a bargain]]
++ [[3. Permanent Notes/long tail]]
++ [[3. Permanent Notes/Low price is a last resort]]
++ [[3. Permanent Notes/Marketers make change]]
++ [[3. Permanent Notes/Minimum viable audience]]
++ [[3. Permanent Notes/Purple Cow]]
++ [[3. Permanent Notes/short head]]

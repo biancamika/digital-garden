@@ -2,5 +2,5 @@
 title: "Words MOC"
 ---
 Yay! New ways to explain things
-+ [[Catachresis]]
-+ [[Sonder]]
++ [[3. Permanent Notes/Catachresis]]
++ [[3. Permanent Notes/Sonder]]

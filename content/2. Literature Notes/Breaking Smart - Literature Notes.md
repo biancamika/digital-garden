@@ -3,12 +3,12 @@ title: "Breaking Smart - Literature Notes"
 ---
 ##  Notes
 #literaturenotes 
-See [[Breaking Smart - Newsletter]]
+See [[1. Resource Notes/Breaking Smart - Newsletter]]
 ### Against Waldenponding 1
 https://breakingsmart.substack.com/p/against-waldenponding
-- [[Waldenponding]] is a philosophy of relating to technology based on Thoreau's Walden Pond experiment. It's basically all about unplugging and retreating from technology. 
+- [[3. Permanent Notes/Waldenponding]] is a philosophy of relating to technology based on Thoreau's Walden Pond experiment. It's basically all about unplugging and retreating from technology. 
 > ==philosophy of relating to technology== I call Waldenponding (after ==Thoreau's Walden Pond experiment== on which Walden is based). The crude caricature is "smash your smart phone and go live in a log cabin to reclaim your attention and your life from being hacked by evil social media platforms."
-- It is driven by FOBO: [[Fear of Being Ordinary]] and ego-attachment.
+- It is driven by FOBO: [[3. Permanent Notes/Fear of Being Ordinary]] and ego-attachment.
 	- FOBO is the opposite of FOMO: Fear of Missing Out. This is exploited by third parties who aim to drown you in information.
 
 > If FOMO, Fear Of Missing Out, is the basic fear exploited by third parties that want to drown you in information, the basic fear exploited by people telling you to unplug and retreat is ==FOBO: Fear Of Being Ordinary.==
@@ -16,7 +16,7 @@ https://breakingsmart.substack.com/p/against-waldenponding
 
 > Waldenponding, I strongly suspect, is ==driven more by FOBO and ego-attachment== than by any real fear of having your mind, productive potential, and rewards destroyed by "hacked attention."
 - Retreating from information flows is just ==a different way of having your attention hacked by others.==
-![[Attention Management Turnpike.png]]
+![[images/Attention Management Turnpike.png]]
 - **Attention Management Turnpike** *(pictured above)*
 	- Great Thoughts Time
 	- X Axis: OODA: Observe, Orient, Decide, Act
@@ -24,7 +24,7 @@ https://breakingsmart.substack.com/p/against-waldenponding
 	
 > Inspiration from 2 sources: The famous quote =="small minds discuss people, average minds discuss events, great minds discuss ideas"== ( = y axis) and Richard Hamming's idea of scheduling =="Great Thoughts"== calendar time in You and Your Research
 
-![[Great Thoughts.png]]
+![[images/Great Thoughts.png]]
 - We are part of a ==Giant Social Computer in the Cloud (GSCITC)== computing the future. 		
 	- Our "job" in this computer is determined by the ==level (size/difficulty) and latency (delay)== at which you consume and act on information 
 	- Shitposting and FOMO actually has a use
@@ -94,7 +94,7 @@ https://breakingsmart.substack.com/p/against-waldenponding
 
 >  information distribution has become free/cheap, so the firehose is going to have flows at all timescales, time constants, and abstraction levels no matter what designers and advertisers want or don't want. ==It's the information firehose itself that's creating this environment not evil designers.==
 - Back in a pre-digital world, attention was originally hacked by powerful religious leaders who'd tell people to unplug from information flows, giving them power as a result.
-	- Also based on [[Fear of Being Ordinary]]
+	- Also based on [[3. Permanent Notes/Fear of Being Ordinary]]
 
 
 > ==the original attention hack: powerful religious leaders== telling smart people to check out and unplug from information flows. That way, they get the power
@@ -104,7 +104,7 @@ https://breakingsmart.substack.com/p/against-waldenponding
 - In the GSCITC, we are simply a ==unique instance== of a computerized human intelligence. 
 	- However, the GSCITC cannot give you ==individual recognition.==
 	- This flattens our egos and identities.
-	- This is the heart of [[Fear of Being Ordinary]]. We just don't want to be another component of the GSCTIC; our efforts aren't recognized even if they contribute to the system
+	- This is the heart of [[3. Permanent Notes/Fear of Being Ordinary]]. We just don't want to be another component of the GSCTIC; our efforts aren't recognized even if they contribute to the system
 
 
 > When you are plugged into the GSCITC, ==you are part of a great computational fluidization of human cognition.== You're just ==one instance== in a liquid cloud of human intelligence, your thoughts entangled with those of others in a giant ongoing computation.
@@ -144,7 +144,7 @@ https://breakingsmart.substack.com/p/against-waldenponding
 > Meaning-making entities -- humans, and organizations -- can only be trusted if they don't seem to know for sure where their soul is.
 
 > Believe it or not, this nebulous philosophical allegory is central to the seemingly mundane question of ==how much time you should be spending staring at the screens of digital devices.== Interestingly though, it is NOT our digital devices that are the untrustworthy horcruxes in this story. ==The true horcruxes are the objects that waldenponders believe are more deserving of your attention: the Walden ponds.==
-- [[You have agency over your own attention]].
+- [[3. Permanent Notes/You have agency over your own attention]].
 	- E.G. ad blockers, cogntive frames
 	- Therefore, if you think your attention is getting "hacked", it's because you're allowing it
 
@@ -204,7 +204,7 @@ https://breakingsmart.substack.com/p/against-waldenponding
 
 
 >  ==To live richly is to trust your soul to the universe at large, and the experiences it offers that we build technology to access more of.== The opposite of keeping your soul in a known safe space is constantly looking for signs of it in the ==stream of experiences that constitute life itself,== and ==digital life== is a particularly rich new part of that stream. Our challenge is not to keep returning to a  sense of the sacred in the same predictable place, but to ==keep rediscovering that predictable sense of the sacred in new places.==
-- [[Consistently approach the universe]] instead of retreating from it
+- [[3. Permanent Notes/Consistently approach the universe]] instead of retreating from it
 	- Only then can your soul get enriched
 	- waldenponding does nothing for you 
 

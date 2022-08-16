@@ -1,7 +1,7 @@
 ---
 title: "Learning to earn vs. learning to learn - Literature Notes"
 ---
-See [[Learning to earn vs learning to learn - Essay]]
+See [[1. Resource Notes/Learning to earn vs learning to learn - Essay]]
 #literaturenotes 
 
 ## John Dewey
@@ -15,18 +15,18 @@ See [[Learning to earn vs learning to learn - Essay]]
 	+ enable people to take initiatives to execute upon problems
 + pointed out that ==a democratic society is continually changing==—sometimes for the better, sometimes for the worse—and it requires citizens who are willing to participate and competent enough to distinguish between the better and the worse.
 + ==higher education should uplift learners==, liberating their potentiality and empowering them to become ‘masters of their own industrial fate.’
-	+ [[Education lives within a system of domination and liberation]]
+	+ [[3. Permanent Notes/Education lives within a system of domination and liberation]]
 
 ### Experiential education
 + The main basis of education is =="reconstruction or reorganization of experience"==
-	+ [[Constructionism]]
+	+ [[3. Permanent Notes/Constructionism]]
 	+ one must learn from one's experience in a fashion that ==avoids repeating mistakes== and that contributes to one's ability to ==make more informed decisions== in the future.
 + Parameters to be met:
 + **Continuity:** the idea that ==experience comes from and leads to other experiences==, in essence propelling the person to learn more.
 + **Interaction**
 
 ### The role of a teacher
- ![[Teachers are facilitators]]
+ ![[3. Permanent Notes/Teachers are facilitators]]
 An **effective** teacher...
 + caters to ==different teaching methods== according to what the student resonates with.
 + possess qualities that ==promote independence== in a democratic society
@@ -39,11 +39,11 @@ An **effective** teacher...
 ## Snedden v.s. Dewey
 ### Learning-to-earn and Learning-to-learn
 + **Learning-to-earn**
-	+ [[Vocational education]]: a vocational approach in order to train workers to fuel the economy.
+	+ [[3. Permanent Notes/Vocational education]]: a vocational approach in order to train workers to fuel the economy.
 	+ does not build a habit to enable future self-directed-learning
 	+ View of administrative progressive movement, which was spearheaded by David Snedden
 + **Learning-to-learn**
-	+ [[Liberal education]]
+	+ [[3. Permanent Notes/Liberal education]]
 	+ Deeply personal
 	+ students should learn a broad range of subjects to allow them to participate in greater democracy.
 
@@ -52,8 +52,8 @@ An **effective** teacher...
 
 ### Debate
 + Snedden believes there is a need for two kinds of higher education:
-	+ [[Liberal education]] for the elites
-	+ [[Vocational education]] for the "rank and file"
+	+ [[3. Permanent Notes/Liberal education]] for the elites
+	+ [[3. Permanent Notes/Vocational education]] for the "rank and file"
 + Dewey addressing vocational education:
 	+ their vision of vocational education is too closely allied with the ==interests of industrialists== to serve the greater public interest
 	+ it suggests an imprudent approach to educational reform, whereby no meaningful change is ever forthcoming. ==Vocationalism merely props up the status quo==, a disappointing state of industrial relations warranting the continued exploitation of workers by management.
@@ -62,7 +62,7 @@ An **effective** teacher...
 + Role of definition in a democracy:
 	+ National Education Association Commission: The purpose of democracy is so to organize society that ==each member may develop his personality== primarily through ==activities designed for the well-being of his fellow members and of society== as a whole.
 	+ Consequently: education in a democracy, both within and without the school, should develop in each individual the knowledge, interests, ideals, habits, and powers whereby ==he will find his place== and use that place to ==shape both himself and society toward ever nobler ends==
-	+ [[Education lives within a system of domination and liberation]]
+	+ [[3. Permanent Notes/Education lives within a system of domination and liberation]]
 + How did Dewey lose?
 	+ The administrative progressive message of educational utility and social efficiency had ==great appeal to policymakers and people in power== since it offered an answer to promote ==economic productivity== (vocational education taught students things they could use and apply to the workforce).
 	+ The administrative progressives grounded their educational proposals on the ==authority of science.== They developed a way to measure ability and classify students and used these measures to develop curricula and organizational structures and schools. The literature presented in their proposal was filled with scientific terms which helped make the case of their vision as modern and data-driven.
@@ -77,7 +77,7 @@ An **effective** teacher...
 ### Why Snedden's view on education is problematic
 + he viewed education as a way to prepare for a person's calling in life.
 + way of thinking is one that optimizes for social efficiency and is discriminatory: he believed that only the elites should obtain liberal education while the rest of the people should be trained in a vocation.
-	+ [[Education lives within a system of domination and liberation]]
+	+ [[3. Permanent Notes/Education lives within a system of domination and liberation]]
 + Is Snedden's vocationalism is the answer to ending poverty? Critics have argued that it does not.
 	+ In this model of education (people are either consumers or producers), education is a tool to increase their potential earnings and escape poverty; the status quo is always upheld. ==When someone is educated, another uneducated person slots right into the role.==
 + On the contrary, Dewey's vision of democratic education serves more beyond increasing earning potential. He envisioned that with proper rich education experience, ==people will be better equipped to cure social ills== that need to be addressed including poverty and crime as well as health concerns.
@@ -123,7 +123,7 @@ An **effective** teacher...
 > It is not sufficient, and it may actually undermine our democracy, to concentrate on producing people who do well on standardized tests and who define success as getting a well-paid job. ==Democracy means more than voting and maintaining economic productivity, and life means more than making money and beating others to material goods.==
 
 + In his paper, Ralston described that ==microcredentials fall short of educating a whole person.== The point he brings up works equally well when we replace microcredentials with vocationalism.
-	+ [[Critical thinking and skill development are not mutually exclusive]]
+	+ [[3. Permanent Notes/Critical thinking and skill development are not mutually exclusive]]
 
 > Microcredentialing is unconcerned with educating the whole person. Unlike Liberal Arts education, which catalyzes changes in the entire character of the learner, vocationally oriented microcredentialing ==seeks only to transfer hard skills and technical competencies== to the client-learner. In the absence of a General Education component, microcredentialing tends to ==cultivate only a single dimension, aspect, or element of the learner’s character, effectively producing a technician, not a well-rounded person.== Past president of the University of Chicago, Robert Hutchins (1936/1958), voiced a similar complaint about vocational train- ing: ‘The pursuit of knowledge for its own sake is being rapidly obscured in universities and may soon be extinguished. [ . .] [S]oon everybody in a university will be there for the purpose of being trained for something. [ . .] It is plain, though, that it is bad for the universities to vocationalize them’ (36–7). Insofar as microcredentialing fails to educate the whole person, it exacerbates one symptom of the neoliberal learning economy, namely, the turn away from pursuing knowledge for its own sake and towards learning to earn (Siskin and Warner 2019).
 

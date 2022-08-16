@@ -3,14 +3,14 @@ title: "More to That - Literature Notes"
 ---
 ## Notes
 #literaturenotes 
-See [[More to That - Blog]]
+See [[1. Resource Notes/More to That - Blog]]
 ### The Information Lifecycle: How Three Filters Shape the Mind
 #information #cognition
-- [[Attention is a zero-sum game]].
+- [[3. Permanent Notes/Attention is a zero-sum game]].
 - Information abundance simply means we have infinite opportunities to react to data.
 >Whenever we point to “information abundance,” what we are really saying is that we have ==“endless opportunities to react to data.”==
 - The process of unknown facts becoming perspective-changing beliefs is known as the ==information lifecycle==.
-![[Information Lifecycle.png]]
+![[images/Information Lifecycle.png]]
 - The first filter of this is ==awareness==.
 	- This is governed by ==curiousity==. Without it, we remain closed to facts in the first place.
 	> Without cultivating curiosity, the awareness filter remains closed to any facts in the first place.
@@ -29,7 +29,7 @@ See [[More to That - Blog]]
 >  Interpreting information has less to do with curiosity, and more to do with ==diligence.== Curiosity was the force that brought me to the book, but diligence is what will make that book a useful source of [knowledge](https://moretothat.com/framework-for-knowledge/).
 - The final filter is ==identity==.
 	- This gives you the option to incorporate it into our worldview, composed of ==beliefs, ideas, and truths.==
-	- [[Identity isn't constructed independently]]; it's always constructed in relationship to something else that exists alongside you.
+	- [[3. Permanent Notes/Identity isn't constructed independently]]; it's always constructed in relationship to something else that exists alongside you.
 	- Our identities bring together those who are ==similar,== but break apart those who are ==different.==
 
 > Once that information is processed, we then have the option to incorporate it into our worldview, or discard it altogether. This is decided by the final bottleneck: ==the filter of identity.==
@@ -39,7 +39,7 @@ See [[More to That - Blog]]
 
 > Identities organize the familiar, but divide the unfamiliar. ==The more we love the idea of “us,” the more we hate the idea of “them.”==
 - We can avoid this division among ourselves by ==freeing ourselves from the notion of identity.==
-	- [[Freedom from conditioning]]: letting go of all of ==society's influences== that have forced us into certain roles (e.g. gender stereotypes)
+	- [[3. Permanent Notes/Freedom from conditioning]]: letting go of all of ==society's influences== that have forced us into certain roles (e.g. gender stereotypes)
 
 > Krishnamurti calls this “freedom from conditioning,” where we are able to let go of all the societal influences that have shaped and categorized us into certain roles.
 

@@ -3,8 +3,8 @@ title: "Garden City - Literature Notes"
 ---
 ## Notes
 #literaturenotes 
-See [[Garden City - Book]]
-- [[Work is a core part of our human identity]].
+See [[1. Resource Notes/Garden City - Book]]
+- [[3. Permanent Notes/Work is a core part of our human identity]].
 >  Because when we stop working, we lose a part of who we are. 
 
   > In   Genesis ’s   vision   of   humanness,   we   don’t   work   to   live;   we   live   to   work .   It   flat   out   says   we   were   created   to rule — to make something of God’s world. 
@@ -29,13 +29,13 @@ See [[Garden City - Book]]
     >  When   we   see   the   world   in   the   shape   that   God   intended,   the   way   it’s   supposed   to   be,   God   gets   glory,   without a   word . 
 - Your vocation is your ==voice.==
   > The   word   vocatio   can   also   be   translated   voice .   Man,   that   says   a   lot.   Your   vocation   is   your   voice. LOCATION: Page 52
-- [[Calling isn't chosen; it's discovered]].
+- [[3. Permanent Notes/Calling isn't chosen; it's discovered]].
   > Calling   isn’t   something   you   choose ,   like   who   you   marry   or   what   house   you   buy   or   what   car   you   buy;   it’s something you unearth. You excavate. You dig out. And you discover. 
 - God's glory is about ==presence and beauty.==
   >  The   idea   behind   kavod   is   God’s   significance .   He’s   weighty,   as   in   important .   There’s   something   about   this God that we need to stand in awe of. And all through the Scriptures, God’s glory is about two things: Presence and beauty.
    
    > God’s   kavod   here   isn’t   his   fame;   it’s   his   presence   —   the   fact   that   he   was   there ,   not   far   away,   but   close.   Heav- en and earth were wed, if only for a moment. And it’s his beauty — this staggering sense of how good he really is.
-- [[God is an artist]].
+- [[3. Permanent Notes/God is an artist]].
    > God is a lavish, opulent,   extravagant   artist ,   and   creation   is   his   beauty   on   display.
 
 
@@ -63,7 +63,7 @@ See [[Garden City - Book]]
 
 
     > So we all have gifts, but we don’t all have the same dosage of grace. Some of us have more; others have less. And that’s okay. Your   job   isn’t   to   be   the   best   in   your   field,   just   the   best   version   of   yourself.
-- [[The best way to serve others with our work is to serve the work]].
+- [[3. Permanent Notes/The best way to serve others with our work is to serve the work]].
     > A genuine, authentic love of excellence isn’t rooted in greed or narcissism or materialism — that’s dualism talking.   It’s   rooted   in   love ,   for   God   and   others.   A   desire   to   serve   God   and   his   world   well. 
     
 	> Dorothy Sayers, this spunky, rebellious British writer from half a century ago, said that the best way to serve others with our work is to “serve the work.”
@@ -71,7 +71,7 @@ See [[Garden City - Book]]
 	> Do one thing. And   do   one   thing   well . And do that one thing well as an act of service and love for the world and to the glory of God.
     
 	> If you’re really good at whatever it is you do, you don’t need to tell the rest of us. We’ll know. Beautiful things don’t ask for attention.
-- [[Work can become a god in and of itself]].
+- [[3. Permanent Notes/Work can become a god in and of itself]].
     > My point is that as human beings, we have this slant to look to our work for significance we can only find in God. When we uncouple our work from God, work becomes a sort of god in and of itself.
 
 
@@ -92,7 +92,7 @@ See [[Garden City - Book]]
 
 
     > The Sabbath is a day to embrace this reality, to let it sink in, to own it, to celebrate it. To celebrate our weak- ness,   our   mortality,   our   limits .   To   celebrate   our   God   of   strength   and   immortality   and   limitless   power.   To   rest with   him   and   to   rest   in   him.
-- [[Everything has a cost]].
+- [[3. Permanent Notes/Everything has a cost]].
     > Everything   we enjoy costs something. And if it doesn’t cost us, it costs someone else.
 - The Sabbath is ==freeing.==
     > The Sabbath is about leaving Egypt behind. About emancipation from Pharaoh’s suffocating rule. It’s about freedom.

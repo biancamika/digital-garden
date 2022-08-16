@@ -6,7 +6,7 @@ See [[Yancy Strickler]]
 #literaturenotes 
 ### The Dark Forest Theory of the Internet
 #internet #social #people 
-- This is based on Liu Ciuxin's [[The Three Body Problem]] about the universe.
+- This is based on Liu Ciuxin's [[3. Permanent Notes/The Three Body Problem]] about the universe.
 	- A universe consisting of 3 solar-type stars orbiting each other in an ==unstable three-body system==.
 		- One Earth is being passed among them, and subjected to suffering extremes of heat and cold. This results in repeated destruction of intelligent civilizations.
 > from author Liu Ciuxin’s The Three Body Problem, about the universe
@@ -32,14 +32,14 @@ See [[Yancy Strickler]]
 	- Versus the communication style of mass channels
 		- High risks + rewards, and limited moderation
 >  The dark forests grow because they provide psychological and reputational cover. They allow us to be ourselves because we know who else is there. Compared to the free market communication style of the mass channels — with their high risks, high rewards, and limited moderation — dark forest spaces are more Scandinavian in their values and the social and emotional security they provide. 
- - According to the [[Bowling Alley Theory of the Internet]], people go online just to meet each other. In the long term, the venues we congregate in are unimportant compared to the ==interactions themselves.==
+ - According to the [[3. Permanent Notes/Bowling Alley Theory of the Internet]], people go online just to meet each other. In the long term, the venues we congregate in are unimportant compared to the ==interactions themselves.==
  >  the Bowling Alley Theory of the Internet: that people are online purely to meet each other, and in the long run the venues where we congregate are an unimportant background compared to the interactions themselves.
  - Community builders (a.k.a. dark forests) underestimate how powerful these mainstream channels are; our havens will be minor compared to their immensity.
 	 - Social media like FB, Twitter, etc. won't go away.
 	 -  ==The meaning and tone of these platforms changes with who uses them.== What kind of bowling alley it is depends on who goes there.
 		 -  Related notes:
-			 -  [[context collapse]]
-			 -  [[Everyone always acts in accordance with their internal narratives]]
+			 -  [[3. Permanent Notes/context collapse]]
+			 -  [[3. Permanent Notes/Everyone always acts in accordance with their internal narratives]]
 	 - If a significant portion of the population leaves these spaces, it will also leave people left to influence, and limit the influence of those who left. This might make the dark forest more dangerous. Do you really want to give power to those in the dark?
 > And those of us building dark forests risk underestimating how powerful the mainstream channels will continue to be, and how minor our havens are compared to their immensity.
 > The influence of Facebook, Twitter, and others is enormous and not going away. There’s a reason why Russian military focused on these platforms when they wanted to manipulate public opinion: they have a real impact. The meaning and tone of these platforms changes with who uses them. What kind of bowling alley it is depends on who goes there.
@@ -52,12 +52,12 @@ See [[Yancy Strickler]]
 	- Our digital breadcrumbs can be used as evidence against us.
 	- Because of this, we stay silent, and moved underground. For our safety.
 >  The internet went from a venue for low stakes experimentation to the place with some of the highest stakes of all. With the rise of online bullying, shaming (https://www.amazon.com/dp/B00L9B7IRC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), and swatting (https://en.wikipedia.org/wiki/Swatting), the internet became emotionally, reputationally, and physically dangerous. It became the dark forest. Our digital breadcrumbs became evidence that could and would be used against us. To keep safe we exercised our right to stay silent and moved underground.
-- Back to Ciuxin's [[The Three Body Problem]]. A solution for this dark forest: creating a =="black domain".==
+- Back to Ciuxin's [[3. Permanent Notes/The Three Body Problem]]. A solution for this dark forest: creating a =="black domain".==
 	-  A black domain stops everything from getting in or out. It’s security through ==cosmic self-imprisonment.==
 	-  Can be compared to putting phones in freezers, Mastodon, and crypto cold storage.
 	-  Related Notes:
-		-  [[Waldenponding]]
-			-  [[Consistently approach the universe]]
+		-  [[3. Permanent Notes/Waldenponding]]
+			-  [[3. Permanent Notes/Consistently approach the universe]]
 	- However, dark forests (e.g. email lists, Slack groups) are more forgiving than these "black domains". They're not too off-grid. We're not that hardcore.
 	- But we're more like black domains than we care to admit, especially when it comes to ==showing our true selves online.==
 >  In The Three Body Problem series, author Liu Cixin presents a solution for the dark forest threat: a “black domain.” This device slows the speed of light to create a cloak of invisibility around a planet or galaxy. A black domain stops everything from getting in or out. It’s security through cosmic self-imprisonment.
