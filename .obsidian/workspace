@@ -7,8 +7,11 @@
         "id": "d86edc28db2a8628",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-08-17.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -54,6 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-08-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -68,5 +72,9 @@
     "currentTab": 0
   },
   "active": "d86edc28db2a8628",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/4. Miscellaneous Notes/Daily Notes/2022-08-17.md",
+    "content/Now.md",
+    "screenshot.png"
+  ]
 }
