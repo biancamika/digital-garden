@@ -7,10 +7,9 @@
         "id": "d86edc28db2a8628",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-09-05.md",
-            "mode": "source"
+            "file": "screenshot.png"
           }
         }
       }
@@ -57,7 +56,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-09-05.md",
+            "file": "screenshot.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,12 +72,12 @@
   },
   "active": "d86edc28db2a8628",
   "lastOpenFiles": [
+    "screenshot.png",
     "content/4. Miscellaneous Notes/Daily Notes/2022-09-05.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-09-06.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-08-23.md",
     "2022-08-18.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-08-17.md",
-    "content/Now.md",
-    "screenshot.png"
+    "content/Now.md"
   ]
 }
