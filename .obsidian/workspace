@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Critical theory",
+            "query": "screens",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -45,7 +45,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "efbc7d16044d4822",
@@ -73,6 +73,7 @@
   },
   "active": "d86edc28db2a8628",
   "lastOpenFiles": [
+    "content/4. Miscellaneous Notes/Daily Notes/2022-10-21.md",
     "2022-10-21.md",
     "content/Untitled.md",
     "2022-10-01.md",
@@ -81,7 +82,6 @@
     "content/4. Miscellaneous Notes/Daily Notes/2022-09-28.md",
     "2022-09-28.md",
     "content/2022-09-27.md",
-    "content/4. Miscellaneous Notes/Daily Notes/2022-09-26.md",
-    "content/4. Miscellaneous Notes/Daily Notes/2022-09-25.md"
+    "content/4. Miscellaneous Notes/Daily Notes/2022-09-26.md"
   ]
 }
