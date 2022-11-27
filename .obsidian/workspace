@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-10-21.md",
+            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-10-18.md",
             "mode": "preview"
           }
         }
@@ -45,7 +45,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "efbc7d16044d4822",
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-10-21.md",
+            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-10-18.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,15 +73,15 @@
   },
   "active": "d86edc28db2a8628",
   "lastOpenFiles": [
+    "content/4. Miscellaneous Notes/Daily Notes/2022-10-18.md",
+    "content/4. Miscellaneous Notes/Daily Notes/2022-10-20.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-10-21.md",
+    "content/4. Miscellaneous Notes/Daily Notes/2022-10-25.md",
     "2022-10-21.md",
     "content/Untitled.md",
     "2022-10-01.md",
-    "content/4. Miscellaneous Notes/Daily Notes/2022-10-18.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-06-27.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-09-28.md",
-    "2022-09-28.md",
-    "content/2022-09-27.md",
-    "content/4. Miscellaneous Notes/Daily Notes/2022-09-26.md"
+    "2022-09-28.md"
   ]
 }
