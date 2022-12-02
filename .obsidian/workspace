@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2020-11-06.md",
-            "mode": "preview"
+            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-11-23.md",
+            "mode": "source"
           }
         }
       }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2020-11-06.md",
+            "file": "content/4. Miscellaneous Notes/Daily Notes/2022-11-23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,7 @@
   },
   "active": "d86edc28db2a8628",
   "lastOpenFiles": [
+    "content/4. Miscellaneous Notes/Daily Notes/2022-11-23.md",
     "content/4. Miscellaneous Notes/Daily Notes/2020-11-06.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-10-18.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-10-20.md",
@@ -81,7 +82,6 @@
     "2022-10-21.md",
     "content/Untitled.md",
     "2022-10-01.md",
-    "content/4. Miscellaneous Notes/Daily Notes/2022-06-27.md",
-    "content/4. Miscellaneous Notes/Daily Notes/2022-09-28.md"
+    "content/4. Miscellaneous Notes/Daily Notes/2022-06-27.md"
   ]
 }
