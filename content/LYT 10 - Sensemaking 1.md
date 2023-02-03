@@ -1,4 +1,4 @@
-[[1. Resource Notes/LYT 10 MOC]]
+[[LYT 10 MOC]]
 
 ## Encounter to Expression
 - Walk around -> encounter -> spark -> develop insights further

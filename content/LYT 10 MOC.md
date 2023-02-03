@@ -24,8 +24,8 @@ Because'ing
   
   
 ## Sessions   
-- 2023-01-31 - [[LYT 10 - Super Session 1 (Tuesday)]] - [link]([https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1](https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1)).  
-- 2023-02-01 - [[LYT 10 - Sensemaking 1 (Wednesday)]]    
+- 2023-01-31 - [[LYT 10 - Super Session 1]] - [link]([https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1](https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1)).  
+- 2023-02-01 - [[LYT 10 - Sensemaking 1]]    
 - ---    
 - 2023-02-07 - [[LYT 10 - Super Session 2 (Tuesday)]]    
 - 2023-02-08 - [[LYT 10 - Sensemaking 2 (Wednesday)]]    

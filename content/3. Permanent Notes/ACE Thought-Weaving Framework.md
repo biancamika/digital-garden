@@ -2,7 +2,7 @@
 title: "ACE Thought-Weaving Framework"
 ---
 ## Reference
-- **Source:** [[1. Resource Notes/LYT 10 MOC]]
+- **Source:** [[LYT 10 MOC]]
 - **Keywords:** [[permanent notes]]
 - **Relevant Notes:** 
 ## Notes
@@ -18,6 +18,7 @@ title: "ACE Thought-Weaving Framework"
 	- I would just call my own ACE process gardening
 
 ### Exercise
+![[images/Pasted image 20230203003024.png]]
 - Producer
 	- What are your PKM/creative/work goals?
 		- To get organized
