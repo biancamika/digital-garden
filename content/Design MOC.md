@@ -1,7 +1,7 @@
 ---
 title: "Design MOC"
 ---
-On my craft.
+On my craft. 
 
 **Permanent Notes:**
 + [[Permanent Notes/All useful things should be beautiful]]
