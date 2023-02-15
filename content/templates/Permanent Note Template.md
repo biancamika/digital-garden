@@ -3,6 +3,6 @@ title:
 ---
 ## Reference
 - **Source:**
-- **Keywords:** [[permanent notes]]
+- **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
 ## Notes

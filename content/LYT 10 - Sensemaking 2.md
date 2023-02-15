@@ -1,0 +1,29 @@
+[[LYT 10 MOC]]
+## The NoMA Method
+- NoMa: note-making
+- sharpens your thinking, gives you intellectual assets
+- What most of us are not doing: externalizing our ideas...this is what we want to improve on
+- Note-taking
+	- quickly captured
+	- other people's thoughts
+	- FOMO mentality
+	- easy in, easy out
+- Note-making
+	- mindfully made 
+	- your words
+	- active
+	- JOMO
+	- mindfully in, mindfully out
+- Note-making is the act of investing in yourself.
+	- It gives you linkable assets, which can easily become intellectual assets.
+- Sometimes it's clear why you're note-making...but just as often, it's not clear. You feel the spark and you want to go towards that.
+- NoMa: a way to make insights in minutes last a lifetime
+- How to NoMa (related to [[Permanent Notes/ACE Thought-Weaving Framework]])
+	- Be a "thing finder": notice anythjing; "Hmm..."
+	- Connect... "That reminds me of..."
+	- "Because..."
+- How to build these assets? Make a note and link it
+- "The best time to plant an idea is yesterday. The next best time to plant is now."
+- The more general, the more difficult for topics
+- Make a **connection** to form an **expression**
+	- Which resonate: synthesize, shape, develop, assemble

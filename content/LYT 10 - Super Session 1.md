@@ -1,4 +1,4 @@
-Topic: [[3. Permanent Notes/ACE Thought-Weaving Framework]]
+Topic: [[Permanent Notes/ACE Thought-Weaving Framework]]
 
 **Feedback 1**
 - Which prompts above resonated with you the most? Share your responses.

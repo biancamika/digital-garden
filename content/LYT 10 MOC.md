@@ -1,18 +1,19 @@
 ## Onboarding 
 LYT Onboarding Answers 
-[[3. Permanent Notes/ACE Thought-Weaving Framework]]
+[[Permanent Notes/ACE Thought-Weaving Framework]]
 PKM Planet -- [My results](https://www.guidedtrack.com/programs/2tg920z/run?FirstName=Bianca&LastName=Aguilar&DRIVER_memory=17&DRIVER_idea=41&DRIVER_output=34&DRIVER_productivity=19&DRIVER_improvement=33&DRIVER_relationship=15&STYLE_topdown=3&STYLE_bottomup=11) 
 
 ## Concepts 
-[[Idea Emergence]]  
-STIR 
-Ideaverse  
+- [[Idea Emergence]]: How ideas grow. The invisible rules governing ideas. 
+- [[Mental Squeeze Point]]: What our MOCs help us overcome
+- MOCs: Spaces to gather, develop, and navigate ideas
+- STIR 
+- Ideaverse: The dream of LYT
 
 ## Unsorted 
 Cluster
-
 Note-making  
-
+[[LYT 10 Braindump]]
 
   
 ## "ing" words that are made up  
@@ -24,20 +25,23 @@ Because'ing
   
   
 ## Sessions   
+### Main
 - 2023-01-31 - [[LYT 10 - Super Session 1]] - [link]([https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1](https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1)).  
 - 2023-02-01 - [[LYT 10 - Sensemaking 1]]    
 - ---    
-- 2023-02-07 - [[LYT 10 - Super Session 2 (Tuesday)]]    
-- 2023-02-08 - [[LYT 10 - Sensemaking 2 (Wednesday)]]    
+- 2023-02-07 - [[LYT 10 - Super Session 2]]    
+- 2023-02-08 - [[LYT 10 - Sensemaking 2]]    
 - ---    
-- 2023-02-14 - [[LYT 10 - Super Session 3 (Tuesday)]]    
-- 2023-02-15 - [[LYT 10 - Sensemaking 3 (Wednesday)]]    
+- 2023-02-14 - [[LYT 10 - Super Session 3]]    
+- 2023-02-15 - [[LYT 10 - Sensemaking 3]]    
 - ---    
 - 2022-02-21 -  [[LYT 10 - Super Session 4 (Tuesday)]]    
 - 2022-02-22 - [[LYT 10 - Sensemaking 4 (Wednesday)]]    
 - ---    
 - 2022-02-28 - [[LYT 10 - Graduation & Next Steps (Tuesday)]]    
-   
+
+### Bonus
+- 2023-02-04 - [[LYT 10 - Bianca Pereira (Session 1)]]
    
 ## Curriculum    
 1A THE RECENT HISTORY AND LANDSCAPE OF PKM    

@@ -1,0 +1,1 @@
+- Prioritize relevance over structure
