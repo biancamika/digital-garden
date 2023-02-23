@@ -45,9 +45,9 @@
 
 --- 
 ## Sensemaking Takeaways
-- Have an opinion
+- **Have an opinion**
 	- Sharing an opinion forces active thinking
-- Make an argument
+- **Make an argument**
 	- It doesn't matter if you believe it or not
 	- Making an argument forces you to figure out what you actually think
 
