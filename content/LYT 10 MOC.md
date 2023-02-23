@@ -35,8 +35,8 @@ Because'ing
 - 2023-02-14 - [[LYT 10 - Super Session 3]]    
 - 2023-02-15 - [[LYT 10 - Sensemaking 3]]    
 - ---    
-- 2022-02-21 -  [[LYT 10 - Super Session 4 (Tuesday)]]    
-- 2022-02-22 - [[LYT 10 - Sensemaking 4 (Wednesday)]]    
+- 2022-02-21 -  [[LYT 10 - Super Session 4]]    
+- 2022-02-22 - [[LYT 10 - Sensemaking 4]]    
 - ---    
 - 2022-02-28 - [[LYT 10 - Graduation & Next Steps (Tuesday)]]    
 
