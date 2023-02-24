@@ -25,7 +25,7 @@ Because'ing
   
   
 ## Sessions   
-### Main
+### Main Sessions
 - 2023-01-31 - [[LYT 10 - Super Session 1]] - [link]([https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1](https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1)).  
 - 2023-02-01 - [[LYT 10 - Sensemaking 1]]    
 - ---    
@@ -40,8 +40,9 @@ Because'ing
 - ---    
 - 2022-02-28 - [[LYT 10 - Graduation & Next Steps (Tuesday)]]    
 
-### Bonus
+### Expert Sessions
 - 2023-02-04 - [[LYT 10 - Bianca Pereira (Session 1)]]
+- 2023-02-11 - [[LYT 10 - Bianca Pereira (Session 2)]]
    
 ## Curriculum    
 1A THE RECENT HISTORY AND LANDSCAPE OF PKM    
