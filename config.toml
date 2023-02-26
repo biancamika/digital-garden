@@ -1,4 +1,4 @@
-baseURL = "https://garden.bianca.digital"
+baseURL = "https://garden.bianca.digital/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
