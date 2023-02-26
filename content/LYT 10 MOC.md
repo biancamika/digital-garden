@@ -13,7 +13,7 @@ PKM Planet -- [My results](https://www.guidedtrack.com/programs/2tg920z/run?Firs
 ## Unsorted 
 Cluster
 Note-making  
-[[LYT 10 Braindump]]
+[[Miscellaneous Notes/LYT 10 Braindump]]
 
   
 ## "ing" words that are made up  
@@ -26,23 +26,23 @@ Because'ing
   
 ## Sessions   
 ### Main Sessions
-- 2023-01-31 - [[LYT 10 - Super Session 1]] - [link]([https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1](https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1)).  
-- 2023-02-01 - [[LYT 10 - Sensemaking 1]]    
+- 2023-01-31 - [[Resource Notes/LYT 10 - Super Session 1]] - [link]([https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1](https://community.linkingyourthinking.com/c/lyt-10-events-recordings/super-session-1)).  
+- 2023-02-01 - [[Resource Notes/LYT 10 - Sensemaking 1]]    
 - ---    
-- 2023-02-07 - [[LYT 10 - Super Session 2]]    
-- 2023-02-08 - [[LYT 10 - Sensemaking 2]]    
+- 2023-02-07 - [[Resource Notes/LYT 10 - Super Session 2]]    
+- 2023-02-08 - [[Resource Notes/LYT 10 - Sensemaking 2]]    
 - ---    
-- 2023-02-14 - [[LYT 10 - Super Session 3]]    
-- 2023-02-15 - [[LYT 10 - Sensemaking 3]]    
+- 2023-02-14 - [[Resource Notes/LYT 10 - Super Session 3]]    
+- 2023-02-15 - [[Resource Notes/LYT 10 - Sensemaking 3]]    
 - ---    
-- 2022-02-21 -  [[LYT 10 - Super Session 4]]    
-- 2022-02-22 - [[LYT 10 - Sensemaking 4]]    
+- 2022-02-21 -  [[Resource Notes/LYT 10 - Super Session 4]]    
+- 2022-02-22 - [[Resource Notes/LYT 10 - Sensemaking 4]]    
 - ---    
 - 2022-02-28 - [[LYT 10 - Graduation & Next Steps (Tuesday)]]    
 
 ### Expert Sessions
-- 2023-02-04 - [[LYT 10 - Bianca Pereira (Session 1)]]
-- 2023-02-11 - [[LYT 10 - Bianca Pereira (Session 2)]]
+- 2023-02-04 - [[Resource Notes/LYT 10 - Bianca Pereira (Session 1)]]
+- 2023-02-11 - [[Resource Notes/LYT 10 - Bianca Pereira (Session 2)]]
    
 ## Curriculum    
 1A THE RECENT HISTORY AND LANDSCAPE OF PKM    

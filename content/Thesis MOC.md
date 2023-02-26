@@ -30,5 +30,5 @@ title: "Thesis MOC"
 ## Daily Notes
 ```dataview
 TABLE
-FROM "4. Miscellaneous Notes/Daily Notes" AND #thesis
+FROM "Miscellaneous Notes/Daily Notes" AND #thesis
 ```
