@@ -1,5 +1,5 @@
 ---
-
+title: "1b1 - The rigidity of a system with only folders"
 ---
 
 [[LYT 10 MOC]]

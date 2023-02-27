@@ -1,5 +1,5 @@
 ---
-
+title: "1a2 - Why make notes"
 ---
 
 [[LYT 10 MOC]]

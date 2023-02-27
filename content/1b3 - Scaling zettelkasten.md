@@ -1,5 +1,5 @@
 ---
-
+title: "1b3 - Scaling zettlekasten"
 ---
 
 [[LYT 10 MOC]]

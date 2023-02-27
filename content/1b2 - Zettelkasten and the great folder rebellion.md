@@ -1,5 +1,5 @@
 ---
-
+title: "1b2 - Zettelkasten and the great folder rebellion"
 ---
 
 [[LYT 10 MOC]]

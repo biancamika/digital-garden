@@ -1,5 +1,5 @@
 ---
-
+title: "1a1 - The age of the linked note"
 ---
 
 [[LYT 10 MOC]]

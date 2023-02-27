@@ -1,5 +1,5 @@
 ---
-
+title: "1b5 - Idea Emergence - Part 2"
 ---
 
 [[LYT 10 MOC]]

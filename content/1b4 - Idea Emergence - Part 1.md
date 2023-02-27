@@ -1,5 +1,6 @@
 ---
-
+title: "1b4 - Idea Emergence - Part 1"
+---
 ---
 
 [[LYT 10 MOC]]
