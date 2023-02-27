@@ -1,3 +1,6 @@
+---
+title: "LYT 10 MOC"
+---
 ## Onboarding 
 LYT Onboarding Answers 
 [[Permanent Notes/ACE Thought-Weaving Framework]]
