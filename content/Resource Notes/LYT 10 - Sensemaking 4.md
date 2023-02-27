@@ -1,3 +1,11 @@
+---
+title: "LYT 10 - Sensemaking 4"
+---
+
+[[LYT 10 MOC]]
+
+---
+
 - Progressive Ideation process (Highlights to Insights)
 	- Read the new note
 	- Create a *new note* and paste a *highlight* with a *comment* or two

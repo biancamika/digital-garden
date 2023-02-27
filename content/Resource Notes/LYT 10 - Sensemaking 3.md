@@ -1,3 +1,11 @@
+---
+title: "LYT 10 - Sensemaking 3"
+---
+
+[[LYT 10 MOC]]
+
+---
+
 - Prioritize relevance over structure
 
 ## Takeaways

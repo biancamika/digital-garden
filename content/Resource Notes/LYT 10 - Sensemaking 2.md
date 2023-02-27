@@ -1,4 +1,11 @@
+---
+title: "LYT 10 - Sensemaking 2"
+---
+
 [[LYT 10 MOC]]
+
+---
+
 ## The NoMA Method
 - NoMa: note-making
 - sharpens your thinking, gives you intellectual assets

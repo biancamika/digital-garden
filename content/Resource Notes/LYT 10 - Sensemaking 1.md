@@ -1,4 +1,10 @@
+---
+title: "LYT 10 - Sensemaking 1"
+---
+
 [[LYT 10 MOC]]
+
+---
 
 ## Encounter to Expression
 - Walk around -> encounter -> spark -> develop insights further

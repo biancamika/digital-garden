@@ -1,4 +1,10 @@
+---
+title: "LYT 10 - Bianca Pereira - Session 1"
+---
+
 [[LYT 10 MOC]]
+
+---
 
 ## Topic: Agile Notemaking
 #research 

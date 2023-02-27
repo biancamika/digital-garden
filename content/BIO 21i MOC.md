@@ -1,5 +1,5 @@
 ---
-title: "Bio 21i MOC"
+title: "BIO 21i MOC"
 ---
 Full Subect Title: **Biology of Science Fiction**
 

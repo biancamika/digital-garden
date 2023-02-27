@@ -1,4 +1,10 @@
+---
+title: "LYT 10 - Bianca Pereira - Session 2"
+---
+
 [[LYT 10 MOC]]
+
+---
 
 ## Topic: Processing the Literature
 - Why do we need sources?

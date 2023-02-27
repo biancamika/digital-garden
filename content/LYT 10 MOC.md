@@ -44,8 +44,8 @@ Because'ing
 - 2022-02-28 - [[LYT 10 - Graduation & Next Steps (Tuesday)]]    
 
 ### Expert Sessions
-- 2023-02-04 - [[Resource Notes/LYT 10 - Bianca Pereira (Session 1)]]
-- 2023-02-11 - [[Resource Notes/LYT 10 - Bianca Pereira (Session 2)]]
+- 2023-02-04 - [[Resource Notes/LYT 10 - Bianca Pereira - Session 1]]
+- 2023-02-11 - [[Resource Notes/LYT 10 - Bianca Pereira - Session 2]]
    
 ## Curriculum    
 ### Unit 1
