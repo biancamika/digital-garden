@@ -1,5 +1,5 @@
 ---
-title: "Hit the Emotional Gym — The Founder's Framework for Emotional Fitness"
+title: "Hit the Emotional Gym - The Founder's Framework for Emotional Fitness"
 ---
 ## Information
 - **Source:** [[First Round Review]] [[Emily Anhalt]]
