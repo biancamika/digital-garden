@@ -45,21 +45,29 @@ Because'ing
 - 2023-02-11 - [[Resource Notes/LYT 10 - Bianca Pereira (Session 2)]]
    
 ## Curriculum    
-1A THE RECENT HISTORY AND LANDSCAPE OF PKM    
-1a.1 The age of the linked note    
-1a.2 Why make notes?    
-1a.3 Fall of the note taker    
-1a.4 Rise of the note maker    
+### Unit 1
+***Enter the age of the linked note.*** Unit 1 sets the scene of Personal Knowledge Management.
+
+-   We will explore the transition from only using folders, to systems that allow for robust linking.
+-   We will identify how note-taking practices fail us, and how note-*making* is needed.
+-   We will define how to make relationships between notes.
+-  We will reflect on our PKM personality and what that means for our PKM goals and use cases.
+
+**1A THE RECENT HISTORY AND LANDSCAPE OF PKM**    
+[[1a.1 The age of the linked note]]    
+[[1a.2 Why make notes]] 
+[[1a.3 Fall of the note taker]]    
+[[1a.4 Rise of the note maker]]  
    
-1B IDEA EMERGENCE    
-1b.1 The rigidity of a system with only folders    
-1b.2 Zettelkasten and the great "folder rebellion"    
-16.3 Scaling zettelkasten    
-16.4 Idea Emergence: Part 1    
-16.5 Idea Emergence: Part 2    
+**1B IDEA EMERGENCE**    
+[[1b.1 The rigidity of a system with only folders]]    
+[[1b.2 Zettelkasten and the great folder rebellion]]    
+[[16.3 Scaling zettelkasten]]    
+[[16.4 Idea Emergence - Part 1]]    
+[[16.5 Idea Emergence - Part 2]]    
 1b.6 Defining fluid frameworks    
    
-1C MAKING RELATIONSHIPS BETWEEN NOTES    
+**1C MAKING RELATIONSHIPS BETWEEN NOTES**    
 1c.1 Making relationships between notes    
 1c.2 Building relationships with links    
 1c.3 Building relationships with folders    
@@ -69,7 +77,7 @@ Because'ing
 1c.7 . Building relationships with a home note    
 1c.8 Building relationships with queries    
    
-1D UNDERSTANDING YOUR PKM PERSONALITY    
+**1D UNDERSTANDING YOUR PKM PERSONALITY**    
 1d.1 Take LYT's PKM Planet Survey    
 1d.2 PK Planet results: Your thinking patterns    
 1d.3 PKM Planet results: Your thinking styles    
