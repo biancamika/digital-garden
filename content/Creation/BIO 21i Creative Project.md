@@ -1,3 +1,6 @@
+---
+title: "BIO 21i Creative Project"
+---
 #BIO21i 
 ## Concept Paper
 ### Instructions

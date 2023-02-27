@@ -5,7 +5,7 @@ title: Complexibility is built up from composability
 - **Source:** [[Resource Notes/Evergreen notes turn ideas into objects that you can manipulate]]
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
-	- [[Idea Emergence]]
+	- [[Permanent Notes/Idea Emergence]]
 	- [[Permanent Notes/ACE Thought-Weaving Framework]]
 ## Notes
 - One of the main ideas from Linking Your Thinking

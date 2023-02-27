@@ -7,7 +7,7 @@
 	- Anyone who uses critical thinking to create NEW knowledge
 - Goal: PKM for research; how to turn ideas into outputs
 - What this will not cover: How to do research
-### LYT [[Idea Emergence]]
+### LYT [[Permanent Notes/Idea Emergence]]
 ![[images/LYT Idea Emergence.png]]
 - Focus this session: Level 1 and 2
 - When we're talking about critical thinking, we are swimming in the **Sea of Uncertanity**

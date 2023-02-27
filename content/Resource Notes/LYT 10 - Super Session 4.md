@@ -1,4 +1,4 @@
-- [[Idea Emergence]]
+- [[Permanent Notes/Idea Emergence]]
 	- ![[images/Pasted image 20230222010710.png]]
 - Compounding
 - 3 Elements of Sensemaking

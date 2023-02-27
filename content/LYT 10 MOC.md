@@ -4,7 +4,7 @@ LYT Onboarding Answers
 PKM Planet -- [My results](https://www.guidedtrack.com/programs/2tg920z/run?FirstName=Bianca&LastName=Aguilar&DRIVER_memory=17&DRIVER_idea=41&DRIVER_output=34&DRIVER_productivity=19&DRIVER_improvement=33&DRIVER_relationship=15&STYLE_topdown=3&STYLE_bottomup=11) 
 
 ## Concepts 
-- [[Idea Emergence]]: How ideas grow. The invisible rules governing ideas. 
+- [[Permanent Notes/Idea Emergence]]: How ideas grow. The invisible rules governing ideas. 
 - [[Mental Squeeze Point]]: What our MOCs help us overcome
 - MOCs: Spaces to gather, develop, and navigate ideas
 - STIR 
