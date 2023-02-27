@@ -57,17 +57,17 @@ Because'ing
 -  We will reflect on our PKM personality and what that means for our PKM goals and use cases.
 
 **1A THE RECENT HISTORY AND LANDSCAPE OF PKM**    
-[[1a.1 The age of the linked note]]    
-[[1a.2 Why make notes]] 
-[[1a.3 Fall of the note taker]]    
-[[1a.4 Rise of the note maker]]  
+[[private/1a.1 The age of the linked note]]    
+[[private/1a.2 Why make notes]] 
+[[private/1a.3 Fall of the note taker]]    
+[[private/1a.4 Rise of the note maker]]  
    
 **1B IDEA EMERGENCE**    
-[[1b.1 The rigidity of a system with only folders]]    
-[[1b.2 Zettelkasten and the great folder rebellion]]    
-[[16.3 Scaling zettelkasten]]    
-[[16.4 Idea Emergence - Part 1]]    
-[[16.5 Idea Emergence - Part 2]]    
+[[private/1b.1 The rigidity of a system with only folders]]    
+[[private/1b.2 Zettelkasten and the great folder rebellion]]    
+[[private/16.3 Scaling zettelkasten]]    
+[[private/16.4 Idea Emergence - Part 1]]    
+[[private/16.5 Idea Emergence - Part 2]]    
 1b.6 Defining fluid frameworks    
    
 **1C MAKING RELATIONSHIPS BETWEEN NOTES**    
