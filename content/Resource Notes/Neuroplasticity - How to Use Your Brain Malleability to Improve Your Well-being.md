@@ -1,5 +1,5 @@
 ---
-title: "Neuroplasticity - How to Use Your Brain’s Malleability to Improve Your Well-being"
+title: "Neuroplasticity - How to Use Your Brain Malleability to Improve Your Well-being"
 ---
 ## Information
 - **Source:** [Accelerate Learning Community](https://accelerate.uofuhealth.utah.edu/resilience/neuroplasticity-how-to-use-your-brain-s-malleability-to-improve-your-well-being)

@@ -3,7 +3,7 @@ title: "Neuroplasticity"
 ---
 ## Reference
 - **Source:**
-	- [[Resource Notes/Neuroplasticity - How to Use Your Brain’s Malleability to Improve Your Well-being]]
+	- [[Resource Notes/Neuroplasticity - How to Use Your Brain Malleability to Improve Your Well-being]]
 	- [Neuroplasticity, Emotional Healing, and Chronic Illness](https://www.ccfmed.com/blog/neuroplasticity-emotional-healing-chronic-illness)
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:** 
