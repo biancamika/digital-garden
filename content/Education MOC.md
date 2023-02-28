@@ -4,6 +4,10 @@ title: "Education MOC"
 Passion and purpose!
 Will tackle  metalearning, edtech, systems surrounding education, etc.
 
+**Related MOCs:**
+- [[School MOC]]: notes from my school subjects
+- [[Courses MOC]]: notes from external courses
+
 **Permanent Notes:**
 + Concepts:
 	+ [[Permanent Notes/Constructionism]]

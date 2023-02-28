@@ -1,6 +1,7 @@
 ---
 title: "Kernel Learn Track - Module 2"
 ---
+See [[Kernel MOC]]
 ## The Global Financial System
 > We hope that you can already appreciate a little bit more deeply how to make meaning from the raw material of your life; not necessarily through grandiose action, but rather as the result of joyful little subversions along the way of real awareness and humility. ==A life lived wide awake naturally leads to various explorations of trust and value; the kinds of shared truth we preserve in narrative and pass between generations.== Now that we have ownerless, borderless protocols for recording such history, we can potentially multiply the effects of thousands of little individual subversions into a more stable, global joy.
 

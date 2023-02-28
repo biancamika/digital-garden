@@ -1,6 +1,7 @@
 ---
 title: "Kernel Learn Track - Module 4"
 ---
+See [[Kernel MOC]]
 ## Internet Age Institutions
 + [Chesterton's Fence](https://fs.blog/2020/03/chestertons-fence/) story: don't break down barriers the function of which you do not fully understand. 
 + We must go back and understand more clearly ==what kinds of institutions we may need== to keep our world wide web safe to walk through gaily.

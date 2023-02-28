@@ -1,7 +1,7 @@
 ---
 title: "Kernel Learn Track - Module 1"
 ---
-See [[Resource Notes/Kernel Learn Track - Resource Notes]]
+See [[Kernel MOC]]
 ## Ethereum's History and State
 #crypto #technology #philosophy 
 >  [Bitcoin] represents an incredibly important moment in the movement towards money as a protocol, the development of new means to create or describe value, and new media by which we can relate that to and with one another in an agreeable fashion. However, it is not the whole story: only its beginning. ==Genesis is a wonderful book, but the real work of setting people free occurs elsewhere.==

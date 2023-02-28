@@ -1,6 +1,7 @@
 ---
 title: "Kernel Learn Track - Module 3"
 ---
+See [[Kernel MOC]]
 ## Take Back the Web
 + Why did the initial visions for the world wide web not work out quite as their inventors intended? It seems that it boils down to ==the incentives== for building it.
 + Tackle the ultimate problem:  ==how to free the shared record of human knowledge from closed, rent-seeking corporations and extricate ourselves from an extractive attention economy.==

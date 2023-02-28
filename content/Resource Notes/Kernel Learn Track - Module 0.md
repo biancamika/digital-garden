@@ -1,7 +1,7 @@
 ---
 title: "Kernel Learn Track - Module 0"
 ---
-See [[Resource Notes/Kernel Learn Track - Resource Notes]]
+See [[Kernel MOC]]
 ## The Play of Pattern
 #cognition #personaldevelopment 
 **Goal:** learn framework that will help you think in transformative ways about Web3
