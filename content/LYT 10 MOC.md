@@ -41,7 +41,7 @@ Because'ing
 - 2022-02-21 -  [[Resource Notes/LYT 10 - Super Session 4]]    
 - 2022-02-22 - [[Resource Notes/LYT 10 - Sensemaking 4]]    
 - ---    
-- 2022-02-28 - [[LYT 10 - Graduation & Next Steps (Tuesday)]]    
+- 2022-02-28 - [[Resource Notes/LYT 10 - Graduation & Next Steps]]    
 
 ### Expert Sessions
 - 2023-02-04 - [[Resource Notes/LYT 10 - Bianca Pereira - Session 1]]
