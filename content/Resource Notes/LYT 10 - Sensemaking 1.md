@@ -44,9 +44,6 @@ title: "LYT 10 - Sensemaking 1"
 	- E.G. Designing Design, Ex-formation
 - It's good because...it treats our flaws as integral instead of unnecessary. Progress over perfectionism.
 	- Related to Discerning Life Questions lecture
-		- [[Perfectionism disables us from seeing life as it truly is]]
-		- [[Perfectionism renders growth unnecessary and obsolete]]
-		- [[Perfectionism makes us harm ourselves and others more]]
 - It's bad because...it encourages us to try to fix what can't be fixed
 
 --- 
