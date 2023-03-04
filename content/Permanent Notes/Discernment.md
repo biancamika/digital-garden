@@ -87,5 +87,10 @@ title: "Discernment"
 	- St. [[Ignatius of Loyola]] believed -- and this belief lies at the heart of [[Ignatian Spirituality]] -- that **our truest desires reflect God's desires in us and for us**.
 - We need to distinguish our **surface wants** from our **deep desires**.
 	- This can be difficult though...like distinguishing M&M's and Skittles, or distinguishing water and vodka.
-- Example: desire for money
+| Surface Wants                                    | Deep Desires                                        |
+| ------------------------------------------------ | --------------------------------------------------- |
+| My desire leads me to become selfish             | My desire leads me to a healthier self              |
+| My desires disenages me from the needs of others | My desire enables me to be more available to others |
+| My desire is governed by fear                    | My desire is driven by love                                                    |
 
+- We need to learn how to **test** our desires. This is exactly what discernment is for: to test which of our desires are authentically good, and which ones are only apprently good.
