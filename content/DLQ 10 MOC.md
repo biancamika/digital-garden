@@ -56,7 +56,10 @@ FROM #DLQ10
 		1. [[Authenticity]]
 
 
-
+## To-Dos
+- [ ] Answer reflection questions from readings
+- [ ] Connect concepts from different modules
+- [ ] Complete note-taking for Problem vs Mystery
 
 
 
