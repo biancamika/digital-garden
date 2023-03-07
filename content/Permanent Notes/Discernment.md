@@ -9,14 +9,22 @@ title: "Discernment"
 		- [[Permanent Notes/Problem versus Mystery]]: God is the ultimate mystery.
 		- [[Permanent Notes/Absolute Certainty versus Wonder]]: 
 		- [[Permanent Notes/Order and Chaos]]
+		- [[Permanent Notes/Perfectionism]]
 		- [[Permanent Notes/Desire]]
 	- Module 1B
-		- [[Consolation]]
-		- [[Desolation]]
+		- [[Permanent Notes/The First Principle and Foundation]]
+		- [[Permanent Notes/Consolation]]: one of discernment's movements
+		- [[Permanent Notes/Desolation]]: one of discernment's movements
+		- [[Permanent Notes/Disordered attachments]]
 	- Module 2
+		- [[Permanent Notes/Tangibles]]
+		- [[Permanent Notes/The Divided Life]]
+		- [[Permanent Notes/Brokenness]]
+		- [[Permanent Notes/The False Self]]
+		- [[Permanent Notes/Self-rejection]]
 
 ## Notes
-### General Structure of Discernment
+### Introduction to Discernment
 - **Discernment:** ==right judgement==. The ability to distinguish what is authentically good from what is only apparently good.
 - You do not discern between something that is clearly good and clearly evil (extremes of the moral spectrum).
 	- We discern with **competing goods**.
@@ -32,7 +40,24 @@ title: "Discernment"
 	- Your emotions could be ==possible reactions== to your values.
 	- The ==tools== you need in discernment are the head and heart, which both have to work together. But ==factors we cannot control==, such as time and circumstances, bind our discernment.
 
-- (INSERT GENERAL STRUCTURE OF DISCERNMENT HERE from Pierre-Wolf's [[The Components of Any Choice]])
+**The General Structure of Discernment from** Pierre-Wolf's [[The Components of Any Choice]])
+![[Excalidraw/General Structure of Discernment]]
+
+
+**Notes:**
+- A question could be external, internal, or retrospective
+- A decision is considered good if it enables you to live better
+- Methodical work: the importance of paying attention to **data** (through journalling) and how it makes you **feel**
+	- Wondering why certain events make you feel things points you to your values
+- On faith's influence: We discern with our values, and faith (as a transcendent source) offers **a certain set of values** that we can use.
+	- Faith shapes your values, which in turn shape your discernment.
+	- How does this apply to a secular context?
+		- Everyone believes that human beings have dignity.
+		- Christians interpret this as God's love for us (see [[Resource Notes/Being the Beloved]])
+		- If you love from a point of abundance...it comes from knowing that you have always been loved.
+		- On the other hand, if you love from a point of scarcity...you will always be treating your relationships transactionally
+- Summary: LOOK -> FEEL -> PONDER
+
 
 ### Role of faith in discernment
 - Theory: People aren't really angry at God; they're actually angry at **how it's presented to us**.
@@ -87,10 +112,63 @@ title: "Discernment"
 	- St. [[Ignatius of Loyola]] believed -- and this belief lies at the heart of [[Ignatian Spirituality]] -- that **our truest desires reflect God's desires in us and for us**.
 - We need to distinguish our **surface wants** from our **deep desires**.
 	- This can be difficult though...like distinguishing M&M's and Skittles, or distinguishing water and vodka.
+- We need to learn how to **test** our desires. This is exactly what discernment is for: to test which of our desires are authentically good, and which ones are only apprently good.
+	- Urges are on the ==physical level== (reactive/surface, while desires are deeper , being on the ==realm of value==
 | Surface Wants                                    | Deep Desires                                        |
 | ------------------------------------------------ | --------------------------------------------------- |
 | My desire leads me to become selfish             | My desire leads me to a healthier self              |
 | My desires disenages me from the needs of others | My desire enables me to be more available to others |
 | My desire is governed by fear                    | My desire is driven by love                                                    |
 
-- We need to learn how to **test** our desires. This is exactly what discernment is for: to test which of our desires are authentically good, and which ones are only apprently good.
+- St. [[Ignatius of Loyola]]'s greatest contribution: **[[Resource Notes/The Spiritual Exercises]]**
+	- Full form: 30-day retreat where you give yourself to God
+	- Begins with [[Permanent Notes/The First Principle and Foundation]], where you **articulate the ultimate goal of your life**
+
+![[Resource Notes/The Spiritual Exercises#Annotation 23]]
+
+- Remember: **Our deepest, most life-giivng desires are God's desires for us.**
+	- St. Iraneus: *"[[Permanent Notes/Gloria dei vivens homo]]"* ("The glory of God is the human person fully alive.")
+
+#### How do I know I'm on the right path in discernment?
+- Ask yourself: Are you **at peace** with your decision?
+	- What being at peace looks like: **a stability and sernity the comes from a sense of rightness**
+		- Note: this does not use the word "happy"...
+		- ...because sometimes we now that the right decision is also the difficult decision...
+		- ...and that serenity and stability don't come right away
+	- The goal of discernment is **peace**.
+- So how can you tell if you're at peace? Through 2 movements in discernment: [[Permanent Notes/Consolation]] and [[Permanent Notes/Desolation]]
+- **Important notes:** ^6b4c48
+	- [[Permanent Notes/Consolation]] and [[Permanent Notes/Desolation]] are **interior movements**. They are felt, but they are more than just emotions.
+	- Sometimes the **right decision** can be accompanied by initial feelings of **sadness** and **doubt**, and **the wrong decision** may start with feelings of **happiness** and **clarity**.
+		- Thus, it is important to pay attention to the ==long-term trajectory==
+
+#### Indifference
+- In the Ignatian sense, **indifference** means looking at your decisions from a fresh and balanced perspective
+- **Ignatian Indifference:** **maintaining a vision** of the whole
+	- Settling one's life in balance before all created things
+	- Note: the heart of our attachments is a distinct [[Permanent Notes/Brokenness]] in our character
+- There is indeed a difference between happiness and joy.
+
+| Happiness                                                                                                                                       | Joy                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| It is an emotional state (therefore fleeting). It relies on one or more multiple things and times. It does not need to have any deeper meaning. | An abiding sense of peace that one's life is **meaningful** |
+
+- **Happiness**
+	- Happiness is **monetary bliss**.
+	- Take for instance, **The Wheel of Fortune**. This image is used to describe life (as full of up and down days). It shows us that you can easily lose the things that make you happy. ![[images/The Wheel of Fortune.png]]
+		-  Happiness: ==living your life on the edge of the wheel== (at its most unstable)
+	- The things that can make us happy can also make us miserable too.
+		- RECALL: Attachment and [[Permanent Notes/Desolation]]
+		- This can be seen in the temptation to overwork during your early 20's. Remember that there's more to life than your job.
+			- This is why it is important to have a holistic view of what makes your life meaningful.
+	- Isn't it strange that those whose who have everything are not necessarily happy?
+		- Takeaway: It's possible to life a "happy" life that is ==meaningless.==
+- **Joy**
+	- Joy can happen even amid the ==absence of happiness== and the ==presence of sorrow.==
+		- RECALL: Detachment and [[Permanent Notes/Consolation]]
+	- While happiness is a fleeting emotion, joy is a stable state.
+		- Remember: *[[Permanent Notes/Gloria dei vivens homo]]*
+	- **Live your life at the center of the wheel rather than its edges.**
+		- Counterpoint to the Wheel of Fortune: The **Rose Window**, which places Jesus at the center ![[images/Rose Window.png]]
+		- "Discard everything that does not spark joy"
+	- Good discernment leads to a life of joy.

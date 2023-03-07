@@ -25,18 +25,18 @@ FROM #DLQ10
 
 1. [[Permanent Notes/The First Principle and Foundation]]
 2. [[Permanent Notes/Discernment]]
-3. [[Consolation]]
-4. [[Desolation]]
-5. [[Disordered attachments]]
+3. [[Permanent Notes/Consolation]]
+4. [[Permanent Notes/Desolation]]
+5. [[Permanent Notes/Disordered attachments]]
 
 ### MODULE 2: **Journeying Inward: Knowing and Accepting One’s Self**
 **Who am I?**
 
-1. [[Tangibles]]
-2. [[The Divided Life]]
-3. [[Brokenness]]
-4. [[The False Self]]
-5. [[Self-rejection]]
+1. [[Permanent Notes/Tangibles]]
+2. [[Permanent Notes/The Divided Life]]
+3. [[Permanent Notes/Brokenness]]
+4. [[Permanent Notes/The False Self]]
+5. [[Permanent Notes/Self-rejection]]
 
 ## List of Materials
 1. Module 1
@@ -49,12 +49,15 @@ FROM #DLQ10
 		2. [[Inner Compass]]
 2. Module 2
 	1. Part 1 - The Divided Life
-		1. [[Images of Integrity / Across the Great Divide]]
-		2. [[Being the Beloved]]
-		3. [[Henri Nouwen on Brokenness]]
+		1. [[Images of Integrity - Across the Great Divide]]
+		2. [[Resource Notes/Being the Beloved]]
+		3. [[Resource Notes/Henri Nouwen on Brokenness]]
 	2. Part 2 - A Life of Wholeness
 		1. [[Authenticity]]
-	
+
+
+
+
 
 
 

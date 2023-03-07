@@ -1,0 +1,41 @@
+---
+title: "Self-rejection"
+---
+## Reference
+- **Source:** [[DLQ 10 MOC]]
+- **Keywords:** [[Permanent Notes/permanent notes]]
+- **Relevant Notes:**
+	- Module 1A
+		- [[Permanent Notes/Problem versus Mystery]]: 
+		- [[Permanent Notes/Absolute Certainty versus Wonder]]: 
+		- [[Permanent Notes/Order and Chaos]]
+		- [[Permanent Notes/Perfectionism]]
+		- [[Permanent Notes/Desire]]:
+	- Module 1B
+		- [[Permanent Notes/The First Principle and Foundation]]
+		- [[Permanent Notes/Discernment]]: 
+		- [[Permanent Notes/Desolation]]: 
+		- [[Permanent Notes/Consolation]]:
+		- [[Permanent Notes/Disordered attachments]]: what our brokenness can create; its manifestations
+	- Module 2
+		- [[Permanent Notes/Tangibles]]:
+		- [[Permanent Notes/The Divided Life]]: a life dictated by personas created from tangibles.
+		- [[Permanent Notes/Brokenness]]: self-rejection is a manifestation of what happens when we bitterly act on our brokenness
+		- [[Permanent Notes/The False Self]]: what happens to us if we let our brokenness stay raw and unprocessed
+
+## Notes
+- Our strongest enemy is **self-rejection**.
+	- It's why we fall into the temptations of the [[Permanent Notes/Tangibles]].
+		- 1st effect of self-rejection
+	- We easily depend on these when we believe that there is no [[Permanent Notes/The True Self]]
+		- We think that we are worthless and unlovable
+		- "I tend to blame myself -- not just for what I did, but for who I am."
+- According to [[Brene Brown]] in *[[The Gifts of Imperfection]]*, the difference between shame and guilt is best understood as the differences between **"I am bad"** and **"I did something bad".**
+	- Guilt = "I did somethig bad."
+	- Shame = "I am bad."
+		- The moment you associate your mistake with your character...it becomes harder to address that. Changing identities is difficult.
+		- This is the 2nd effect of self-rejection: it's harder to be accountable
+			- Remember: your [[Permanent Notes/Brokenness]] is an explanation, not an excuse
+- If self-rejection is your default, "your life can be scarcely more than a long struggle for survival."
+	- A.K.A. [[Permanent Notes/The Divided Life]]
+	- You cannot truly know yourself if your default step is to **reject yourself.**

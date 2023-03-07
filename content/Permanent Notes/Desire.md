@@ -9,9 +9,9 @@ title: "Desire"
 		- [[Permanent Notes/Perfectionism]]: Desires help us create the story of our lives; perfectionism bars us from this, leaving us with no more story to tell.
 	- Module 1B
 		- [[Permanent Notes/Discernment]]: What helps us channel our desires into bringing about a good life.
-		- [[Disordered attachments]]: Desires that aren't freeing/liberating
+		- [[Permanent Notes/Disordered attachments]]: Desires that aren't freeing/liberating
 	- Module 2
-		- [[Brokenness]]: Our desires show how we are uniquely broken.
+		- [[Permanent Notes/Brokenness]]: Our desires show how we are uniquely broken.
 
 ## Notes
 - **Desire** is the ==energy that moves our lives.==
@@ -19,14 +19,14 @@ title: "Desire"
 	- Desire is the ==natural faculty of **introspection.**==
 		- Aim to be comfortable about reflecting on who you are and where you are.
 		- We are like cars. If you go on long rides, you need to check your engine, right? Similarily, we need to constantly check ourselves when we are pursuing anything long-term in life.
-- Your incompletion (or your [[Brokenness]]) is manifested in your desires.
+- Your incompletion (or your [[Permanent Notes/Brokenness]]) is manifested in your desires.
 - Moving forward: we will need to know how to channel these desires properly so that they can bring about a good life. 
 	- That's what [[Permanent Notes/Discernment]] is for.
 	- What's your relationship with your desires? ==Are you mastering them, or are they mastering you?==
 		- If you master them, you can convert your desire into something ==value-adding==.
 		- There is no such thing as a bad desire...**at its core**. It only becomes  bad/tainted when it surfaces to the level of **action** (where it becomes destructive to you and others).
 			- So think about what lays underneath the desire. For instance, acts of murder can be rooted in a desire for justice.
-		- Desire is supposed to **free** you into becoming the person you want to be. It is **liberating.** When it's not, it becomes an **attachment** (see [[Disordered attachments]]). 
+		- Desire is supposed to **free** you into becoming the person you want to be. It is **liberating.** When it's not, it becomes an **attachment** (see [[Permanent Notes/Disordered attachments]]). 
 			- They should lead you to something greater.
 		- There is no such thing as the absence of desire; there is only the **ignorance** of it.
 		- Contentment isn't antithetical to desire...make sure to distinguish this from settling.
