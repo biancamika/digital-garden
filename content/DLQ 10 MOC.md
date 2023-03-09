@@ -57,9 +57,9 @@ FROM #DLQ10
 
 
 ## To-Dos
-- [ ] Answer reflection questions from readings
+- [x] Answer reflection questions from readings
+- [x] Complete note-taking for Problem vs Mystery
 - [ ] Connect concepts from different modules
-- [ ] Complete note-taking for Problem vs Mystery
 
 
 

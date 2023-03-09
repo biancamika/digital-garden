@@ -88,7 +88,9 @@ title: "Discernment"
 
 ### Good & Evil
 - Good and evil are typically assumed to be 2 equal and opposing forces.
+	- [[Permanent Notes/Absolute Certainty versus Wonder]] minset
 - However, according to St. [[Thomas Aquinas]], it doesn't work that way. He believed that **all there is good**. 
+	- Allows for complementarities; see [[Resource Notes/The Need for Certainty]] and [[Permanent Notes/Order and Chaos]]
 - In line with this, his definition of evil was the **"privation of the good"**. (Remember: [[Evil is the privation of the good]])
 	- It can be seen as an incomplete circle: a lack of what is supposed to be good
 	- E.G. money being privatized so that others have a lack
@@ -144,6 +146,7 @@ title: "Discernment"
 
 #### Indifference
 - In the Ignatian sense, **indifference** means looking at your decisions from a fresh and balanced perspective
+	- Balacing [[Permanent Notes/Order and Chaos]]
 - **Ignatian Indifference:** **maintaining a vision** of the whole
 	- Settling one's life in balance before all created things
 	- Note: the heart of our attachments is a distinct [[Permanent Notes/Brokenness]] in our character

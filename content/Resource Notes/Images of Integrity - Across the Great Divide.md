@@ -35,6 +35,6 @@ Your **third required reading** will get you to reflect on why we live such di
 	- These circles are rooted in 2 basic beliefs:
 		- We all have an inner teacher whose guidance is more reliable than anything we can get from an external source (e.g. doctrine, ideology, collective belief system, institution, leader)
 		- We all need other people to invite, amplify, and help us discern the inner teacher's voice for 3 reasons:
-			- The journey toward inner truth is too taxing to be made solo: lacking support, the solitary traveler soon becomes weary or fearful and is likely to quit the road.
-			- The path is too deeply hidden to be travelled without company: finding our way involves cues that are subtle and sometimes misleading, requiring the kind of discernment that can happen only in dialogue
-			- The destination is too daunting to be achieved alone: we need community to find the courage to venture into the alien lands to which the inner teacher calls us
+			- The journey toward inner truth is ==too taxing== to be made solo: lacking support, the solitary traveler soon becomes weary or fearful and is likely to quit the road.
+			- The path is ==too deeply hidden== to be travelled without company: finding our way involves cues that are subtle and sometimes misleading, requiring the kind of discernment that can happen only in dialogue
+			- The destination is ==too daunting== to be achieved alone: we need community to find the courage to venture into the alien lands to which the inner teacher calls us

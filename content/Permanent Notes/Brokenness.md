@@ -29,7 +29,7 @@ title: "Brokenness"
 	- **Accidental:** the hurts we experience *indirectly* as a result of being the collateral damage of other people's bad actions.
 - What brokenness does to us:
 	- Our brokenness alienates us from ourselves.
-	- We tend to define ourselvs according to our wounds.
+	- We tend to define ourselves according to our wounds.
 - Our brokenness has the **potential** to...
 	- ...reveal who we truly are and what we deeply desire ([[Permanent Notes/The True Self]])
 	- ...create your worst compulsions ([[Permanent Notes/Disordered attachments]])
