@@ -40,16 +40,16 @@ FROM #DLQ10
 
 ## List of Materials
 1. Module 1
-	1. Part 1 - Living Your Questions: [[The Need for Certainty]]
+	1. Part 1 - Living Your Questions: [[Resource Notes/The Need for Certainty]]
 	2. Part 2 - The Basics of Discernment: 
-		1. [[The Components of Any Choice]]
-		2. [[The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo]] (A 2-part lecture on God)
+		1. [[Resource Notes/The Components of Any Choice]]
+		2. [[Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo]] (A 2-part lecture on God)
 	3. Part 3 - The Dynamics of Discernment:
 		1. What Should I Do?
-		2. [[Inner Compass]]
+		2. [[Resource Notes/Inner Compass]]
 2. Module 2
 	1. Part 1 - The Divided Life
-		1. [[Images of Integrity - Across the Great Divide]]
+		1. [[Resource Notes/Images of Integrity - Across the Great Divide]]
 		2. [[Resource Notes/Being the Beloved]]
 		3. [[Resource Notes/Henri Nouwen on Brokenness]]
 	2. Part 2 - A Life of Wholeness

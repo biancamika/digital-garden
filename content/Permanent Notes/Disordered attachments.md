@@ -27,7 +27,7 @@ title: "Disordered attachments"
 ### On Addiction
 - Good definition of **addiction**: It starts when you drink the bottle, and ends with the bottle drinking you.
 	- Consumer -> consumed
-- Related to Margaret Silf's [[Inner Compass]] reading: A disordered attachment is like a **hook**. It makes **you lose your freedom.**
+- Related to Margaret Silf's [[Resource Notes/Inner Compass]] reading: A disordered attachment is like a **hook**. It makes **you lose your freedom.**
 - Summary of [[Permanent Notes/The First Principle and Foundation]]: God desires that we experience the best life we can live. The people and things in our lives are meant to aid towards that best possible life.
 - Warning: But it's possible to get **attached to** or **hooked on** people and things.
 	- When your whole life revolves around some thing, person, idea, or experience...even if it's supposedly good.

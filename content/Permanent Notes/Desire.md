@@ -6,12 +6,22 @@ title: "Desire"
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:**
 	- Module 1A
+		- [[Permanent Notes/Problem versus Mystery]]
+		- [[Permanent Notes/Absolute Certainty versus Wonder]]
+		- [[Permanent Notes/Order and Chaos]]
 		- [[Permanent Notes/Perfectionism]]: Desires help us create the story of our lives; perfectionism bars us from this, leaving us with no more story to tell.
 	- Module 1B
+		- [[Permanent Notes/The First Principle and Foundation]]
 		- [[Permanent Notes/Discernment]]: What helps us channel our desires into bringing about a good life.
+		- [[Permanent Notes/Consolation]]
+		- [[Permanent Notes/Desolation]]
 		- [[Permanent Notes/Disordered attachments]]: Desires that aren't freeing/liberating
 	- Module 2
+		- [[Permanent Notes/Tangibles]]: Tangibles, at their core, reflect desires
+		- [[Permanent Notes/The Divided Life]]: what happens when we don't channel our desires properly
 		- [[Permanent Notes/Brokenness]]: Our desires show how we are uniquely broken.
+		- [[Permanent Notes/The False Self]]: a self mastered by desires
+		- [[Permanent Notes/Self-rejection]]
 
 ## Notes
 - **Desire** is the ==energy that moves our lives.==

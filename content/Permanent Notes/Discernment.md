@@ -40,8 +40,8 @@ title: "Discernment"
 	- Your emotions could be ==possible reactions== to your values.
 	- The ==tools== you need in discernment are the head and heart, which both have to work together. But ==factors we cannot control==, such as time and circumstances, bind our discernment.
 
-**The General Structure of Discernment from** Pierre-Wolf's [[The Components of Any Choice]])
-![[Excalidraw/General Structure of Discernment]]
+**The General Structure of Discernment from** Pierre-Wolf's [[Resource Notes/The Components of Any Choice]])
+![[Excalidraw/General Structure of Discernment.png]]
 
 
 **Notes:**
@@ -65,7 +65,7 @@ title: "Discernment"
 - 2 questions:
 	- Is the way we live out our faith appropriate to the state of our life now? 
 	- What image of God do we still hold today?
-- 2 lessons about God from St. Thomas Aquinas (See [[The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo]]):
+- 2 lessons about God from St. Thomas Aquinas (See [[Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo]]):
 	- [[God is not a being]]
 	- [[God is the condition of possibility that enables all other beings to exist]]
 		- *Ipsum Esse Subsistens*: subsistent being itself.

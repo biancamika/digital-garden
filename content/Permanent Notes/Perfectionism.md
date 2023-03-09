@@ -5,10 +5,23 @@ title: "Perfectionism"
 - **Source:** [[DLQ 10 MOC]]
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:**
-	- [[Permanent Notes/Problem versus Mystery]]: Perfectionists lose their sense of mystery.
-	- [[Permanent Notes/Order and Chaos]]: Perfectionism = wanting too much order
-	- [[Permanent Notes/Absolute Certainty versus Wonder]]: Perfectionists are practice absolute certainty. Consequently, they are not comfortable with paradoxes.
-	- [[Permanent Notes/Desire]]: We can counter this perfectionism through desire for the good.
+	- Module 1A
+		- [[Permanent Notes/Problem versus Mystery]]: Perfectionists lose their sense of mystery.
+		- [[Permanent Notes/Order and Chaos]]: Perfectionism = wanting too much order
+		- [[Permanent Notes/Absolute Certainty versus Wonder]]: Perfectionists are practice absolute certainty. Consequently, they are not comfortable with paradoxes.
+		- [[Permanent Notes/Desire]]: We can counter this perfectionism through desire for the good.
+	- Module 1B
+		- [[Permanent Notes/The First Principle and Foundation]]
+		- [[Permanent Notes/Discernment]]
+		- [[Permanent Notes/Consolation]]
+		- [[Permanent Notes/Desolation]]
+		- [[Permanent Notes/Disordered attachments]]
+	- Module 2
+		- [[Permanent Notes/Tangibles]]
+		- [[Permanent Notes/The Divided Life]]
+		- [[Permanent Notes/Brokenness]]
+		- [[Permanent Notes/The False Self]]
+		- [[Permanent Notes/Self-rejection]]
 
 ## Notes
 - The relationship between **puzzles** and perfection
@@ -28,7 +41,7 @@ title: "Perfectionism"
 				- Life is full of mysteries, not just problems. See: [[Permanent Notes/Problem versus Mystery]]
 			- When it comes to dating, this is a common mentality: "I would have rather have real than perfect."
 				- But remember: your fixation on the perfect might be ==keeping you from the real goal. ==
-				- ^ Relevant to the examples mentioned by Margaret Self in "[[Inner Compass]]"
+				- ^ Relevant to the examples mentioned by Margaret Self in "[[Resource Notes/Inner Compass]]"
 		- [[Perfectionism renders growth unnecessary and obsolete]]
 			- If perfection is such a dangerous thing, then why pursue it at all? Should we just settle for mediocrity, then?
 				- The way elite athletes handle defeat is fascinating. The best have a good attitude. Defeats are not attacks on ego; they're learning opportunties. (Remember: [[Defeats are learning opportunties]])

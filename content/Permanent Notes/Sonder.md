@@ -8,6 +8,7 @@ title: "Sonder"
 - **Relevant Notes:**
 	- [[Permanent Notes/Everyone always acts in accordance with their internal narratives]]
 	- [[Permanent Notes/context collapse]]
+	- [[Permanent Notes/Absolute Certainty versus Wonder]]
 ## Notes
 - Typical definition: that moment when you realize that ==everyone around you has an internal life as rich and as conflicted as yours.==
 - This is Marketing:

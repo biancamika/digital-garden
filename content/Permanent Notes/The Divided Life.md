@@ -24,7 +24,7 @@ title: "The Divided Life"
 		- [[Permanent Notes/Self-rejection]]
 
 ## Notes
-- Parker Palmer (in [[Images of Integrity - Across the Great Divide]], defines **The Divided Life** as living according to personas (which are created from [[Permanent Notes/Tangibles]])
+- Parker Palmer (in [[Resource Notes/Images of Integrity - Across the Great Divide]], defines **The Divided Life** as living according to personas (which are created from [[Permanent Notes/Tangibles]])
 - What this looks like: 
 	- Imagine dancing in a drum circle where people play many **different** beats.
 		- It all becomes noise.
@@ -32,12 +32,12 @@ title: "The Divided Life"
 
 ![[Excalidraw/The Divided Life]]
 
-![[Images of Integrity - Across the Great Divide#^3a4c8e]]
+![[Resource Notes/Images of Integrity - Across the Great Divide#^3a4c8e]]
 
 - We didn't always live divided lives. When we were children, we were more in touch with ourselves.
 
-![[Images of Integrity - Across the Great Divide#^a09fa4]]
+![[Resource Notes/Images of Integrity - Across the Great Divide#^a09fa4]]
 
 - When we live a divided life, we are a shell of ourselves. But even if this breaks us apart, we still assume it is the best way to live.
 
-![[Images of Integrity - Across the Great Divide#^a7a13f]]
+![[Resource Notes/Images of Integrity - Across the Great Divide#^a7a13f]]

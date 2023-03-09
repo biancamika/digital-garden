@@ -30,7 +30,7 @@ Your **third required reading** will get you to reflect on why we live such di
 		- Our inauthenticity and projections make real relationships impossible, leading to loneliness
 		- Our contributions to the world -- especially through the work we do -- are tainted by duplicity and deprived of the life-giving energies of the true self
 	- People live this kind of life because our culture has taught us that this is the safe and sane way to live.
--   **Why do people need what Palmer calls _[[Circles of Trust]]?_** ^eb6bfb
+-   **Why do people need what Palmer calls _[[Permanent Notes/Circles of Trust]]?_** ^eb6bfb
 	- Community is essential to rejoining soul and role. This is what a circle of trust is for; it makes it safe for the soul to show up and offers us its guidance. Circles of trust support (rather than supplant) the individual quest for integrity. 
 	- These circles are rooted in 2 basic beliefs:
 		- We all have an inner teacher whose guidance is more reliable than anything we can get from an external source (e.g. doctrine, ideology, collective belief system, institution, leader)

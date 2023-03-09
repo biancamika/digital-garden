@@ -5,11 +5,41 @@ title: "Order and Chaos"
 - **Source:** [[DLQ 10 MOC]]
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:**
+	- Module 1A
+		- [[Permanent Notes/Problem versus Mystery]]: the straightforward nature of problems make them appealing for those who desire order, while mysteries are really chaotic...hence why they teach us how to adjust
+		- [[Permanent Notes/Absolute Certainty versus Wonder]]: the former happens when we crave for too much order; the latter happens when we allow for balance
+		- [[Permanent Notes/Perfectionism]]: perfectionists always desire order in their lives.
+		- [[Permanent Notes/Desire]]: if desire is the energy that moves our lives, then being able to channel our desires means allowing spce for both order and chaos
+	- Module 1B
+		- [[Permanent Notes/The First Principle and Foundation]]
+		- [[Permanent Notes/Discernment]]: 
+		- [[Permanent Notes/Desolation]]: 
+		- [[Permanent Notes/Consolation]]:
+	- Module 2
+		- [[Permanent Notes/Tangibles]]
+		- [[Permanent Notes/The Divided Life]]
+		- [[Permanent Notes/Brokenness]]: 
+		- [[Permanent Notes/The False Self]]
+		- [[Permanent Notes/Self-rejection]]
 
 ## Notes
+- Why are Ateneans so indecisive? Why do we always say "Yes and no"
+	- Because we approach things with nuance, knowing that we live in a world full of nuances
+- Thinking in absolutes leads to **deadly polarizations.** (See [[Permanent Notes/Absolute Certainty versus Wonder]])
+- **Traps in decision-making** are disabling to living.
+	- Analysis paralysis: cannot decide
+	- Absolute certainty: already decided 
+	- Apathetic  avoidance: not caring
+- **Order** = what we know; **chaos** = what we don't know
 - We need both **order and chaos** to live a good life.
 	- Chaos strengthens order, makes it more flexible.
 	- But of course, you can have too much order.
 	- Imagine a life of pure order or pure chaos.
 - Order sets the **direction**; chaos teaches you how to **adjust**.
+- E.G. Rock v.s. bamboo as pictures of strength
+	- Rocks are too predictable, doesn't allow flexibility and growth
+	- Bamboos are more flexible and adaptable, making them better images of strength
+	- Balance = simultaneously structured and spontaneous
 - The world is complex and paradoxical...make a **firm decision** that comes from **careful consideration.** 
+- Partial and resonable certitude.
+	- See [[Resource Notes/The Need for Certainty]]
