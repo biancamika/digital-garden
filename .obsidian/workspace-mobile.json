@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Art MOC.md",
+                "file": "content/Creation/BIO 21i Creative Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Art MOC.md",
+            "file": "content/Creation/BIO 21i Creative Project.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Art MOC.md",
+            "file": "content/Creation/BIO 21i Creative Project.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Art MOC.md"
+            "file": "content/Creation/BIO 21i Creative Project.md"
           }
         }
       }
@@ -131,8 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1715ed555b60692d",
+  "active": "cb56b5ec86b87cae",
   "lastOpenFiles": [
+    "content/Miscellaneous Notes/Daily Notes/2023-03-10.md",
+    "content/Creation/BIO 21i Creative Project.md",
+    "content/Art MOC.md",
     "assets/styles/_callouts.scss",
     "assets/styles/custom.scss",
     "assets/styles/clipboard.scss",
@@ -143,7 +146,6 @@
     "assets/styles/code-title.scss",
     "assets/styles/base.scss",
     "assets/js/callouts.js",
-    "assets/js/full-text-search.js",
     "static/icon.png",
     "README.md",
     "CODE_OF_CONDUCT.md",
@@ -168,8 +170,6 @@
     "content/Miscellaneous Notes/Daily Notes/2022-10-25.md",
     "content/Miscellaneous Notes/Daily Notes/2022-12-05.md",
     "content/Miscellaneous Notes/Daily Notes/2022-10-11.md",
-    "content/Miscellaneous Notes/Daily Notes/2020-12-08.md",
-    "content/Miscellaneous Notes/Daily Notes/2022-05-16.md",
     "content/images/Pasted image 20201208150506.png",
     "content/images/The PKM Pyramid.png",
     "content/images/26D7A6BD-9DBA-4BFE-A725-D480113E41A4.png",
