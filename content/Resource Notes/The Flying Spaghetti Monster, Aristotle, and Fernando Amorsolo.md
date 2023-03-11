@@ -21,7 +21,8 @@ title: "The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo"
 	- Being: *(Latin: ens)* An existing **thing** in the universe.
 		- Thing = something observable
 - Why do Greek gods have elements associated with them? Because these are elements that occur in the world, and are unstable, just like the gods in the stories.
-	- The Greek gods are the Ancient Greeks' way of explaining the fickleness and at the same time the power of the elements that surround them.
+	- The Greek gods are the Ancient Greeks' way of explaining the fickleness and at the same time the power of the elements that surround them. 
+	- A.K.A. trying to explain life [[Permanent Notes/Order and Chaos]]
 - **Common Misconceptions About God**
 	- Big Brother
 	- Lawgiver
@@ -36,7 +37,7 @@ title: "The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo"
 - How do you understand something?
 	- You understand something when you *get* it.
 	- *"Gets!"*
-- **To understand means that you are able to grasp something within the confines of ==what you know
+- **To understand means that you are able to grasp something within the confines of ==what you know==
 	- To grasp something means that you have some form of control over it. By knowing it, you control it. You control the truth by being able to articulate it.
 - The point here is not to understand God...but it's to miusunderstand God less.
 - Two main points
