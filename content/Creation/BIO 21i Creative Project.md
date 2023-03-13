@@ -2,7 +2,7 @@
 title: "BIO 21i Creative Project"
 ---
 #BIO21i 
-## Concept Paper
+## Concept Paper + Pitch
 ### Instructions
 - Write a 2-6 page proposal paper for **your own original biological _novum_** that you wish to feature in your final project, as well as the **form** the project will take: the **mode, platform, or genre** with which you want to showcase your _novum_.
 - The _novum_ has to be biological, and you should discuss it briefly in terms of **Suvin's concepts (i.e. how it displays [[Permanent Notes/Cognition]] and [[Permanent Notes/Estrangement]])** as well as the **framework of a sign (i.e. what scientific ideas and science fiction tropes it uses as signifiers, what socio-cultural concepts and/or experiences it signifies, and how these elements interact in the final _novum_)**.
@@ -68,8 +68,8 @@ title: "BIO 21i Creative Project"
 - Form
 
 ### Writing
-
-#### Weight Loss Pills
+#### Version 1
+##### Weight Loss Pills
 My project will focus on weight loss pills that uses genetically engineered parasites as signifiers. They will be used to signify misinformation-fuelled diet culture and its victims: people who will resort to desparate measures just to get their desired bodies.
 
 One inspiration behind this *novum* is my mother, who happens to be one of these people. Being overweight is one of her greatest insecurities. Rather than committing to sustainable healthy habits, what she'd often do instead is buy all the popular diet powders, teas, pills, etc. She'd even offer these to me as well, knowing that I also want to lose weight. Whenever I'd question her on the effectiveness of these products, she'd never be able to defend them properly (she'd always gain the weight she initially lost from trying them); however, even after being reminded of their unreliability, she'd still continue buying them. Thus, I can't help but recognize this kind of cognitive dissonance whenever I see a popular diet supplement.
@@ -88,22 +88,77 @@ Consuming parasites already makes weight loss terrifying and bizarre, but it's s
 
 For the form of this project, I want to make a website for promoting the fictional weight loss pills. This would feature the benefits of these pills, results from clinical trials, and success stories shared by customers. These main parts (along with other sections like FAQ and Disclaimer) will be used to showcase the *novum*.  I am still debating whether I want to make this website look professional, or as scammy as possible (through dark marketing tactics).
 
-#### Mail-to-order Partners
+##### Mail-to-order Partners
 My project will focus on artificially made mail-to-order brides/husbands. Human reproductive cloning and genetic engineering are used as signifiers to stand for the commodification of life and love, along with the unequal power dynamic behind many transnational relationships.
 
 The main inspiration behind this *novum* is [Yvette Tan's "Seek Ye Whore"](https://web.archive.org/web/20220811151400/https://yvettetan.com/2019/02/11/seek-ye-whore/), which features siquijorbrides.com: a fictional website for inhuman mail-to-order brides. The protagonist, a middle-aged American male, orders one to use as a servant and blow-up doll, and ends up getting more than what he wished for. While reading this story, I was reminded of how acquiring this kind of relationship is so easy nowadays; technology (the Internet) mediates it, media (*90 Day Fiance*) promotes it, and culture (colonial mentality) sustains it. Aside from this, I also find inspiration in  AI humans like [Star Labs' NEONs](https://neonlife.ai/) and [Replika's companions](https://replika.com/). I'm intrigued by technologies behind these creations and people are reacting to them. A notable example: Replika's recent shutting down of its erotic roleplay functionality left much of its community devastated, to the point that [many of its members were sharing suicide prevention resources](https://knowyourmeme.com/news/replika-ai-shuts-down-erotic-role-play-community-shares-suicide-prevention-resources). Putting these two inspirations together, I can't help but think about how  dehumanization seems utterly inescapable in a capitalist system; even non-human species like monsters and robots don't seem to have a chance. What better way of reflecting this truth than the production of humans for the sake of "marriage"?
 
 Thus, this project will be centered on a biotech company making and selling such humans, aiming to provide everyone in the world (who can afford it) the perfect match. However, since perfection is contextually dependent, the company will be providing a variety of humans to choose from. The only characteristic shared by all the models would be their physically optimal condition (i.e. youthful and healthy, high libido). A particular question I'd like to explore (inspired by Ted Chiang's "The Lifecycle of Software Objects") is the personality expression of an artificially made human: if a person purchases their dream partner, would this partner come with a personality or not? While I think the buyer would be able to dictate certain inclinations (e.g. less aggressive, more social), I believe that the partner's personality would develop further when they're already in contact with the buyer.  
 
-For the form of this project, I will make a website for  selling these mail-to-order partners. The design of this will be based off existing dating websites, where potential partners can be filtered by physical characteristics (e.g. age, ethnicity, height and weight, hair and eye color, body type, etc.). If a user doesn't find anything they like from the ready-made selection, they can choose to order their own. The made-to-order page will allow a user to choose the physical characteristics they'd want for their partner. The website will also contain pages (such as "Learn More" and "FAQ") that dive deep into the production process of these partners. I'm planning to use AI-generated art for the visuals of these partners in order to make them look both perfect and uncanny. 
+For the form of this project, I will make a website for  selling these mail-to-order partners. The design of this will be based off existing dating websites, where potential partners can be filtered by physical characteristics (e.g. age, ethnicity, height and weight, hair and eye color, body type, etc.). If a user doesn't find anything they like from the ready-made selection, they can choose to order their own. The made-to-order page will allow a user to choose the physical characteristics they'd want for their partner. The website will also contain pages (such as "Learn More" and "FAQ") that dive deep into the production process of these partners. I'm planning to use AI-generated art for the visuals of these partners in order to make them look both perfect and uncanny.
 
-
-
-#### Influencer Hivemind
+##### Influencer Hivemind
 My project will focus on a human hivemind consisting of content creators that uses eusociality, nanotechnology, and the group mind as signifiers to signify the exploitative nature of the social media industry — for both influencers and their audiences.
 
 For the form of this project, I will write an exposé that also serves as an interactive article (similar to [the Guidon's interactives](https://interactive.theguidon.com/)).  
 
-
+#### Version 2
+##### Outline
+- Novum summary
+- Inspirations
+	- Tapeworm diet
+	- The Autopsy?
+	- "The Only Neat Thing to Do"
+- Biological component
+	- Tapeworm that goes in both brain and mind?
+	- comes in pill or drink format?
+	- Progression?
+		- Infection
+		- Migration
+			- to intestines, then to brain
+		- Attachment
+			- frontal lobe? prefontal cortex?
+		- Control
+			- when they become a salesperson
+			- a behavior that is advantageous to the parasite, helping it spread more (through sales)
+				- "Such amazing parasites do all of this by high-jacking, co-opting, and manipulating their hosts' nerve impulses and **neurotransmitters**, which are the hormones produced by our nervous system that regulate our behaviors. Examples of neurotransmitters are dopamine, adrenaline, oxytocin, gamma aminobutyric acid (GABA), and endorphins."
+			- transformation storyline: representations the dehumanization effect of capitalism
+			- become connected to a hivemind
+		- Reproduction
+		- when do they become a salesperson? 
+	- How did it get past regulation
+		- complex and secretive supply chain
+		- deceptive labeling or packaging
+			- they might use code names or obscure descriptions for ingredients, or package the supplements in a way that obscures the ingredients list or makes it difficult to read. 
+			- They might also use misleading health claims or testimonials to market their supplements, making it difficult for consumers to distinguish between safe and unsafe products.
+		- use advanced biotechnology or genetic engineering techniques to create new and potentially dangerous ingredients that are difficult to detect using traditional testing methods.
+- Form
+	- Component 1: product website
+		- make this only findable through the wayback machine?
+	- Component 2: article
+		-  must show stages of progression...
+		- news article expose format
+		- what is the storyline?
+			- popularity of product on social media (mainly tiktok and instagram... try to put fake posts here)
+			- source's mom tried it
+				- note: the source is certified in someway...a physician? they wanted to test it because they see these supplements as BS
+				- the mom is single, the source is an only child
+			- mom goes through the stages
+				- rapid weight loss (fast metabolism) without shitty side-effects
+				- but then starts losing personality...all she talks about is weight
+				- starts sharing it to others
+			- source then resorts to desparate measures
+				- dissolved pill in water
+				- finds eggs and proglottids (worm segments) in the toilet
+			- reports this to FDA...
+				- but they also share this to the news source to ensure that the public is warned, given their danger
+			- FDA finds out about its deceptive strategies?
+			- COMPANY NAME "did not respond to requests for comment"?
+- Questions
+	- Biology
+		- confirm how the parasite affects the brain...attaching itself to the prefontal cortex, then hijacking neurotransmitters?
+		- connect to hivemind
+	- Literature
+		- capitalism as an "amoral god"...how can I represent this?
 
 
