@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Creation/BIO 21i Creative Project.md",
-                "mode": "source",
+                "file": "content/Permanent Notes/Absolute Certainty versus Wonder.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Creation/BIO 21i Creative Project.md",
+            "file": "content/Permanent Notes/Absolute Certainty versus Wonder.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Creation/BIO 21i Creative Project.md",
+            "file": "content/Permanent Notes/Absolute Certainty versus Wonder.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Creation/BIO 21i Creative Project.md"
+            "file": "content/Permanent Notes/Absolute Certainty versus Wonder.md"
           }
         }
       }
@@ -131,9 +131,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb56b5ec86b87cae",
+  "active": "1715ed555b60692d",
   "lastOpenFiles": [
+    "content/DLQ 10 MOC.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-10.md",
+    "2023-03-14.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-07.md",
+    "content/Miscellaneous Notes/Freestyle Workshop.md",
     "content/Creation/BIO 21i Creative Project.md",
     "content/Art MOC.md",
     "assets/styles/_callouts.scss",
@@ -166,10 +170,6 @@
     "content/Miscellaneous Notes/Daily Notes/2023-01-27.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-09.md",
     "content/Miscellaneous Notes/Daily Notes/2022-10-05.md",
-    "content/Miscellaneous Notes/Daily Notes/2022-03-07.md",
-    "content/Miscellaneous Notes/Daily Notes/2022-10-25.md",
-    "content/Miscellaneous Notes/Daily Notes/2022-12-05.md",
-    "content/Miscellaneous Notes/Daily Notes/2022-10-11.md",
     "content/images/Pasted image 20201208150506.png",
     "content/images/The PKM Pyramid.png",
     "content/images/26D7A6BD-9DBA-4BFE-A725-D480113E41A4.png",
