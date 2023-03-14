@@ -60,6 +60,8 @@ In this reading taken from _Help My Unbelief_, O'Malley challenges our human im
 
 > The second question — where do I fit into all of this — is really the search for a *myth*, a sense of established, coherent background against which to find meaning amid all those unexpected intrusions. We need a sense that our lives have a storyline, rather than random bits...
 
+^1edbe4
+
 - This explains why it's easier for us to deal with problems than mysteries (See [[Permanent Notes/Problem versus Mystery]])
 - We resort to reductionist thinking because we try to explain the complexity of the world (See [[Permanent Notes/Absolute Certainty versus Wonder]])
 - Searching for a myth = seeking order in the midst of the chaos that is life [[Permanent Notes/Order and Chaos]]

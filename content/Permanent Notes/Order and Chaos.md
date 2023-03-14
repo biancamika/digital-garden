@@ -16,11 +16,11 @@ title: "Order and Chaos"
 		- [[Permanent Notes/Desolation]]: 
 		- [[Permanent Notes/Consolation]]:
 	- Module 2
-		- [[Permanent Notes/Tangibles]]
-		- [[Permanent Notes/The Divided Life]]
-		- [[Permanent Notes/Brokenness]]: 
-		- [[Permanent Notes/The False Self]]
-		- [[Permanent Notes/Self-rejection]]
+		- [[Permanent Notes/Tangibles]]: To live a good life, we need to learn how to treat our tangibles like advisors instead of dictators. This requires a balance between order and chaos; the former gives us the direction we need while the latter teaches us adaptation.
+		- [[Permanent Notes/The Divided Life]]: a Divided Life consists of either too much order or too much chaos.
+		- [[Permanent Notes/Brokenness]]: A balanced approach is needed in order to make the most of our brokenness.
+		- [[Permanent Notes/The False Self]]: Both The False Self and The True Self are integral to our identities; to live a good life, we must balance these selves by closing the gap between them (a.k.a. integrating our role and our soul).
+		- [[Permanent Notes/Self-rejection]]: Self-rejection can happen either through self-restriction (excessive order) or self-indulgence (excessive chaos).
 
 ## Notes
 - Why are Ateneans so indecisive? Why do we always say "Yes and no"

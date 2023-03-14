@@ -20,8 +20,8 @@ title: "Desire"
 		- [[Permanent Notes/Tangibles]]: Tangibles, at their core, reflect desires
 		- [[Permanent Notes/The Divided Life]]: what happens when we don't channel our desires properly
 		- [[Permanent Notes/Brokenness]]: Our desires show how we are uniquely broken.
-		- [[Permanent Notes/The False Self]]: a self mastered by desires
-		- [[Permanent Notes/Self-rejection]]
+		- [[Permanent Notes/The False Self]]: The False Self is a self mastered by desires (manifested as disordered attachments). But desire can also lead us to our True Self.
+		- [[Permanent Notes/Self-rejection]]: When we reject ourselves, making our desires value-adding is impossible.
 
 ## Notes
 - **Desire** is the ==energy that moves our lives.==
@@ -49,3 +49,7 @@ title: "Desire"
 		- Don't let your desires define you. Remember, there is more to a meal (a.k.a. your life) than your bread-&-butter (a.k.a. core desire). Enrich it with other desires as well.
 			- How can we find this core desire? Make sense of previous expereinces. Look at the things that have given you life. 
 			- So early in your career, make **learning** ypur biggest priority. Don't be a perfectionist; fight the urge to get things right immediately.
+- The way of the deepest desire (or the Strategy of Liberation) can lead us to [[Permanent Notes/The True Self]]
+
+![[Resource Notes/Inner Compass#^b0c625]]
+![[Resource Notes/Inner Compass#^96bf2e]]

@@ -17,11 +17,11 @@ title: "Perfectionism"
 		- [[Permanent Notes/Desolation]]
 		- [[Permanent Notes/Disordered attachments]]
 	- Module 2
-		- [[Permanent Notes/Tangibles]]
-		- [[Permanent Notes/The Divided Life]]
-		- [[Permanent Notes/Brokenness]]
-		- [[Permanent Notes/The False Self]]
-		- [[Permanent Notes/Self-rejection]]
+		- [[Permanent Notes/Tangibles]]: Perfectionists create avatars of themselves with their own tangibles.
+		- [[Permanent Notes/The Divided Life]]: Perfectionists live divided lives because the gap between their “perfect” avatars and authentic souls is too wide.
+		- [[Permanent Notes/Brokenness]]: The excessive control perfectionists pursue in their lives is rooted in their unique brokenness.
+		- [[Permanent Notes/The False Self]]: The avatar presented by the perfectionist is The False Self.
+		- [[Permanent Notes/Self-rejection]]: Perfectionist tendencies make us reject ourselves. 
 
 ## Notes
 - The relationship between **puzzles** and perfection

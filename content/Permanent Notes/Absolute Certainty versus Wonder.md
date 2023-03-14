@@ -17,11 +17,11 @@ title: "Absolute Certainty versus Wonder"
 		- [[Permanent Notes/Desolation]]: 
 		- [[Permanent Notes/Consolation]]:
 	- Module 2
-		- [[Permanent Notes/Tangibles]]
-		- [[Permanent Notes/The Divided Life]]
-		- [[Permanent Notes/Brokenness]]: the heart of our attachments. Everyone's brokenness has its own distinct character.
-		- [[Permanent Notes/The False Self]]
-		- [[Permanent Notes/Self-rejection]]
+		- [[Permanent Notes/Tangibles]]: wholely defining ourselves according to our tangibles comes from a reductionist mindset. 
+		- [[Permanent Notes/The Divided Life]]: Living with absolute certainty can lead one to living The Divided Life due to a desire for control.
+		- [[Permanent Notes/Brokenness]]: Absolute certainty makes us act on our brokenness with bitterness, while wonder makes us act on our brokenness with compassion.
+		- [[Permanent Notes/The False Self]]: A reductionist mindset can only see False Selves, while a sense of wonder can get us in touch with our True Selves.
+		- [[Permanent Notes/Self-rejection]]: When we reject ourselves, we resort to reductionism. A sense of wonder is needed in order to accept ourselves.
 
 ## Notes
 

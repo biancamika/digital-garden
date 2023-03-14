@@ -6,11 +6,11 @@ title: "Brokenness"
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:**
 	- Module 1A
-		- [[Permanent Notes/Problem versus Mystery]]: 
-		- [[Permanent Notes/Absolute Certainty versus Wonder]]: 
-		- [[Permanent Notes/Order and Chaos]]
-		- [[Permanent Notes/Perfectionism]]
-		- [[Permanent Notes/Desire]]:
+		- [[Permanent Notes/Problem versus Mystery]]:  Gaining more knowledge about a mystery requires personal investment, and experiencing brokenness can lead us to this
+		- [[Permanent Notes/Absolute Certainty versus Wonder]]: Absolute certainty makes us act on our brokenness with bitterness, while wonder makes us act on our brokenness with compassion.
+		- [[Permanent Notes/Order and Chaos]]: A balanced approach is needed in order to make the most of our brokenness.
+		- [[Permanent Notes/Perfectionism]]: The excessive control perfectionists pursue in their lives is rooted in their unique brokenness.
+		- [[Permanent Notes/Desire]]: Our desires show how we are uniquely broken.
 	- Module 1B
 		- [[Permanent Notes/The First Principle and Foundation]]
 		- [[Permanent Notes/Discernment]]: 

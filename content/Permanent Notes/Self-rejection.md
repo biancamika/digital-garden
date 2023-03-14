@@ -6,11 +6,11 @@ title: "Self-rejection"
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:**
 	- Module 1A
-		- [[Permanent Notes/Problem versus Mystery]]: 
-		- [[Permanent Notes/Absolute Certainty versus Wonder]]: 
-		- [[Permanent Notes/Order and Chaos]]
-		- [[Permanent Notes/Perfectionism]]
-		- [[Permanent Notes/Desire]]:
+		- [[Permanent Notes/Problem versus Mystery]]: When we reject ourselves, we treat ourselves as a problem. Accepting that we are mysteries is crucial for getting to truly know ourselves
+		- [[Permanent Notes/Absolute Certainty versus Wonder]]: When we reject ourselves, we resort to reductionism. A sense of wonder is needed in order to accept ourselves.
+		- [[Permanent Notes/Order and Chaos]]: Self-rejection can happen either through self-restriction (excessive order) or self-indulgence (excessive chaos).
+		- [[Permanent Notes/Perfectionism]]: Perfectionist tendencies make us reject ourselves. 
+		- [[Permanent Notes/Desire]]: When we reject ourselves, making our desires value-adding is impossible.
 	- Module 1B
 		- [[Permanent Notes/The First Principle and Foundation]]
 		- [[Permanent Notes/Discernment]]: 

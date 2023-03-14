@@ -6,11 +6,11 @@ title: "The Divided Life"
 - **Keywords:** [[Permanent Notes/permanent notes]]
 - **Relevant Notes:**
 	- Module 1A
-		- [[Permanent Notes/Problem versus Mystery]]: 
-		- [[Permanent Notes/Absolute Certainty versus Wonder]]: 
-		- [[Permanent Notes/Order and Chaos]]
-		- [[Permanent Notes/Perfectionism]]
-		- [[Permanent Notes/Desire]]:
+		- [[Permanent Notes/Problem versus Mystery]]: Life is full of mysteries, not just problems. Tackling these mysteries requires personal investment, which we are unable to provide when we live The Divided Life.
+		- [[Permanent Notes/Absolute Certainty versus Wonder]]: Living with absolute certainty can lead one to living The Divided Life due to a desire for control.
+		- [[Permanent Notes/Order and Chaos]]: a Divided Life consists of either too much order or too much chaos.
+		- [[Permanent Notes/Perfectionism]]: Perfectionists live divided lives because the gap between their “perfect” avatars and authentic souls is too wide.
+		- [[Permanent Notes/Desire]]: A Divided Life happens when we don't channel our desires properly
 	- Module 1B
 		- [[Permanent Notes/The First Principle and Foundation]]
 		- [[Permanent Notes/Discernment]]: 

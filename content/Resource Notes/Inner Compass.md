@@ -25,7 +25,7 @@ Margaret's book _Inner Compass: An Invitation to Ignatian Spirituality_ deals,
 	- Letting go of the hook may be painful at first (falling onto the cold hard ground)...but it makes us free to move on our own again
 		- "It is a hard-won and painful freedom, but it is freedom, and it signals growth." [[Permanent Notes/We grow when we let go]]
 		- The importance of wonder...of being open to possibilities outside of this hook (See [[Permanent Notes/Absolute Certainty versus Wonder]])
--   **What does our deepest desire have to do with detachment? (Take note of the difference between the _stick way_ versus the _carrot way_.)**
+-   **What does our deepest desire have to do with detachment? (Take note of the difference between the _stick way_ versus the _carrot way_.)** ^b0c625
 	- We can deal with our addictions in two ways:
 		- **Stick way (the *ascetic* way):** [[Permanent Notes/Ascetism]]
 			- I am becoming aware that I have these particular dependencies, attachments, compulsion, crutches, idols
