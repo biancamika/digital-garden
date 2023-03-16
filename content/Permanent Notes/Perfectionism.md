@@ -40,7 +40,7 @@ title: "Perfectionism"
 			- Reality does not perfectly fit what we want it to be.
 				- Life is full of mysteries, not just problems. See: [[Permanent Notes/Problem versus Mystery]]
 			- When it comes to dating, this is a common mentality: "I would have rather have real than perfect."
-				- But remember: your fixation on the perfect might be ==keeping you from the real goal. ==
+				- But remember: your fixation on the perfect might be ==keeping you from the real goal.==
 				- ^ Relevant to the examples mentioned by Margaret Self in "[[Resource Notes/Inner Compass]]"
 		- [[Perfectionism renders growth unnecessary and obsolete]]
 			- If perfection is such a dangerous thing, then why pursue it at all? Should we just settle for mediocrity, then?
