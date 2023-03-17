@@ -161,4 +161,30 @@ For the form of this project, I will write an exposé that also serves as an int
 	- Literature
 		- capitalism as an "amoral god"...how can I represent this?
 
+##### Writing
+My project will focus on weight-loss shakes that uses genetically engineered parasites as signifiers. They will be used to signify misinformation-fuelled diet culture and its victims: people who will resort to desparate measures just to get their desired bodies.
+
+**On the Novum**
+- Ready-made shake, should be drunk only once due to how effective it is (hence why it is hella pricy)
+- Tapeworm eggs? Cysts? Are inside
+- minimum viable prop: no harmful? Side effects? Aside from just being a laxative??? Or maybe it yassifies it...just says faster metabolism without the pain, more effective (You can compare to other comoanies )
+- Process
+	- How long does it take to take effect?
+	- First it goes to the intestines
+	- Then it migrates to the brain
+		- Mention anatomy
+		- Side effects...mention what effect and why the company did this
+- About the Company
+	- What secretive tactics do they use?
+
+
+
+**On the Form**
+This project will consist of two components: a website that promotes the fictional weight loss shakes, and an online article that tries to expose the shakes' secrets.
+
+The website would feature the benefits of these pills, results from clinical trials, and success stories shared by customers. These main parts (along with other sections like FAQ and Disclaimer) will be used to showcase the _novum_. I am still debating whether I want to make this website look professional, or as scammy as possible (through dark marketing tactics).
+
+- Overview of the article
+- Featured storyline
+- Included visuals
 
