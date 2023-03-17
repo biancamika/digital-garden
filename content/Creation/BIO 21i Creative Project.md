@@ -162,29 +162,30 @@ For the form of this project, I will write an exposé that also serves as an int
 		- capitalism as an "amoral god"...how can I represent this?
 
 ##### Writing
-My project will focus on weight-loss shakes that uses genetically engineered parasites as signifiers. They will be used to signify misinformation-fuelled diet culture and its victims: people who will resort to desparate measures just to get their desired bodies.
+My project will focus on weight-loss shakes that involve genetically engineered tapeworms as signifiers. They will be used to signify misinformation-fuelled diet culture and its victims: people who will resort to desparate measures just to get their desired bodies.
 
 **On the Novum**
-- Ready-made shake, should be drunk only once due to how effective it is (hence why it is hella pricy)
-- Tapeworm eggs? Cysts? Are inside
-- minimum viable prop: no harmful? Side effects? Aside from just being a laxative??? Or maybe it yassifies it...just says faster metabolism without the pain, more effective (You can compare to other comoanies )
-- Process
-	- How long does it take to take effect?
-	- First it goes to the intestines
-	- Then it migrates to the brain
-		- Mention anatomy
-		- Side effects...mention what effect and why the company did this
-- About the Company
-	- What secretive tactics do they use?
+In a world saturated with diet products, Shapeshifters Co.'s Trim Tonic™  weight-loss shake is the latest gamechanger, reknown for its unprecedented efficiency and effectiveness. Instead of following a routine for 7 or 30 days...all you have to do is drink this once, and let it do its magic! Over the span of a month, your metabolism will drastically increase in speed, making burning fat as easy as pie. This change comes with no harmful side-effects (unlike most laxatives), and it will remain long-term for sure. Forget about exercise programs and meal plans; all you need is one drink to change your life. It costs just $200 — a bargain price for a worthy investment.
 
+Marketing voice aside, the secret ingredient behind this powerful shake is its special tapeworms. Each ready-made shake comes with its own eggs. Once these are consumed, they go to the consumer's intestines; here, they hatch and develop in adults over the course of 3 weeks (a sped-up growth rate thanks to genetic engineering). They then attach themselves to the intenstinal walls  in order to start absorbing nutrients from food digestion. This is when the consumer will start experiencing rapid weight loss. 
+
+Besides the intestines, the tapeworms are also designed to migrate and attach themselves to the brain. These would then influence the consumer to become an avid network marketer for the company: buying, promoting, and selling the shakes so that more people would try them out. The company, Shapeshifters Co., altered the tapeworms this way in order to use them as a growth strategy; why spend millions on influencer marketing when you can make your customers do it for free? All the aforementioned behaviors are also advantageous for the tapeworms (in a reproductive perspective), so they encourage these by hijacking the brain's reward system (a.k.a. the mesocorticolimbic circuit). Pleasure is experienced everytime a sale is made, and motivation is high for relevant activities like finding leads. 
+
+However, this modified system can also turn on the consumer; if they aren't succeeding with sales for a certain period of time, they can experience withdrawal-like symptoms such as irritability, depression, and anxiety. These effects on mental health are further exacerbated by the consumer's infected intestines, given that [the gut and the brain are intimately connected](https://www.health.harvard.edu/diseases-and-conditions/the-gut-brain-connection). When it comes to real-life multi-level marketing, [many people trapped in the system feel addicted to it](https://www.reddit.com/r/antiMLM/comments/8kg5gj/mlm_and_addiction/); thus, I thought it would brain-hijacking parasites would be a good signifier for this.
+
+Despite their secret, Shapeshifters Co. is able to make these shakes without problems. The Food and Drug administration (FDA) [does not have the authority to approve dietary supplements (for their safety and effectiveness, and/or for their labelling) before they are marketed](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements). It is the company that is responsible for ensuring that their supplements meet safety standards. However, the FDA still plays a role in regulating these supplements (e.g. inspecting manafacturing facilities, reviewing product labels, monitoring adverse reports). To ensure secrecy, Shapeshifters Co. utilizes genetic engineering techniques to make the tapeworms difficult to detect using traditional testing methods. Aside from this, the product's label hides this from the ingredient list (which is already difficult to read). Misleading health claims and testimonials are also used to make the product look legitimate (thanks ChatGPT for the suggestions).
+
+- Possible names:
+	- Trim Tonic
+	- Lean & Mean
 
 
 **On the Form**
-This project will consist of two components: a website that promotes the fictional weight loss shakes, and an online article that tries to expose the shakes' secrets.
+This project will consist of two components: a website that promotes the fictional weight loss shakes, and an article that aims to expose the shakes' secrets.
 
-The website would feature the benefits of these pills, results from clinical trials, and success stories shared by customers. These main parts (along with other sections like FAQ and Disclaimer) will be used to showcase the _novum_. I am still debating whether I want to make this website look professional, or as scammy as possible (through dark marketing tactics).
+The website will feature the benefits of these shakes, results from clinical trials, and success stories shared by customers. These main parts (along with other sections like FAQ and Disclaimer) will be used to showcase the _novum_. Along with the website, I will be designing the label of the product, along with possible advertisements. For this, I think I will be taking inspiration from  the designs of "gym bro" supplements, "natural" detox products, and vintage tapeworm diet advertisements.
 
-- Overview of the article
-- Featured storyline
-- Included visuals
+The article will serve to show the progressive stages of the parasite. It will be a post published on a fake r/conspiracytheories; I'll recreate a single page of the subreddit through design and code. This post will include a link to the Shapeshifters website, connecting both of this project's components as one interactive experience. The story will start with background context on the product's popularity, showing screenshots of Instagram posts and Tiktok videos from fictional influencers. Then, this will segue to the writer's mother, who tried out the shake for herself. The author then witnesses her mother become a whole new person. At first, she experiences rapid weight loss and is raving all about it. However, she also starts having an obsessive personality; all she cares about now is sharing the shakes everywhere. Concerned, she acquires a shake from her mother just to investigate it herself, being a medical school student. She is then shocked to find tapeworm eggs inside (To be honest, tapeworm eggs look a lot like rice grains...and rice shakes exist so...). Aware that her mother wouldn't believe her (she wasn't open to criticism at all), the author resorts to desparate measures by sneaking antiparasitic medication in her mother's food. While this sends the mother to the bathrooom (and keeps her stuck there), her mind is still on hyper-salesperson mode. Lost, the author asks the subreddit for help, unsure of what to do next. I'd imagine the comments are filled with people confirming the effects of the shakes, along with those theorizing what they do.
+
+
 
