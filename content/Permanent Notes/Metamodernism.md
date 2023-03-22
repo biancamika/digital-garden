@@ -24,7 +24,9 @@ title: "Metamodernism"
 
 ![comparison](https://nesslabs.com/wp-content/uploads/2019/12/metamodernism-illustration.jpg)
 
-
+![[Metamodernism.jpeg]]
 ### Sources
-https://nesslabs.com/metamodernism
-http://www.metamodernism.org/
+- https://nesslabs.com/metamodernism
+- http://www.metamodernism.org/
+- https://www.psychologytoday.com/us/blog/theory-knowledge/202004/what-is-metamodernism
+- https://metamoderna.org/metamodernism/

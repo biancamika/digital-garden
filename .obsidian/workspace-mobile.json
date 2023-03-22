@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-18.md",
+                "file": "2023-03-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-03-18.md",
+            "file": "2023-03-21.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-03-18.md",
+            "file": "2023-03-21.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-03-18.md"
+            "file": "2023-03-21.md"
           }
         }
       }
@@ -129,17 +129,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d48ee2b8d9895eb5",
   "lastOpenFiles": [
-    "content/Creation/BIO 21i Creative Project.md",
-    "2023-03-18.md",
-    "content/Creation/Developh Camp.md",
-    "2023-03-17.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-18.md",
+    "2023-03-21.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-07.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-10.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-14.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-17.md",
+    "content/Permanent Notes/Metamodernism.md",
+    "content/images/Metamodernism.jpeg",
+    "content/Permanent Notes/Reductionism.md",
+    "content/Permanent Notes/Modernism.md",
+    "content/Creation/BIO 21i Creative Project.md",
+    "content/Creation/Developh Camp.md",
     "content/Permanent Notes/Change happens only when we are willing to leave the familiar-that-enslaves behind.md",
     "content/Resource Notes/The Need for Certainty.md",
     "content/DLQ 10 MOC.md",
@@ -154,12 +162,6 @@
     "content/Permanent Notes/Perfectionism.md",
     "content/Permanent Notes/Tangibles.md",
     "content/Resource Notes/The Components of Any Choice.md",
-    "content/Permanent Notes/Consolation.md",
-    "content/Permanent Notes/Desolation.md",
-    "content/Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo.md",
-    "content/Resource Notes/Henri Nouwen on Brokenness.md",
-    "content/Permanent Notes/The Divided Life.md",
-    "content/Resource Notes/Being the Beloved.md",
     "assets/styles/_callouts.scss",
     "assets/styles/custom.scss",
     "assets/styles/clipboard.scss",
@@ -178,7 +180,6 @@
     "content/images/Pasted image 20220711135828.png",
     "content/images/Pasted image 20230129155340.png",
     "content/images/image.jpg",
-    "content/images/Pasted image 20230127133811.png",
-    "content/images/Pasted image 20230127135509.png"
+    "content/images/Pasted image 20230127133811.png"
   ]
 }
