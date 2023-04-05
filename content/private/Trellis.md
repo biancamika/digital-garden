@@ -1,8 +1,4 @@
 ## Tasks
-- [ ] Coordinate with Jessica on Zillow tours
-- [ ] Upgrade to admin on Rippling
-- [ ] Upgrade Calendly with Mercury card
-- [x] Schedule 50-100 leads, general
 - [ ] Apply for Open AI for Startups
 
 
