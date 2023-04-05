@@ -88,3 +88,51 @@ People to reach out to (not yet on Airtable):
 - laurence@xqinstitute.org (AP History)
 - Aron.holewinski@gmail.com (Bar Exam Outlines)
 - zef@mit.edu (Probability Theory with Applications)
+
+
+4/5:
+Good evening! Listing here all the tasks I have to get to today:
+- [ ] Create a system of creating Linear tickets automatically after making interview notes. Do this for all past history in the team_user-research channel ASAP
+- [x] Create an Airtable of different schools and their respective ambassador contacts for the Trellis Communities program
+- [ ] Create an "ambassador/distribution" package for high school + college ambassadors 
+	- Social media and email copy and graphics for different platforms
+	- Adapted for high school, university, etc.
+	- connect to airtable form, with short.io link
+	- compile on Notion? google drive?
+		- https://www.notion.so/Notion-Ambassadors-40c3b3ee8c744e7fad34ab4ac9765773
+		- https://www.notion.so/affiliates
+	- We could make a webpage? 
+		- https://paragraphai.com/ambassadors/
+		- https://lightning.ai/pages/ambassador-program/
+- [ ] Schedule next set of user interviews on Calendly 
+	- Schedule with emails/vcfs Jasmine specifically sent to me
+	- Ensure it's distributed to be like 1-3x a day max.
+	- Make sure there are at least 2 user interviews that Jasmine can attend a day for the next 6 weeks
+- [ ] Help draft a JD for Browser Engineering role (if I'm done with all the above tasks + if Daanish hasn't finished yet)
+
+
+- it'd be helpful if you did research on relevant communities. e.g. United World College
+- compile drafts of emails etc (maybe with chatGPT assisting?) for ambassador package. i wonder if there are SOTA packages out there
+- Calendly email automation workflow
+- is there a way to bulk send email?
+
+List of people to reach out to: 
+- mathurah.ravigulan@gmail.com
+- rachelmack.2319@gmail.com
+- Contact with iMessage:
+	- Shaan: (780) 909-1608
+	- Sherry: (587) 936-8268
+	- April Park: (780) 271-3478
+	- Ardelle Tian: (780) 257-3309
+	- Lakshmi: (825) 343-0631
+	- Evalynn Tu: (780) 729-7082
+	- Oneli: (780) 217-9289
+	- Ayesh: (587) 936-2128
+	- Rebecca He: (825) 436-3012
+	- Tengyu: (587) 372-0688
+	- Tony Zhu: (587) 589-9671
+
+- reader interviews
+	- email everyone who wants Newton's Principia (4-5 people)
+	- follow-ups with readers (but need more work on books)
+	- AP Subject kids, any other high schoolers
