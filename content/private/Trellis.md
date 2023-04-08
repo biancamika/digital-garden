@@ -115,6 +115,10 @@ Good evening! Listing here all the tasks I have to get to today:
 - compile drafts of emails etc (maybe with chatGPT assisting?) for ambassador package. i wonder if there are SOTA packages out there
 - Calendly email automation workflow
 - is there a way to bulk send email?
+- idea: promoting through Atomic essays?
+	- https://www.figma.com/community/file/948211770576521206/Atomic-Essay-Format-for-Twitter
+	- https://www.figma.com/community/file/978109919300137435/Ship-30-for-30-Template
+	- https://twitter.com/atomicessay?lang=en
 
 List of people to reach out to: 
 - mathurah.ravigulan@gmail.com
@@ -136,3 +140,23 @@ List of people to reach out to:
 	- email everyone who wants Newton's Principia (4-5 people)
 	- follow-ups with readers (but need more work on books)
 	- AP Subject kids, any other high schoolers
+
+
+Want to help bring personalized world-class learning to students? Join us in transforming education by taking part in **Trellis' Student Ambassador program**. 💡
+
+**What is Trellis?**
+[Trellis](https://readtrellis.com) is the world's first ChatGPT-powered custom tutor and textbook companion. For any book, it can explain code and formulae in plain English, simplify complicated prose, translate into a different language, and generate visualization from any phrase.
+
+Trellis is being built by a world-class team, having members with experience at Stanford, Nvidia, OpenAI, Meta, and more; currently, over 4000+ students, academics, and professionals all around the world
+have signed up for the beta.
+
+**What is the Trellis Student Ambassador Program?**
+The Trellis Student Ambassador Program is a special program for high school and college students that are passionate about Trellis' mission. Ambassadors will be responsible for evangelizing Trellis in their schools; they'll do this by reaching out to other students, teachers, and administrators, along with creating promotional content on social media.
+
+As a Student Ambassador, you will gain benefits such as direct connections to the Trellis team, early access to new features and personalized recommendation letters, alongside skills in social media marketing, outreach, and leadership. Being a student ambassador will not only develop you professionally, but also link you with other philomath students like yourself! 
+
+**Who can become a Trellis Student Ambassador**?
+We're looking for high school and college students who are passionate about education and technology. Experience in marketing, growth, community-building is preferred, but not necessary. The expected time commitment is around 1-2 hrs/week.
+
+**Interested in becoming a student ambassador?** Reach out to jasmine@readtrellis.com
+
