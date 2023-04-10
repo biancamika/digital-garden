@@ -1,6 +1,7 @@
 ---
 title: "BIO 21i RPG Character"
 ---
+#BIO21i 
 ## Guidelines
 - _**Origins of Life and** **Species**_: 
 	- Tell us about **at least one unique** **milestone in the evolution** of your species from its ancestors. 
@@ -23,7 +24,9 @@ title: "BIO 21i RPG Character"
 - Idea 2: biblically accurate angel
 	- Culture: Aloof? Psychic? Spiritual?
 	- Physiology: Aquatic? Cephalopod? Avian?
-- Idea 3: Filipinos as cockroaches
+- Idea 3: Dia-spore-a
+	- Inquisitive Plantoid/Fungoid?
+- Idea 4: Filipinos as cockroaches
 	- Honorable Arthropoid
 		- Oath of Loyalty?
 	- Inspiration
@@ -57,9 +60,14 @@ title: "BIO 21i RPG Character"
 				- balikbayan? Homesick? How do they reconnect with their roots, despite being so far away? Diaspora?
 				- https://digitalcollections.sit.edu/capstones/817/
 		- Biological Processes
-			- Sexual dimorphism depending on gender roles and labor: https://www.cockroachzone.com/how-to-identify-male-and-female-cockroaches/
-			- Males are more mobile
-			- Females are made for caretaking
+			- Parasite/Disease
+				- For biological control
+				- Wasps or fungi? Sly?
+			- Gender
+				- https://animals.mom.com/how-to-tell-the-sex-of-baby-chickens-5377021.html
+				- Sexual dimorphism depending on gender roles and labor: https://www.cockroachzone.com/how-to-identify-male-and-female-cockroaches/
+				- Males are more mobile
+				- Females are made for caretaking? Burrowing
 		- Biology and Society
 			- Biotechnology enhancement ideas: messaging app? Compass?
 				- Wands of sending? Sending stones?
