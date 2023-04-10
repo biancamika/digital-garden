@@ -121,8 +121,10 @@ Good evening! Listing here all the tasks I have to get to today:
 	- https://twitter.com/atomicessay?lang=en
 
 List of people to reach out to: 
-- mathurah.ravigulan@gmail.com
+- Mathurah Ravigulan: mathurah.ravigulan@gmail.com (UBC)
 - rachelmack.2319@gmail.com
+- Nawreen Hena: nawreenhena@gmail.com (Oxford)
+- Isaak Freeman: freeman.isaak@gmail.com
 - Contact with iMessage:
 	- Shaan: (780) 909-1608
 	- Sherry: (587) 936-8268
@@ -141,7 +143,33 @@ List of people to reach out to:
 	- follow-ups with readers (but need more work on books)
 	- AP Subject kids, any other high schoolers
 
+#### Interviews
+##### Mathurah
+- Doesn't understand the standard deviations/grade levels
+- Wants to give feedback
+	- text box/reactions
+- Design sketches: Plug with WolframAlpha
+- Generative visuals is a priority
+- would pay if it had generative visuals + speed + UX
 
+##### Sophia
+- Day in the life
+	- Assignments
+	- reads through lectures
+	- do problem sets
+- Feedback
+	- why is 3rd grade longer than original?
+	- "I like how the tone sort of shifts"
+	- What to do if the phrase still doesn't make sense?
+	- what's stopping her from paying for it is the limited number of textbooks
+	- Base price on Chegg?
+	- student discount
+	- $20 a month
+	- Where have you learned about...
+		- Word-of-mouth (campus, friends, social media)
+- People don't go to office hours because they're too busy...end up turning to chatGPT when they're crunching at midnight
+
+#### Outreach
 Want to help bring personalized world-class learning to students? Join us in transforming education by taking part in **Trellis' Student Ambassador program**. 💡
 
 **What is Trellis?**
