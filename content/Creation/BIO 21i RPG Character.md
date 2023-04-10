@@ -17,6 +17,7 @@ title: "BIO 21i RPG Character"
 	- Tell us about **the world that you character and their species call home**. Describe some important details about the planet before focusing on your character's (or the species') **home environment**. Describe that environment's climate, major flora and fauna, and other interesting ecological features. Make sure that these are consistent with the traits of your species! Additionally, talk about **how this has influenced your species' culture and society**, keeping in mind what we know about them so far.
 
 ## Idea Dump
+### Species
 - Physiology and Culture
 - Idea 1: space siren
 	- Culture: Manipluative? Psychic?
@@ -29,6 +30,7 @@ title: "BIO 21i RPG Character"
 - Idea 4: Filipinos as cockroaches
 	- Honorable Arthropoid
 		- Oath of Loyalty?
+		- https://homebrewery.naturalcrit.com/share/SyvB38SueB
 	- Inspiration
 		- https://newnaratif.com/the-philippines-dangerous-dependence/
 			- The concept for the imagery came from a dear educator I met from UP College of Fine Arts who said that Filipinos are the cockroaches of the world due to our ability to adapt to other lands and external pressure. He said this with utmost respect and love for our countrymen. And given the weight of this article, it is the best time to shed light on possible issues that could come from our go-getter attitude (see: martyrdom) to prove ourselves worthy of the opportunities we have, despite these being exploitative and inhumane.
@@ -51,46 +53,115 @@ title: "BIO 21i RPG Character"
 		- Origin of Life and Species
 			- Ancestor: normal cockroaches and humans
 			- Evolutionary change: 
-				- cockroaches together with some moss were sent on Mars. Due to an endless downpour of space radiation and -80C temperatures, this harsh environment has finally forced the cockroaches, who have not changed their shape in 300 million years to evolve.
-				- In a distant future where most of the world has been destroyed by [terrorists](https://marvel.fandom.com/wiki/Lucas_Bishop_(Earth-1191) "Lucas Bishop (Earth-1191)"), the remaining humans living in the United States began to experiment with integrating cockroach DNA into their bodies, mutating them into Cockroach-hybrids, able to survive in their harsh world.
+				- cockroaches together with some moss were sent on Mars. Due to an endless downpour of ==space radiation and -80C temperatures==, this harsh environment has finally forced the cockroaches, who have not changed their shape in 300 million years to evolve.
+				- In a distant future where most of the world has been destroyed by [terrorists](https://marvel.fandom.com/wiki/Lucas_Bishop_(Earth-1191) "Lucas Bishop (Earth-1191)"), the remaining humans living in the United States began to experiment with ==integrating cockroach DNA== into their bodies, mutating them into Cockroach-hybrids, able to survive in their harsh world.
 					- Human-changing hatchlings. Skin extremely hard, and extremely tough to kill.
-				- Sent to work on faraway planets for labor (similar to OFWs)
+				- Work on faraway planets for labor (similar to OFWs)
 					- Dehumanizing
 			- How this inspires their culture: 
-				- balikbayan? Homesick? How do they reconnect with their roots, despite being so far away? Diaspora?
-				- https://digitalcollections.sit.edu/capstones/817/
+				- https://en.wikipedia.org/wiki/Cockroach#Behavior
+					- social insects; exhibit parental care
+					- elaborate [social structure](https://en.wikipedia.org/wiki/Social_structure "Social structure"), chemical signaling, and "social herd" characteristics
+					- Collective decision-making
+						- Cooperation and competition are balanced in cockroach group decision-making behavior.
+				- https://web.archive.org/web/20180828182013/http://www.bbc.co.uk:80/nature/17839642
+				- https://www.nytimes.com/2007/11/15/science/15cnd-roach.html
 		- Biological Processes
 			- Parasite/Disease
 				- For biological control
 				- Wasps or fungi? Sly?
+				- https://www.scientificamerican.com/article/how-a-wasp-turns-cockroaches-into-zombies1/
+				- https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/entomopathogenic-fungus
 			- Gender
 				- https://animals.mom.com/how-to-tell-the-sex-of-baby-chickens-5377021.html
 				- Sexual dimorphism depending on gender roles and labor: https://www.cockroachzone.com/how-to-identify-male-and-female-cockroaches/
 				- Males are more mobile
 				- Females are made for caretaking? Burrowing
 		- Biology and Society
-			- Biotechnology enhancement ideas: messaging app? Compass?
-				- Wands of sending? Sending stones?
-				- https://www.reddit.com/r/DnD/comments/578xm7/5e_i_need_a_deviceitem_i_can_use_to_communicate/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 			- Backpacks? Armor?
 				- https://www.upi.com/Science_News/2022/09/06/japan-riken-scientists-cyborg-cockroaches-solar-powered-backpack-steer-insects/3791662485256/
 				- https://www.npr.org/sections/alltechconsidered/2015/03/16/393403190/what-cockroaches-with-backpacks-can-do-ah-mazin
 					- The point of their work is to build the perfect cockroach cyborg: an animal that can crawl into tiny holes and around jagged edges with recording equipment, for surveillance, for example. Or, if there's an earthquake and a building crashes, Liang says, deploy them to the second floor for search and rescue, "so when they reach there, they can work as a vehicle. If they can carry any sensors, cameras, they can collect information for us."
-		- Ecology and Society:
-			- Nomadic
-			- live in dark places in planets
-			- Biome
-			- Resources
-			- Wildlife
-			- Race
-			- History
+					- cyborg suits make them better at their jobs? especially in space
+		- Ecology and Worldbuilding:
+			- Think of:
+				- Biome
+				- Resources
+				- Wildlife
+				- Race
+				- History
+			- Notes:
+				- Ecology
+					- Nomadic?
+					- live in dark, damp, and humid places in planets (forest biome?)
+					- where a lot of food is available?
+					- Nocturnal
+					- trees?
+				- Society
+					- seen as untouchable, but are also essential to society's sruvival
+			- Sources:
+				- https://www.qrg.northwestern.edu/projects/marssim/simhtml/info/whats-a-decomposer.html
+				- https://www.resteasypestcontrol.com/5-essential-roles-roaches-serve-in-the-ecosystem/
+					- nutrient recycling
+					- nitrogen cycle
+				- Human Scavenger Community
+					- https://scavenger-movement.org/thoughts/about-scavenger-communities
+					- https://www.hrw.org/report/2014/08/25/cleaning-human-waste/manual-scavenging-caste-and-discrimination-india
+
+### Character
+- wants to go into space?
+- idolizes their pioneer ancestors
+- currently stuck on their home planet, doing scavenging work
 
 ## Writing
-### Physical
-- Roachkin are humanoid cockroach-people. They have large compound eyes and two long antennae protruding from their heads. Their limbs are long and gangly with the arms and legs leading to five-clawed hands and feet. A tough carapace protects their back and wings while a waxy substance coats their skin. They are not known for their good looks to say the least.
+### Dump
+- Origins of Life and Species:
+	- AD (Insert year here): The increasing inhospitality of the Earth, pushes humanity to scout and terraform planets for future habitation. Despite its necessity, the nature of space exploration renders this scouting mission lifelong, isolating, and possibly deadly. Thus, most of the people who enlist are criminals sentenced with life imprisonment/death row, along with desparate people who want to pay off massive debts for their families. 
+	- Accouting for space's extremely harsh conditions (e.g. radiation, negative temperatures), humans  experiment with integrating cockroach DNA into these scouts' bodies. These turn them  into human-cockroach hybrids.  ==Talk more about in-game traits they gained==
+	- ^ They were acclaimed as heroes....
+	- This initial batch of scouts gave rise to the Blattodeans, who now  proliferate the galaxy centuries later. In the societies they inhabit, they typically act as scavengers and salvagers. Considered an "untouchable" race, they are looked down upon by other species. 
+	- Together, Blattodeans make up tight-knit communities. Large families (including grandparents, aunts/uncles, and cousins) are packed together in single households. They also don't have their own leaders, since everyone sees each other as equals; whenever a decision needs to be made (e.g. choosing where to forage or make nests), it is done collectively. Being social is essential to their survival; Blattodeans who grow up alone end up physically and emotionally stunted.
+- Biological Processes:
+	- 
+- Biology and Society: 
+	- Space Suits provided for the initial batch of scouts?
+		- search-and-rescue missions?
+		- spying?
+	- Function:
+		- Armor
+		- Communication: w/ leader
+		- Control: just in case people step out of line
+	- Value: historical artifact
+- Ecology and Worldbuilding:
+	- Blattodeans do not have a home planet, being scattered all over the galaxy. While they are capable of existing anywhere, they do prefer planets with tropical climates. They are most likely to be found in settlements like cities, towns, and villages — anywhere trash is produced.  Some Blattodean populations can also be seen in the wild, living in forests and caves.
+	- No matter where they stay, Blattodeans play an essential role in the ecosystem. Without their scavenging, places would be quickly consumed by tons of rotting food, trash, sewage and junk. 
 
-### History
-- Roachkin have infested the earth since the days of the primordials. Ancestors of the currently living are said to have seen the births and deaths of Gods. Being highly adaptable, their communities have found homes in nearly every corner of the earth. In early times they were a nomadic race, frequently traveling amongst food sources, but in the recent age they have settled down and tend to spend most of their life in the same place. Having seen nearly every major historical event, the written texts of ancient Roachkin would be an invaluable resource had the Roachkin ancients not written primarily about what sort of feces tastes best.
+### Final
+### Species
+#### Physical
+- Physical characteristics and their functions
+- General traits:
+	- short lifespans (due to their sickly conditions)
+	- nocturnal
+	- Stubbornness, persistence
+		- immortality?
+	- Flexibility, agility
+		- speed
+- Biological processes
+- Subraces: 
+	- Urban Blattodeans
+		- Found in settlements
+	- Wild Blattodeans 
+		- Found in forests and caves
+		- smaller?
+		- more vegeterian diet
+		- more...primal? natural
 
-### Society
-- Roachkin societies tend towards living where there's plenty of food, and they will eat just about anything. The staple jobs of any Roachkin community are farming, ranching, foraging, and hunting. They place a high value on resourcefulness and adaptability. This allows them to form communities in nearly any climate and in any setting from the wilderness to the big cities. They are a generally amicable race, prefering to live alongside other races and benefit from their resources. They are especially amenable to humans and changelings, finding them equally adaptable, and dwarves for their natural resourcefulness.
+#### History
+- Origins of Life and Species
+- Ecology and Worldbuilding 
+
+
+#### Society
+- Origins of Life and Species
+- Biology and Society
