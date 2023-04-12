@@ -1,0 +1,42 @@
+---
+title: "Pusillanimity"
+---
+## Reference
+- **Source:** [[DLQ 10 MOC]]
+- **Keywords:** [[Permanent Notes/permanent notes]]
+- **Relevant Notes:**
+	- Module 1A
+	- Module 1B
+	- Module 2
+	- Module 3
+
+## Notes
+- Module 3 Introduction
+	- Good v.s. bad; which of the following statements are more true?
+		- Good people who turned out to be bad
+		- Bad people who are trying to be good
+		- From Aleksandr Solzhenitsyn’s The Gulag Archipelago: If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. ==But the line dividing good and evil cuts through the heart of every human being.==
+	- St. [[Ignatius of Loyola]]: **The Meditation of the Two Standards**
+		- The Standard of Christ 
+		- The Standard of Satan
+	- Our better self leads us to a life of [[Maganimity]]
+		- (Magna - great; anima - soul)
+		- Often used to describe someone who is generous
+	- While our worst instincts lead us to a life of [[Pusillanimity]]
+		- (Pusilla - small; anima - soul)
+- Example: Basketball
+	- Dribbling is a fundamental skill of basketball. You cannot be a serious player without learning it.
+	- However, you cannot be a serious player if this is the only skill you can do.
+- **Self-love** is an example of [[Pusillanimity]]
+	- "Learning to love yourself is the greatest love of all"
+		- Age of Mental Health awareness
+	- Self-love is just as important to human beings as dribbling is to basketball...but loving ourselves isn't enough to make us ==truly human==
+		- Necessary, but not sufficient
+	- Self-love without self-giving turns into **narcissism**
+		- Narcissism feeds into our worst instincts and thus a pusillanimous life
+		- Love does not equal to pampering... (not wanting to sacrifice comfort)
+	- Thus, "Learning to love yourself is (the most basic) love of all"
+		- Can you imagine loving yourself in **isolation**? It's often done in relation to others.
+	- The greatest love of all lies beyond the confines of the self.
+- Example: Noonday is the hardest time to work because it is hot, dragging, and unexciting... 
+	- Exemplifies how [[Acedia]] leads us to living a pusillanimous life

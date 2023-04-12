@@ -1,0 +1,95 @@
+---
+title: "Pusillanimity"
+---
+## Reference
+- **Source:** [[DLQ 10 MOC]]
+- **Keywords:** [[Permanent Notes/permanent notes]]
+- **Relevant Notes:**
+	- Module 1A
+	- Module 1B
+	- Module 2
+	- Module 3
+
+## Notes
+- **Love** is the key to [[Maganimity]]
+	- Love is assumed to be cheesy...we forget that love is so much more than that
+- [[Scott Peck]]: "I define love thus: ==The will to expand one's self for the purpose of nurturing others=="
+- St. [[Thomas Aquinas]]: Love is to ==will the good of the other== as *other*
+	- Love is an **act of the will**
+	- Love = (willing the) **Good**
+		- Good = think about flourishing; benefit
+- **The Paschal Nature of Love** *(John Haughey, SJ)*
+	- Paschal: Passion, Death, and Ressurection of Christ
+	 - [[Excalidraw/The Paschal Nature of Love.png]]
+	 - If you give a gift that isn't valuable...it isn't a gift.
+		 - You're just throwing out trash
+	- When you give yourself to other people, do you value that part of yourself?
+- Love as a "**panacea**" *(Bishop Robert Barron sermon; February 5, 2020)*
+	- Panacea: miracle medicine; cures everything
+	- There is no such thing as a panacea...but perhaps the closest thing is **exercise**
+	- Self-care; therapy; medicine
+		- We only really start invoking these things when we see that something is wrong
+	- We cannot take a purely ==curative== approach when it comes to our mental health
+	- No amount of solutions is enough to cure what ==ails us from within==
+	- Think of love as the **exercise** that your soul needs
+		- Despite its benefits, it always comes with certain risks
+		- If you don't put your body at the risk of vulnerability, it will not get stronger. Same applies to the soul
+	- **Love** heals and strengthens one's soul just as **exercise** heals and strengthens one's body
+- **Antifragilty** *(conceptualized by Taleb; applied to psychology by Haidt)*
+	- Examples
+		- Wine glasses are fragile; **damaged** by disorder
+		- Plastic containers are resilient; **unaffected** by disorder
+		- Muscles are antifragile; **strengthened** by disorder
+	- Definition: ==the capacity to thrive due to shocks, stressors, volatility, uncertainities, and difficulties==
+	- Johnn A. Shedd: "A ship in harbor is safe, but that is not what ships are built for"
+	- Practical advice: Do an act of love to someone **regularly** no matter how small.
+- Problem: We love in **blindly passionate** ways. 
+	- Passion leads; impulsive; reactive -> harmful
+	- Louie's biking incident
+		- "I was pushing too hard without the necessary warm-up"
+		- "Once I recovered, I went biking again and felt stronger"
+	- Make sure that the intensity of love is accompanied by the **wisdom** of [[Permanent Notes/Discernment]] (Love wisely)
+		- What does this person need?
+		- Is what they're asking from me good? 
+		- Am I able to give it?
+			- Maybe...to a certain extent
+	- Jesus giving his life wasn't an **impulse decision**. He was **discerning** his own life...and eventually saw that this was the only way to go
+- Louie: "Hindi sapat ang magmahal nang **todo**; kailangan mo rin magmahal nang **tama**."
+- 4 Points About the **Dynamics of Love**
+	- Love is not something we **lose**
+		- We tend to think of it in economic terms
+			- Something we gain/lose
+			- Love as a transaction
+		- Do we ever run out of love?
+		- We may get tired of loving, but we never lose the capacity to love
+		- Love is not a commodity, but a **capacity**
+			- Otherwise, we'll be very transcational about it
+	- Love is **circular**
+		- Is there an inverse relationship between loving yourself and loving other people? (What is the relationship?)
+		- **The Circular Nature of Love** (St. [[Thomas Aquinas]]): Loving others finds its ==strength== in self-love, and self-love finds its fulfillment in loving others
+		- Athlete analogy: Self-love is **training**; loving others is **competing**
+		- Self-love & loving others has a circular relationship
+	- Love is what makes us **truly human** *(Homo amans)*
+		- Sapiens: wisdom, competence, ingenuity
+		- We are getting smarter, but also so much more broken
+		- Why do we associate terrible human beings with animals?
+		- With our increasing competence comes increasing cruelty.
+		- Bishop Paolo Virgilio David's speech:
+			- We survived and dominated the world because of our big hearts
+			- It's never too late to return to God's eternal design, identifying ourselves as Homo Amans (The Loving Humankind)
+		- The world is not broken because of a lack of competence, but because of a ==lack of compassion==
+	- Love is not for the **faint of heart**
+		- What is my purpose? **To love**. 
+			- What is the best way to love in this life?
+			- In what way can I gift myself in this dysfunctional world?
+		- Find your unique way of loving. That's a **vocation**. 
+			- What are you being called to?
+		- "I don't think I can do it"
+			- Money and personal happiness can follow if your heart is in the right place
+			- Don't think of love as something impractical
+		- Difficult does not equal to impossible
+			- Isn't that the acedia working?
+		- The maganimous life is the one that **dares** to love
+	- Henri Nouwen: [[The Challenge to Love]]
+		- "Perhaps the best definition of revelation is that it is ==safe to love==. The walls of our anxiety, our anguish, our narrowness are broken down and a wide endless horizon is known."
+

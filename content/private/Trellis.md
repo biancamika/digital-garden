@@ -143,6 +143,13 @@ List of people to reach out to:
 	- follow-ups with readers (but need more work on books)
 	- AP Subject kids, any other high schoolers
 
+TO-DO:
+- [ ] Schedule user interviews 
+- [ ] Make story graphics
+- [ ] Revise content templates (include guidelines, Tiktok and Instagram tempaltes and email)
+- [ ] Ambassador page
+- [ ] Make a Discord?
+
 #### Interviews
 ##### Mathurah
 - Doesn't understand the standard deviations/grade levels
