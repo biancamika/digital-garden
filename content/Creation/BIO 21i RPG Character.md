@@ -75,6 +75,8 @@ title: "BIO 21i RPG Character"
 			- Gender
 				- https://animals.mom.com/how-to-tell-the-sex-of-baby-chickens-5377021.html
 				- Sexual dimorphism depending on gender roles and labor: https://www.cockroachzone.com/how-to-identify-male-and-female-cockroaches/
+				- https://www.si.edu/stories/helicopter-cockroach-moms
+				- https://theconversation.com/only-a-mother-could-love-em-why-cockroaches-and-termites-are-great-parents-77162
 				- Males are more mobile
 				- Females are made for caretaking? Burrowing
 		- Biology and Society
@@ -116,25 +118,28 @@ title: "BIO 21i RPG Character"
 ## Writing
 ### Dump
 - Origins of Life and Species:
-	- AD (Insert year here): The increasing inhospitality of the Earth, pushes humanity to scout and terraform planets for future habitation. Despite its necessity, the nature of space exploration renders this scouting mission lifelong, isolating, and possibly deadly. Thus, most of the people who enlist are criminals sentenced with life imprisonment/death row, along with desparate people who want to pay off massive debts for their families. 
+	- AD 3XXX: The increasing inhospitality of the Earth pushes humanity to scout and terraform planets for future habitation. Despite its necessity, the nature of space exploration renders this scouting mission lifelong, isolating, and possibly deadly. Thus, most of the people who enlist are criminals sentenced with life imprisonment/death row, along with desparate people who want to pay off massive debts for their families. 
 	- Accouting for space's extremely harsh conditions (e.g. radiation, negative temperatures), humans  experiment with integrating cockroach DNA into these scouts' bodies. These turn them  into human-cockroach hybrids.  ==Talk more about in-game traits they gained==
 	- ^ They were acclaimed as heroes....
 	- This initial batch of scouts gave rise to the Blattodeans, who now  proliferate the galaxy centuries later. In the societies they inhabit, they typically act as scavengers and salvagers. Considered an "untouchable" race, they are looked down upon by other species. 
 	- Together, Blattodeans make up tight-knit communities. Large families (including grandparents, aunts/uncles, and cousins) are packed together in single households. They also don't have their own leaders, since everyone sees each other as equals; whenever a decision needs to be made (e.g. choosing where to forage or make nests), it is done collectively. Being social is essential to their survival; Blattodeans who grow up alone end up physically and emotionally stunted.
 - Biological Processes:
-	- 
+	- The main differentiator between male and female Blattodeans are their wings. The males' wings span their full body length, while the females' wings are only half this size; thus, only the former is able to fly. This dictates their typical functions. Males take on jobs that require a lot of mobility (e.g. scouting for food), leaving females with the jobs that don't require as much movement (e.g. caretaking). This is also reflected in their mating process; males are the ones who actively search for partners, while females just have to choose.
+	- Mate with sugar
 - Biology and Society: 
-	- Space Suits provided for the initial batch of scouts?
-		- search-and-rescue missions?
-		- spying?
-	- Function:
-		- Armor
-		- Communication: w/ leader
-		- Control: just in case people step out of line
-	- Value: historical artifact
+	- When the first batch of Blattodeans were sent out into space, they were provided   specially-made Space Suits that would allow them to survive in unterraformed planets. First, these regulate body temperatures so that they can bear extreme heat or cold. Second, these provide limited supplies of oxygen and water. Finally, they come with dual sensory communication systems; audio technology enables them to relay sounds, while olfactory technology enables them to transmit pheromones. These systems allowed them to commmunicate not only with each other, but also an external mission control team. 
+	- What also differentiates these Space Suits from normal ones is that they're ultra-light; they were sculpted for Blattodean morphology so that they wouldn't hinder mobility. 
+	- However, one lesser known feature of these suits is that they came with a remote-control mechanism. This ensured that the Blattodeans would not step out of line. Whenever a scout was misbehaving, control of their suit was taken from them. 
+		- Inspired by cockroach backpacks
+	- Significant progress over time (i.e. extensive evolution of the Blattodeans; increasing number of terraformed planets) has diminished the need for these Space Suits. Most Blattodeans would not be able to experience wearing one due to a lack of necessity and/or capability to travel outside of their home planet.
+	- Now, the primary value these Suits would offer would be as historical artifacts -- concrete reminders of the early days of space exploration.
 - Ecology and Worldbuilding:
-	- Blattodeans do not have a home planet, being scattered all over the galaxy. While they are capable of existing anywhere, they do prefer planets with tropical climates. They are most likely to be found in settlements like cities, towns, and villages — anywhere trash is produced.  Some Blattodean populations can also be seen in the wild, living in forests and caves.
+	- Blattodeans do not have a home planet, being scattered all over the galaxy. They prefer planets with tropical climates (either wet or monsoon) due to their biology. One reason is that they can only go one week without water, which requires them to live in humid or high-moisture environments. Another reason is that they are cold-blooded, which bar them from thriving in extremely hot or cold temperatures.
+	- They are most likely to be found in settlements like cities, towns, and villages — anywhere trash is produced.  Some Blattodean populations can also be seen in the wild, living in forests and caves.
+	- They have flexible diets, which adapt to their environments. Blattodeans in urban areas typically consume processed foods, while those in the wild eat fallen fruit, decaying plants, and small carcasses.
 	- No matter where they stay, Blattodeans play an essential role in the ecosystem. Without their scavenging, places would be quickly consumed by tons of rotting food, trash, sewage and junk. 
+
+- As the first species that emerged from humanity, the
 
 ### Final
 ### Species
