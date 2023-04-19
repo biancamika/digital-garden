@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Creation/BIO 21i RPG Character.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#EDUC101i",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Creation/BIO 21i RPG Character.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Creation/BIO 21i RPG Character.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Creation/BIO 21i RPG Character.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-19.md"
           }
         }
       }
@@ -135,8 +135,10 @@
   },
   "active": "e2072118e0d8f127",
   "lastOpenFiles": [
-    "content/Miscellaneous Notes/Daily Notes/2023-03-30.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-08.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
     "content/Creation/BIO 21i RPG Character.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-30.md",
     "content/Creation/Fast Food Education.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-31.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-14.md",
@@ -161,8 +163,6 @@
     "content/images/Metamodernism.jpeg",
     "content/Permanent Notes/Reductionism.md",
     "content/Creation/BIO 21i Creative Project.md",
-    "content/Creation/Developh Camp.md",
-    "content/Permanent Notes/Change happens only when we are willing to leave the familiar-that-enslaves behind.md",
     "assets/styles/_callouts.scss",
     "assets/styles/custom.scss",
     "assets/styles/clipboard.scss",
