@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-03-23.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md"
           }
         }
       }
@@ -158,11 +158,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "138a2ab9c61be09d",
+  "active": "e2072118e0d8f127",
   "lastOpenFiles": [
-    "content/Miscellaneous Notes/Daily Notes/2023-01-25.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-19.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-01-25.md",
     "content/Miscellaneous Notes/Daily Notes/2023-01-29.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-01.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-12.md",
@@ -170,7 +172,6 @@
     "content/Miscellaneous Notes/Daily Notes/2023-02-21.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-10.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-08.md",
     "content/Creation/BIO 21i RPG Character.md",
@@ -186,7 +187,6 @@
     "content/Miscellaneous Notes/Daily Notes/2023-02-23.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-27.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-28.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-07.md",
     "content/images/Metamodernism.jpeg",
     "assets/styles/_callouts.scss",
     "assets/styles/custom.scss",
