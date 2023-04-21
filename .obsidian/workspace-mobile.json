@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "#psychology",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-21.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md"
           }
         }
       }
@@ -160,9 +160,9 @@
   },
   "active": "e2072118e0d8f127",
   "lastOpenFiles": [
-    "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-19.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
     "content/Miscellaneous Notes/Daily Notes/2023-01-25.md",
     "content/Miscellaneous Notes/Daily Notes/2023-01-29.md",
