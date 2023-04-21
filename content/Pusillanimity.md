@@ -19,7 +19,7 @@ title: "Pusillanimity"
 	- St. [[Ignatius of Loyola]]: **The Meditation of the Two Standards**
 		- The Standard of Christ 
 		- The Standard of Satan
-	- Our better self leads us to a life of [[Maganimity]]
+	- Our better self leads us to a life of [[Permanent Notes/Maganimity]]
 		- (Magna - great; anima - soul)
 		- Often used to describe someone who is generous
 	- While our worst instincts lead us to a life of [[Pusillanimity]]
@@ -39,4 +39,4 @@ title: "Pusillanimity"
 		- Can you imagine loving yourself in **isolation**? It's often done in relation to others.
 	- The greatest love of all lies beyond the confines of the self.
 - Example: Noonday is the hardest time to work because it is hot, dragging, and unexciting... 
-	- Exemplifies how [[Acedia]] leads us to living a pusillanimous life
+	- Exemplifies how [[Permanent Notes/Acedia]] leads us to living a pusillanimous life

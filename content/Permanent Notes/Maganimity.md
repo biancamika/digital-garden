@@ -11,7 +11,7 @@ title: "Pusillanimity"
 	- Module 3
 
 ## Notes
-- **Love** is the key to [[Maganimity]]
+- **Love** is the key to [[Permanent Notes/Maganimity]]
 	- Love is assumed to be cheesy...we forget that love is so much more than that
 - [[Scott Peck]]: "I define love thus: ==The will to expand one's self for the purpose of nurturing others=="
 - St. [[Thomas Aquinas]]: Love is to ==will the good of the other== as *other*

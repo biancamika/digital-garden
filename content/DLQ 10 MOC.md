@@ -41,7 +41,7 @@ FROM #DLQ10
 ### MODULE 3: **Journeying Forward: The Call to a Loving Life**
 ***What is my purpose?*
 1. [[Pusillanimity]]
-2. [[Maganimity]]
+2. [[Permanent Notes/Maganimity]]
 
 ## List of Materials
 1. Module 1

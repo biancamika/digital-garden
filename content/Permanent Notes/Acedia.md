@@ -11,7 +11,7 @@ title: "Acedia"
 	- Module 3
 
 ## Notes
-- **[[Acedia]] (sloth):** "the loss of care"
+- **[[Permanent Notes/Acedia]] (sloth):** "the loss of care"
 	- A loss of urgency, passion, desire to do something
 	- Think: Have you fit the noontime of your commitments? Acedia is the temptation (our reaction)
 	- Definitions
