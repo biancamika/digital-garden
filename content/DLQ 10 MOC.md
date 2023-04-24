@@ -11,7 +11,8 @@ FROM #DLQ10
 
 ## Outline of Concepts
 
-### MODULE 1A: **Mapping the Journey: Developing a Discerning Sensibility**
+### MODULE 1: **Mapping the Journey: Developing a Discerning Sensibility**
+#### Module 1A
 ***The Fundamentals of Discernment***
 
 1. [[Permanent Notes/Problem versus Mystery]]
@@ -20,7 +21,7 @@ FROM #DLQ10
 4. [[Permanent Notes/Perfectionism]]
 5. [[Permanent Notes/Desire]]
 
-### MODULE 1B: **Mapping the Journey: Developing a Discerning Sensibility**
+#### MODULE 1B
 ***Ignatian Discernment***
 
 1. [[Permanent Notes/The First Principle and Foundation]]
@@ -40,8 +41,20 @@ FROM #DLQ10
 
 ### MODULE 3: **Journeying Forward: The Call to a Loving Life**
 ***What is my purpose?*
-1. [[Pusillanimity]]
-2. [[Permanent Notes/Maganimity]]
+1. [[Permanent Notes/Pusillanimity]]
+	1. Self-love/[[Narcissism]]
+	2. [[False Humility]]
+	3. [[Permanent Notes/Ressentiment]]
+3. [[Permanent Notes/Maganimity]]
+	1. [[Antifragility]]
+
+
+### MODULE 4: **Journeying to the Unknown: Hope as a Response to Suffering**
+***How do I bring hope?*
+1. [[Suffering]]
+
+### Epilogue: **Food for the Journey**
+[[Sayang - Pabaon Lecture]]
 
 ## List of Materials
 1. Module 1
@@ -50,7 +63,7 @@ FROM #DLQ10
 		1. [[Resource Notes/The Components of Any Choice]]
 		2. [[Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo]] (A 2-part lecture on God)
 	3. Part 3 - The Dynamics of Discernment:
-		1. What Should I Do?
+		1. [[Resource Notes/What Should I Do]]
 		2. [[Resource Notes/Inner Compass]]
 2. Module 2
 	1. Part 1 - The Divided Life
@@ -64,6 +77,17 @@ FROM #DLQ10
 		1. [[The Challenge to Love]]
 	2. Part 2 - Maganimity
 		1. [[Expanding the Shrunken Soul]]
+4. Module 4
+	1. Part 1 - The Mystery of Suffering
+		1. The Book of Job
+		2. [[Everything Happens for a Reason - and Other Lies I Have Loved]]
+	2. Part 2 - The Response to Suffering
+		1. Immersing in a Pool / Are Crowns Still a Thing? (Jesus' Context)
+		2. [[Jesus Before Christianity]]
+		3. [[A Sacred Voice is Calling]] (Supplementary Material 1)
+	3. Part 3 - Hope
+		1. [[Ministry to a Hopeless Man]]
+		2. [[Finding Hope When Life Doesn't Go As Planned]] (Supplementary Material 2)
 
 
 

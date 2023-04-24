@@ -33,5 +33,5 @@ title: "Acedia"
 		- Getting constantly distracted
 			- You can be active in acedia...doing everything but what you need to do. Acedia = ==procrastination==
 			- **Procrastination is not laziness.** It just means ==being busy doing the wrong things.==
-			- We ignore the call to love, because the most important person is ourselves. (See: Self-love and [[Pusillanimity]])
+			- We ignore the call to love, because the most important person is ourselves. (See: Self-love and [[Permanent Notes/Pusillanimity]])
 	- The solution to acedia: **Fight it head-on.** (Just keep swimming!)

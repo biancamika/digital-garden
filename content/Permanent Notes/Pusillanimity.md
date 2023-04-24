@@ -22,12 +22,12 @@ title: "Pusillanimity"
 	- Our better self leads us to a life of [[Permanent Notes/Maganimity]]
 		- (Magna - great; anima - soul)
 		- Often used to describe someone who is generous
-	- While our worst instincts lead us to a life of [[Pusillanimity]]
+	- While our worst instincts lead us to a life of [[Permanent Notes/Pusillanimity]]
 		- (Pusilla - small; anima - soul)
 - Example: Basketball
 	- Dribbling is a fundamental skill of basketball. You cannot be a serious player without learning it.
 	- However, you cannot be a serious player if this is the only skill you can do.
-- **Self-love** is an example of [[Pusillanimity]]
+- **Self-love** is an example of [[Permanent Notes/Pusillanimity]]
 	- "Learning to love yourself is the greatest love of all"
 		- Age of Mental Health awareness
 	- Self-love is just as important to human beings as dribbling is to basketball...but loving ourselves isn't enough to make us ==truly human==

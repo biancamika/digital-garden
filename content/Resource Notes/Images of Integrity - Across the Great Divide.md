@@ -38,3 +38,8 @@ Your **third required reading** will get you to reflect on why we live such di
 			- The journey toward inner truth is ==too taxing== to be made solo: lacking support, the solitary traveler soon becomes weary or fearful and is likely to quit the road.
 			- The path is ==too deeply hidden== to be travelled without company: finding our way involves cues that are subtle and sometimes misleading, requiring the kind of discernment that can happen only in dialogue
 			- The destination is ==too daunting== to be achieved alone: we need community to find the courage to venture into the alien lands to which the inner teacher calls us
+
+### Highlights
+> As we become more obsessed with ==succeeding==, or at least surviving in that world, we lose touch with our souls and disappear into our roles.
+
+> The divided life is the wounded life, and the soul keeps calling us to heal the wound. Ignore that call, and we find ourselves trying to numb our pain with an anaesthetic of choice, be it substance abuse, ==overwork,== consumerism, or mindless media noise.

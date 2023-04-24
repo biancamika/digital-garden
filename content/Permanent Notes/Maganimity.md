@@ -1,5 +1,5 @@
 ---
-title: "Pusillanimity"
+title: "Maganimity"
 ---
 ## Reference
 - **Source:** [[DLQ 10 MOC]]
@@ -20,6 +20,9 @@ title: "Pusillanimity"
 		- Good = think about flourishing; benefit
 - **The Paschal Nature of Love** *(John Haughey, SJ)*
 	- Paschal: Passion, Death, and Ressurection of Christ
+	- both of these acts require the self
+		- Dying from self-absorption → realizing there is more to life than the self
+		- Rising to self-donation → now you need to give yourself to somebody who needs; your purpose is to go beyond the confines of yourself to do something meaningful to somebody else
 	 - [[Excalidraw/The Paschal Nature of Love.png]]
 	 - If you give a gift that isn't valuable...it isn't a gift.
 		 - You're just throwing out trash
