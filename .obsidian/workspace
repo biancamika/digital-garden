@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2023-01-25.md",
-            "mode": "source"
+            "file": "2023-04-24.md",
+            "mode": "preview"
           }
         }
       }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/4. Miscellaneous Notes/Daily Notes/2023-01-25.md",
+            "file": "2023-04-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,8 @@
   },
   "active": "d86edc28db2a8628",
   "lastOpenFiles": [
+    "2023-04-24.md",
+    "content/DLQ 10 MOC.md",
     "2023-01-25.md",
     "content/4. Miscellaneous Notes/Daily Notes/2022-08-17.md",
     "content/Now.md",
