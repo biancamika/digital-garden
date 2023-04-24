@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2023-04-24.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
             "mode": "preview"
           }
         }
@@ -43,6 +43,25 @@
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "1e7e0c070f3c3522",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "537204c072615db6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -57,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-04-24.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -65,6 +84,28 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "09187b214fe1e1ff",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a98fb369a1b6a3b3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md"
           }
         }
       }
