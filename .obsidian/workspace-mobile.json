@@ -26,18 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93ae1547b92af1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/DLQ 10 MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0068b66194142e20",
             "type": "leaf",
             "state": {
@@ -110,7 +98,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Crowns",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -139,7 +127,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -151,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/DLQ 10 MOC.md",
+            "file": "content/Permanent Notes/Disordered attachments.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,7 +156,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/DLQ 10 MOC.md",
+            "file": "content/Permanent Notes/Disordered attachments.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -180,7 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/DLQ 10 MOC.md"
+            "file": "content/Permanent Notes/Disordered attachments.md"
           }
         }
       }
@@ -199,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93ae1547b92af1c1",
+  "active": "0068b66194142e20",
   "lastOpenFiles": [
     "Immersing in a Pool / Are Crowns Still a Thing.md",
     "content/DLQ 10 MOC.md",
