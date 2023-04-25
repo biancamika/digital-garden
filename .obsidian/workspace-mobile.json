@@ -8,43 +8,84 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd0ce36964062edf",
+            "id": "c7eca99372b4704f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-02-19.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2072118e0d8f127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "138a2ab9c61be09d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "70cd7772fa215b9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ae1547b92af1c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Permanent Notes/Discernment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0068b66194142e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Permanent Notes/Disordered attachments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9d3748490bde780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Permanent Notes/Perfectionism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aefac69d3804f574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Resource Notes/Inner Compass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec646e7765ab20e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +110,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Fully alive",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +139,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -110,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +168,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +180,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-20.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md"
           }
         }
       }
@@ -158,11 +199,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2072118e0d8f127",
+  "active": "c7eca99372b4704f",
   "lastOpenFiles": [
+    "content/Permanent Notes/Discernment.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
+    "content/Permanent Notes/Perfectionism.md",
+    "content/Resource Notes/Inner Compass.md",
+    "content/Permanent Notes/Desire.md",
+    "content/Permanent Notes/Disordered attachments.md",
+    "content/Resource Notes/The Spiritual Exercises.md",
+    "content/Permanent Notes/The First Principle and Foundation.md",
+    "content/Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo.md",
+    "content/DLQ 10 MOC.md",
+    "content/Resource Notes/Finding Hope When Life Doesn't Go As Planned.md",
+    "content/Resource Notes/Suffering - The Call of a Wounded Healer.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
+    "Immersing in a Pool / Are Crowns Still a Thing.md",
+    "Immersing in a Pool ",
     "content/Miscellaneous Notes/Daily Notes/2023-02-19.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
+    "content/Miscellaneous Notes/Freestyle Workshop.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
     "content/Miscellaneous Notes/Daily Notes/2023-01-25.md",
     "content/Miscellaneous Notes/Daily Notes/2023-01-29.md",
@@ -172,21 +228,7 @@
     "content/Miscellaneous Notes/Daily Notes/2023-02-21.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-10.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-04-08.md",
-    "content/Creation/BIO 21i RPG Character.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-30.md",
-    "content/Creation/Fast Food Education.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-31.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-14.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-18.md",
-    "content/EDUC 101i MOC.md",
-    "content/Permanent Notes/Matrix of domination.md",
     "content/images/Matrix of domination.jpeg",
-    "content/Permanent Notes/Modernism.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-23.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-27.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-28.md",
     "content/images/Metamodernism.jpeg",
     "assets/styles/_callouts.scss",
     "assets/styles/custom.scss",
@@ -197,7 +239,6 @@
     "assets/styles/syntax.scss",
     "assets/styles/code-title.scss",
     "assets/styles/base.scss",
-    "assets/js/callouts.js",
     "static/icon.png",
     "content/images/Pasted image 20201208150506.png",
     "content/images/The PKM Pyramid.png",

@@ -82,9 +82,9 @@ FROM #DLQ10
 		1. The Book of Job
 		2. [[Everything Happens for a Reason - and Other Lies I Have Loved]]
 	2. Part 2 - The Response to Suffering
-		1. Immersing in a Pool / Are Crowns Still a Thing? (Jesus' Context)
+		1. [[Immersing in a Pool / Are Crowns Still a Thing]] (Jesus' Context)
 		2. [[Jesus Before Christianity]]
-		3. [[A Sacred Voice is Calling]] (Supplementary Material 1)
+		3. [[Suffering - The Call of a Wounded Healer]] (Supplementary Material 1)
 	3. Part 3 - Hope
 		1. [[Ministry to a Hopeless Man]]
 		2. [[Finding Hope When Life Doesn't Go As Planned]] (Supplementary Material 2)

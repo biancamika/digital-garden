@@ -2,7 +2,7 @@
 title: "Finding Hope When Life Doesn't Go As Planned"
 ---
 ## Reference
-- **Source:** [[Pierre Wolff]]
+- **Source:** 
 - **Keywords:** [[Permanent Notes/permanent notes]]
 	- #religion #spirituality 
 - **Relevant Notes:** 
