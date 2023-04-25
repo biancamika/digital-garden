@@ -2,7 +2,7 @@
 title: "The Need for Certainty"
 ---
 ## Reference
-- **Source:** [[William O'Malley]]
+- **Source:** [[William O'Malley]], [[DLQ 10 MOC]]
 - **Keywords:** [[Permanent Notes/permanent notes]]
 	- #religion #spirituality 
 - **Relevant Notes:** 

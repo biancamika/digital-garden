@@ -83,7 +83,7 @@ FROM #DLQ10
 		2. [[Everything Happens for a Reason - and Other Lies I Have Loved]]
 	2. Part 2 - The Response to Suffering
 		1. Immersing in a Pool / Are Crowns Still a Thing (Jesus' Context)
-		2. [[Jesus Before Christianity]]
+		2. [[Resource Notes/Jesus Before Christianity]]
 		3. [[Suffering - The Call of a Wounded Healer]] (Supplementary Material 1)
 	3. Part 3 - Hope
 		1. [[Ministry to a Hopeless Man]]

@@ -2,7 +2,7 @@
 title: "Finding Hope When Life Doesn't Go As Planned"
 ---
 ## Reference
-- **Source:** 
+- **Source:**  [[DLQ 10 MOC]]
 - **Keywords:** [[Permanent Notes/permanent notes]]
 	- #religion #spirituality 
 - **Relevant Notes:** 

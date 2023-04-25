@@ -35,7 +35,7 @@ title: "Disordered attachments"
 
 ### Introduction to Attachments
 - So while some attachments can be healthy, well-ordered commitments, others can become unhealthy, destructive obsessions.
-- These are **disordered attachments:** an unhealthy depndence on any **thing, person, idea, or experience** that keeps us from fulfilling the will of God which is to live the best life we can.
+- These are **disordered attachments:** an unhealthy dependence on any **thing, person, idea, or experience** that keeps us from fulfilling the will of God which is to live the best life we can.
 	- Disordered attachments shrink our world into the confines of our unhealthy and destructive self -- ==preoccupation==
 	- Rule of Thumb: If it causes you and others harm, then it is likely a disordered attachment.
 		- Note: harm isn't always immediate
