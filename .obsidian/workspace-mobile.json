@@ -13,67 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad7fae9fe1a4abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "70cd7772fa215b9f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0068b66194142e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Permanent Notes/Disordered attachments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9d3748490bde780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Permanent Notes/Perfectionism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aefac69d3804f574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Resource Notes/Inner Compass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec646e7765ab20e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Crowns",
+            "query": "tag:#IDS147",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -139,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Permanent Notes/Disordered attachments.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Permanent Notes/Disordered attachments.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -168,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Permanent Notes/Disordered attachments.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md"
           }
         }
       }
@@ -187,16 +146,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0068b66194142e20",
+  "active": "1ad7fae9fe1a4abf",
   "lastOpenFiles": [
-    "Immersing in a Pool / Are Crowns Still a Thing.md",
-    "content/DLQ 10 MOC.md",
-    "content/Permanent Notes/Discernment.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-30.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-02-23.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
+    "content/Permanent Notes/The Divided Life.md",
+    "content/Permanent Notes/Disordered attachments.md",
+    "content/Permanent Notes/Desolation.md",
+    "content/Permanent Notes/Consolation.md",
+    "content/DLQ 10 MOC.md",
+    "content/Resource Notes/Jesus Before Christianity.md",
+    "Immersing in a Pool / Are Crowns Still a Thing.md",
+    "content/Permanent Notes/Discernment.md",
     "content/Permanent Notes/Perfectionism.md",
     "content/Resource Notes/Inner Compass.md",
     "content/Permanent Notes/Desire.md",
-    "content/Permanent Notes/Disordered attachments.md",
     "content/Resource Notes/The Spiritual Exercises.md",
     "content/Permanent Notes/The First Principle and Foundation.md",
     "content/Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo.md",
@@ -207,15 +175,6 @@
     "content/Miscellaneous Notes/Daily Notes/2023-02-19.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
     "content/Miscellaneous Notes/Freestyle Workshop.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-23.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-01-25.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-01-29.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-01.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-12.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-17.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-21.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-10.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
     "content/images/Matrix of domination.jpeg",
     "content/images/Metamodernism.jpeg",
     "assets/styles/_callouts.scss",
