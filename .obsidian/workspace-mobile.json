@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+                "file": "content/Permanent Notes/Modernism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#IDS147",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -146,12 +145,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ad7fae9fe1a4abf",
+  "active": "c7eca99372b4704f",
   "lastOpenFiles": [
+    "content/Permanent Notes/Modernism.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-03-05.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-30.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-23.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
     "content/Permanent Notes/The Divided Life.md",
@@ -173,8 +174,6 @@
     "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
     "Immersing in a Pool ",
     "content/Miscellaneous Notes/Daily Notes/2023-02-19.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-04-20.md",
-    "content/Miscellaneous Notes/Freestyle Workshop.md",
     "content/images/Matrix of domination.jpeg",
     "content/images/Metamodernism.jpeg",
     "assets/styles/_callouts.scss",
