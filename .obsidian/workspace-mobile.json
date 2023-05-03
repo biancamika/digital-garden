@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+                "file": "content/Permanent Notes/Absurdity.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9d0f94c78a31ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-05-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fedc53139bfc6dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -56,7 +81,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Absurdity",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +110,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -145,16 +170,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7eca99372b4704f",
+  "active": "2fedc53139bfc6dc",
   "lastOpenFiles": [
-    "content/Permanent Notes/Modernism.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-05-03.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+    "content/Permanent Notes/Modernism.md",
+    "content/Permanent Notes/Absurdity.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-05.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-16.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-30.md",
     "content/Miscellaneous Notes/Daily Notes/2023-02-23.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
     "content/Permanent Notes/The Divided Life.md",
     "content/Permanent Notes/Disordered attachments.md",
     "content/Permanent Notes/Desolation.md",
@@ -171,9 +198,7 @@
     "content/Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo.md",
     "content/Resource Notes/Finding Hope When Life Doesn't Go As Planned.md",
     "content/Resource Notes/Suffering - The Call of a Wounded Healer.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-04-21.md",
     "Immersing in a Pool ",
-    "content/Miscellaneous Notes/Daily Notes/2023-02-19.md",
     "content/images/Matrix of domination.jpeg",
     "content/images/Metamodernism.jpeg",
     "assets/styles/_callouts.scss",
