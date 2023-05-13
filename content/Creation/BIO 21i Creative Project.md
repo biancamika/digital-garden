@@ -187,5 +187,88 @@ The website will feature the benefits of these shakes, results from clinical tri
 
 The article will serve to show the progressive stages of the parasite. It will be a post published on a fake r/conspiracytheories; I'll recreate a single page of the subreddit through design and code. This post will include a link to the Shapeshifters website, connecting both of this project's components as one interactive experience. The story will start with background context on the product's popularity, showing screenshots of Instagram posts and Tiktok videos from fictional influencers. Then, this will segue to the writer's mother, who tried out the shake for herself. The author then witnesses her mother become a whole new person. At first, she experiences rapid weight loss and is raving all about it. However, she also starts having an obsessive personality; all she cares about now is sharing the shakes everywhere. Concerned, she acquires a shake from her mother just to investigate it herself, being a medical school student. She is then shocked to find tapeworm eggs inside (To be honest, tapeworm eggs look a lot like rice grains...and rice shakes exist so...). Aware that her mother wouldn't believe her (she wasn't open to criticism at all), the author resorts to desparate measures by sneaking antiparasitic medication in her mother's food. While this sends the mother to the bathrooom (and keeps her stuck there), her mind is still on hyper-salesperson mode. Lost, the author asks the subreddit for help, unsure of what to do next. I'd imagine the comments are filled with people confirming the effects of the shakes, along with those theorizing what they do.
 
+## Final Project
+### To-do
+- [x] Youtube clone
+- [ ] Product website
+
+### Notes
+- Product Details:
+	- Title: 
+		- Trimaenia? Thiniasis? Symbiontrim? Symbiothin?
+		- SYMBIOSLIM
+		- With sanitized? special tapeworm egg
+	- Tagline:
+		- Want fast metabolism forever?
+		- get lean, stay lean
+		- "friends for a fair form"
+		- From foe to friend
+		- biotech that turns parasites into symbionts.
+	- Description:
+	- Benefits:
+		- GMP ceritifed?
+		- Made in FDA registered facility
+		- 100% Natural ingredients
+		- manafactured in the USA
+		- Proudly bioengineered
+- Comments:
+	- bad review experience horror story...a friend of theirs
+- Recommended videos:
+	- news supporting it? or at least the technology?
+- Video font
+	- capsule zoom in to wriggling..... then cutesy font
+	- talk about the maintenance
+	- "I think I'm gonna call it Slimmy" :)
+	- unboxing vid? LOL
+	- cry about how everything is so addicting nowadays, don't feel in control of body anymore
+	- i wanna be real with yall
+- Context
+	- GMOs are all the hype now. From engineered food -> engineered supplements
+- Product Manual: taking care and marketing ur tapeworm
+	- make sure to eat enough! (to sustain ur worm)
+- Honestly I think you're dead-on in that spotlighting the tapeworms rather than hiding them might be a more interesting direction. It arguably makes the fight against marketing and disinformation harder if there isn't a super obvious lie. If that's the direction you take, ==figure out what's being hidden, what's not being hidden, and what's actively being marketed.==
+	- What's hidden: the mind control
+	- What's not being hidden: the presence of tapeworms
+	- What's actively being marketed: the fat-burning potential
+- should the video be like...reality tv show snippet....or health influencer vlog?
+- similar to *Microbiota and the Masses*...everyone has their own microbiota? or organism in their body? or at least doing something for them
+- Description References
+	- https://ph.iherb.com/pr/force-factor-probioslim-extra-strength-30-billion-cfu-120-vegetable-capsules/103178
+- https://thequackdoctor.com/index.php/eat-eat-eat-those-notorious-tapeworm-diet-pills/
+- [[Transhumanism]] but...vain
+- Genetic engineering examples
+	- [Can CRISPR help in the fight against parasitic worms?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6355191/)
+	- [Genetically engineered worms that can't get drunk could lead to a 'James Bond' sobriety pill](https://www.independent.co.uk/news/science/genetically-engineered-worms-that-can-t-get-drunk-could-lead-to-a-james-bond-sobriety-pill-9608939.html)
+		- Human alcohol targets (of which there many) are molecular channels that bind alcohol in the body, triggering the whole spectrum of drunken behaviour.
+		- "Our findings provide exciting evidence that future pharmaceuticals might aim at this portion of the alcohol target to prevent problems in alcohol abuse disorders," says Pierce-Shimomura. "However, it remains to be seen which aspects of these disorders would benefit."
+		- The researchers even speculated that one day they might be able to develop a “James Bond” drug that would enable spies to drink without becoming intoxicated - although its use outside of spycraft would be uncertain; if drinkers couldn't feel the effects of alcohol they might never stop.
+	- [Insect ranchers pour $5 million into world’s first large-scale genetic breeding facility](https://iapps2010.me/2022/02/05/genetically-engineered-mealworms-could-provide-fertilizer-and-food-for-millions/)
+		- Another issue, Picard adds, is whether all the genetic honing will overcome consumers’ potential aversion to bug eating. It might all come down to marketing, she says, noting that “lobster used to be the insect of the sea, and now it’s part of haute cuisine.”
+	- [James Cook University to genetically modify intestinal worms to protect US military personnel from bioweapons](https://www.abc.net.au/news/2021-07-29/genetically-modify-worms-for-us-miltary-james-cook-uni/100331756)
+		- 'Tiny factories' to work inside troops
+		- Professor Loukas said the project would be made possible through a recently developed genetic modification technology called CRISPR-Cas9.
+		- "You can introduce a foreign gene into an organism's genome, or you can knock out a gene using this technology and colleagues of ours in the US have recently applied this to parasitic worms," he said.
+
+### AI Research
+- One possible way that this future could end up happening is by imagining a scenario where ==genetic engineering becomes more advanced and accessible==, and people start to modify not only plants and animals, but also themselves and their children. You could explore the ethical, social, and environmental implications of such a world, as well as the potential conflicts and challenges that might arise from it. For example, you could ask questions like:
+	- How would people’s identities and relationships change if they could alter their appearance, abilities, or personality traits?
+	- What would be the benefits and risks of creating new species or hybrids of existing ones?
+	-   How would the natural ecosystems and biodiversity be affected by the introduction of GMOs?
+	-   What would be the legal and political issues involved in regulating GMOs and protecting human rights?
+	-   How would different cultures and religions react to GMOs and their creators?
+	-   What would be the role of science and technology in this society?
+- There are different factors that could influence the popularity of GMOs in the future, such as:
+	- The **demand** for food: As the world population grows and urbanizes, the demand for food will increase, especially for animal products and processed foods. [GMOs could help meet this demand by increasing crop yields, enhancing nutritional quality, and reducing food waste](https://www.statista.com/topics/2062/genetically-modified-crops/)[1](https://www.statista.com/topics/2062/genetically-modified-crops/)[2](https://www.fda.gov/food/agricultural-biotechnology/how-gmo-crops-impact-our-world)
+	- The **environmental** challenges: Climate change, water scarcity, soil degradation, and biodiversity loss are some of the environmental challenges that threaten food security and sustainability. [GMOs could help address these challenges by improving crop resilience to stress, reducing greenhouse gas emissions, and conserving natural resources](https://www.statista.com/topics/2062/genetically-modified-crops/)[1](https://www.statista.com/topics/2062/genetically-modified-crops/)[2](https://www.fda.gov/food/agricultural-biotechnology/how-gmo-crops-impact-our-world)[3](https://www.nhm.ac.uk/discover/the-future-of-eating-gm-crops.html)
+	- The **innovation** in biotechnology: Advances in biotechnology could enable the development of new and improved GMOs that offer more benefits and fewer risks. [For example, gene editing techniques such as CRISPR-Cas9 could allow more precise and targeted modifications of crops, animals, and microorganisms](https://www.statista.com/topics/2062/genetically-modified-crops/)[1](https://www.statista.com/topics/2062/genetically-modified-crops/)[2](https://www.fda.gov/food/agricultural-biotechnology/how-gmo-crops-impact-our-world)
+	- The **regulation** of GMOs: The regulation of GMOs varies widely across countries and regions, depending on their policies, laws, and public opinions. Some countries have strict regulations that limit or ban the cultivation and consumption of GMOs, while others have more lenient or supportive regulations that encourage or facilitate their use. [The regulation of GMOs could affect their availability, affordability, and acceptance in the future](https://www.statista.com/topics/2062/genetically-modified-crops/)[1](https://www.statista.com/topics/2062/genetically-modified-crops/)[2](https://www.fda.gov/food/agricultural-biotechnology/how-gmo-crops-impact-our-world)
+	- The **perception** of GMOs: The perception of GMOs among consumers, farmers, and other stakeholders is influenced by various factors, such as their knowledge, beliefs, values, and emotions. Some people have positive perceptions of GMOs and see them as beneficial and safe, while others have negative perceptions and see them as harmful and risky. [The perception of GMOs could affect their adoption, consumption, and advocacy in the future](https://www.statista.com/topics/2062/genetically-modified-crops/)[1](https://www.statista.com/topics/2062/genetically-modified-crops/)[2](https://www.fda.gov/food/agricultural-biotechnology/how-gmo-crops-impact-our-world)
+- Some people may prefer to avoid GMO supplements for various reasons, such as health concerns, environmental issues, or ethical values. ==However, there is no conclusive evidence that GMO supplements are harmful or unsafe for human consumption==. [The FDA, EPA, and USDA maintain that GMOs are safe and regulated](https://www.healthline.com/nutrition/gmo-pros-and-cons)[2](https://www.healthline.com/nutrition/gmo-pros-and-cons)
+- CRISPR for everyone:
+	- Gene therapy
+	- Agriculture
+	- Biotechnology
+	- Biohacking
+
 
 
