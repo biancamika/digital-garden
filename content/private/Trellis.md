@@ -2,15 +2,39 @@
 - [ ] Fix problems related to admin@readtrellis.com (not sure how exactly to start on this...from what I read on Slack, there's an email for UXR that serves as the new inbox now...please correct me if I'm wrong) 
 - [ ] DRI: Setting up ambassador program (see  [Growth Strategies Doc](https://docs.google.com/document/d/1ostc_pEHbDz-WfEo78YJMtATbePVNCURn5qSgGHzS-0/edit))
 	- [ ] Ambassador page
-	- [ ] Revise content templates (include guidelines, Tiktok and Instagram tempaltes and email)
+	- [ ] Revise content templates (include guidelines, Tiktok and Instagram tempaltes and email) -- talk about this amiel, show your old doc
 	- [ ] Set up community Discord server (note for Bianca: consult with the creators of Discord communities you were previously part of on Discord bots, etc.)
 - [ ] Comment review for [Socratic Tutor mocks](https://docs.google.com/document/d/1EVHpKY99Up2jkGHVedFdewJlGMdBi0R0-Atsk-ShZSk/edit)
 
 
 
-
 - [ ] Apply for Open AI for Startups
 - [ ] Add [trellis-user-interviews@readtrellis.com](mailto:trellis-user-interviews@readtrellis.com) to all the future clanedly links?
+
+### Weekly Growth Sync 
+- https://docs.google.com/document/d/1JeoJlTMZbK9jj1tIKdqIK4mQADbGDlwURfoNQ-MaMbk/edit#
+
+
+- Ambassador program questions
+	- Learn more about background, experience
+	- What benefits would you like to see in this program? (what to promote on the page)
+		- try out trellis (early-access features)
+		- community: connect with other users of Trellis and ambassadors
+		- Trellis book club reading the same textbook
+		- community forum
+	- How can Trellis make the ambasasador job easier for you? (package)
+		- clear guidelines + expectations (e.g. time commitment, responsibilities)
+- References
+	- [Arc for Students program](https://students.arc.net/)
+	- [Primer Microschools](https://primer.com/#apply)
+
+### Weekly Ops Sync
+- cancel zoom
+- Show Zapier workflows you've set up with the admin email so far
+- make Slack channel for conversation logs
+- Another task for community team is to make these lists and relationships:  (another airtable)
+	- great tutors to interview
+	- subject matter experts to help us build our socratic tutor
 
 
 ### Backlog
