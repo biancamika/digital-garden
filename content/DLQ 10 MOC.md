@@ -43,7 +43,7 @@ FROM #DLQ10
 ***What is my purpose?*
 1. [[Permanent Notes/Pusillanimity]]
 	1. Self-love/[[Narcissism]]
-	2. [[False Humility]]
+	2. [[Permanent Notes/False Humility]]
 	3. [[Permanent Notes/Ressentiment]]
 3. [[Permanent Notes/Maganimity]]
 	1. [[Antifragility]]

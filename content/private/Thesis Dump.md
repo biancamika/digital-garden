@@ -1,0 +1,4 @@
+- Research Gsheets
+	- one for quanti data analysis of secondary sources
+	- one for quali data anlysis...coding interviews...codebook
+		- just like SALT internship

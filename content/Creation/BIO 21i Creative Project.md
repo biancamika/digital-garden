@@ -235,7 +235,7 @@ The article will serve to show the progressive stages of the parasite. It will b
 - Description References
 	- https://ph.iherb.com/pr/force-factor-probioslim-extra-strength-30-billion-cfu-120-vegetable-capsules/103178
 - https://thequackdoctor.com/index.php/eat-eat-eat-those-notorious-tapeworm-diet-pills/
-- [[Transhumanism]] but...vain
+- [[Permanent Notes/Transhumanism]] but...vain
 - Genetic engineering examples
 	- [Can CRISPR help in the fight against parasitic worms?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6355191/)
 	- [Genetically engineered worms that can't get drunk could lead to a 'James Bond' sobriety pill](https://www.independent.co.uk/news/science/genetically-engineered-worms-that-can-t-get-drunk-could-lead-to-a-james-bond-sobriety-pill-9608939.html)
