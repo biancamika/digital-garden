@@ -35,5 +35,5 @@ Will tackle  metalearning, edtech, systems surrounding education, etc.
 	+ [[Permanent Notes/Willpower and motivation is finite]]
 
 **Creation:**
-+ [[Creation/Fast Food Education]]
-+ [[Creation/On Digital Gardening]]
++ [[Projects/Fast Food Education]]
++ [[Projects/On Digital Gardening]]

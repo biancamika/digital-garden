@@ -14,7 +14,7 @@ Warning: This website is forever a work in progress! Some notes may have weird f
 
 Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
 + **General works 📂**
-  + [[Creation MOC]]
+  + [[Projects MOC]]
   + [[School MOC]]
   + [[Thesis MOC]]
 + **Philosophy and psychology 💭**

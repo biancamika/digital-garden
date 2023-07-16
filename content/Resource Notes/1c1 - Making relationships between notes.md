@@ -1,0 +1,12 @@
+---
+title: "1c1 - Making relationships between notes"
+---
+- How should I use tags? Or should I use them at all? Same with folders. Should I just abolish them and go with links only? These are just a few of the questions that come up about how to manage knowledge. But let's zoom out. Let's apply a helpful metaphor: **relationships**.
+- What we really are trying to figure out is how to be the best cupid possible. How can we be the best match-maker possible. Because ultimately, that's the question we're trying to solve over and over again: **_What is the right relationship to form between these two notes?_**
+- So as we explore how we can form useful relationships between notes, we're going to lean heavily into this metaphor: **Notes are people**. That means:
+	- **Link** are strong relationships, like family or good friends or even colleagues.
+	- **Tags** are weak relationships, like people who like the Los Angeles Lakers basketball team.
+	- **MOCs** are people who have assembled together for some reason (an event, party, etc).
+	- **Proximity** are people on the same flight—you might be with family, or friends, or your team—but you might also be with a total group of strangers too.
+- These are the major =="relationship-builders"== we have. (Yes, for advanced users there are "queries" too.)  
+- You really need to lean into this stuff. I don't have the answers for your unique needs, because what works for me, or someone else, might not work for you. So this exploration is to light the way for you to feel empowered and confident to make the right relationships in your knowledge management efforts.   Let's explore these relationship-builders now.

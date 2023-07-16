@@ -97,10 +97,11 @@ Research competitors’ landing pages, ad channels, and content marketing for gr
 2. [[Resource Notes/Demand Curve - Pricing Overview]]
 3. [[Resource Notes/Demand Curve - What to Charge For]]
 4. [[Resource Notes/Demand Curve - How to Charge]]
-5. [[Demand Curve - How Much to Charge]]
-6. [[Demand Curve - Model-market Fit]]
-7. [[Demand Curve - Model-product Fit]]
-8. [[Demand Curve - Model-channel Fit]]
+5. [[Resource Notes/Demand Curve - How Much to Charge]]
+6. [[Resource Notes/Demand Curve - Pricing Bonus Tactics]]
+7. [[Demand Curve - Model-market Fit]]
+8. [[Demand Curve - Model-product Fit]]
+9. [[Demand Curve - Model-channel Fit]]
 ### Part 3: **Develop Your Acquisition Strategy**
 
 ## Glossary
