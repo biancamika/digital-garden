@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7eca99372b4704f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Permanent Notes/Absurdity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ad7fae9fe1a4abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Permanent Notes/Modernism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9d0f94c78a31ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-05-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2fedc53139bfc6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-07-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dc7aa0cf577e782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/CHI Paper MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Absurdity",
+            "query": "Research protocol",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -108,9 +83,17 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "4e35d9908f29e925",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -122,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-07-23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-07-23.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-04-27.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-07-23.md"
           }
         }
       }
@@ -172,10 +155,12 @@
   },
   "active": "2fedc53139bfc6dc",
   "lastOpenFiles": [
+    "content/CHI Paper MOC.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-07-23.md",
+    "content/Permanent Notes/Absurdity.md",
+    "content/Permanent Notes/Modernism.md",
     "content/Miscellaneous Notes/Daily Notes/2023-05-03.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-27.md",
-    "content/Permanent Notes/Modernism.md",
-    "content/Permanent Notes/Absurdity.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-24.md",
     "content/Miscellaneous Notes/Daily Notes/2023-03-05.md",
     "content/Miscellaneous Notes/Daily Notes/2023-04-19.md",
@@ -196,8 +181,6 @@
     "content/Resource Notes/The Spiritual Exercises.md",
     "content/Permanent Notes/The First Principle and Foundation.md",
     "content/Resource Notes/The Flying Spaghetti Monster, Aristotle, and Fernando Amorsolo.md",
-    "content/Resource Notes/Finding Hope When Life Doesn't Go As Planned.md",
-    "content/Resource Notes/Suffering - The Call of a Wounded Healer.md",
     "Immersing in a Pool ",
     "content/images/Matrix of domination.jpeg",
     "content/images/Metamodernism.jpeg",
