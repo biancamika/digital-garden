@@ -1,0 +1,35 @@
+---
+title: "Why Brand Matters for Growth"
+---
+- Many founders think that their product can sell itself. Or they believe that simply implementing proven marketing tactics can lead to growth.
+- But without a strong brand, it's difficult for startups to grow past a certain stage. Even if they're tapping the right channels, they can only go so far before hitting a wall. There are three major reasons why:
+	- **Branding differentiates your company.** ==Psychologically, branding gives people a mental shortcut by separating your company from others.== Consider how people recognize sign and billboard logos on the roadside as different restaurants and businesses even without seeing their names spelled out. Done well, branding makes products memorable; it triggers users’ recall.
+	- **Branding amplifies customer relationships.** We have a natural preference for stories because they help us process information; they engage us and [motivate us to act](https://www.npr.org/sections/health-shots/2020/04/11/815573198/how-stories-connect-and-persuade-us-unleashing-the-brain-power-of-narrative). ==Strong branding essentially tells the story of how a product or company can help us not just solve a problem but triumph over adversity.== Seeing ourselves in these stories makes companies feel more relatable—and since they resonate with us, we’re more likely to become loyal customers. We continue buying from the same company even if a competitor offers a cheaper alternative.
+	- **Branding gives you a growth edge.** Many modern companies take a rigid, data-driven approach to growth. This method once gave companies an edge over their less sophisticated competitors but now, this approach is the standard. So it’s not enough for companies to be data-driven—==they must also take a human-centered approach that convinces prospects not just with reason but with emotion.== In a world where millions of companies constantly compete for consumers’ attention, only the ones that emotionally resonate stand a chance at creating long-term recall.
+- Here’s a real-life example of how brand work can lead to more customers.
+	- A SaaS company, [Stacker](https://www.stackerhq.com/), hired our agency Bell Curve to refresh its product messaging and design. This included creating new copy and visuals for its site, emails, and ad campaigns, changes that ultimately led to an overall increase in conversions:
+		- Homepage conversions: +100%
+		- Landing page conversions: 2.5x lift
+		- Ad clickthrough rate: +22%
+	- There weren’t any major changes in Stacker’s product, but rather, how it presented itself. Stacker has a strong product, so the branding work Bell Curve did was like adding gas to a fire.
+- But in many cases, ==a strong brand makes it possible for an inferior product to win over more customers than a superior product—and to even charge more.== Remember the taste test of McDonald’s and Starbucks coffee—people pay more for Starbucks’ coffee despite the fact McDonald’s coffee tastes better and costs less.
+- In short, brand amplifies the other pieces of your company’s [[Five Fits Framework]]: 
+	- It increases the perceived value of your product and your market’s willingness to pay. 
+	- It enhances the product experience. 
+	- And it boosts the effectiveness of your funnel and growth channels. 
+	- This all leads to higher conversion rates, retention, and customer lifetime value.
+
+## When does my company need to focus on branding?
+- Building a brand isn’t just for mature companies. Conversely, brand building is exactly what helped established names like Nike to find success in the first place. Every business benefits, especially early-stage companies that are:
+	- **Entering a saturated market.** Consider the thousands of retailers selling apparel around the world. Though many sell yoga pants, many women are drawn specifically to Lululemon’s because of its stylish, community-focused branding. No matter its price or quality, brand helps to differentiate your product in a crowded market.
+	- **Competing against a very established name.** Customers often conflate recognition with credibility. In other words, when given the option, it’s easier to trust a familiar brand over an unfamiliar one even if the no-name brand has a better product. But branding gives underdogs a chance to defeat Goliath. Think of how the investing app Robinhood built an identity around democratizing finance (down to its name!) to challenge long-standing brokerages.
+- However, you may be wondering at what point early-stage companies should prioritize building their brand. We advise doing different levels of brand work at three key points:
+	- ![[Extras/Media/Images/Stages of Branding.png]]
+	- **Product development:** Since branding creates product experience, you should develop a high-level framework of your brand early on. This is a rough idea of who your company is and what it stands for. Use it to guide your product development, like which features to prioritize that align with both your brand and target audience. 
+	- **Product validation:** Brand work is minimal at this phase. Instead, use your initial brand concept to guide product tests and collect feedback from users. You may realize that your early brand idea doesn’t resonate with your target audience, or it attracts unexpected segments. If you’re seeing poor results, move back to the product development phase and modify your original concept. 
+	- **Early traction:** Once you’ve experienced some traction (once you’re acquiring customers) revisit brand in more detail. Invest in more robust branding work to refine your messaging and design.
+- Again, brand building is a ==long-term process==—so don’t try to nail down all brand details early on. 
+	- The point is to develop a rough brand identity in tandem with your product. 
+	- Then focus on testing your product and getting user feedback. 
+	- Once you’ve developed consistent traction, brand work should be included as a piece of your growth strategy.
+- Why does branding deserve more attention later on? **It powers every aspect of growth, with effects that trickle down to your conversions, click-through rates, and so on.** Because of brand, customers value your product as more than a commodity. They trust your company and become repeat buyers and brand ambassadors, eager to share their experience with more people.

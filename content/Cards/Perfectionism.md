@@ -1,0 +1,63 @@
+---
+title: "Perfectionism"
+---
+## Reference
+- **Source:** [[Atlas/Maps/DLQ 10 MOC]]
+- **Keywords:** [[Cards/permanent notes]]
+- **Relevant Notes:**
+	- Module 1A
+		- [[Cards/Problem versus Mystery]]: Perfectionists lose their sense of mystery.
+		- [[Cards/Order and Chaos]]: Perfectionism = wanting too much order
+		- [[Cards/Absolute Certainty versus Wonder]]: Perfectionists are practice absolute certainty. Consequently, they are not comfortable with paradoxes.
+		- [[Cards/Desire]]: We can counter this perfectionism through desire for the good.
+	- Module 1B
+		- [[Cards/The First Principle and Foundation]]
+		- [[Cards/Discernment]]
+		- [[Cards/Consolation]]
+		- [[Cards/Desolation]]
+		- [[Cards/Disordered attachments]]
+	- Module 2
+		- [[Cards/Tangibles]]: Perfectionists create avatars of themselves with their own tangibles.
+		- [[Cards/The Divided Life]]: Perfectionists live divided lives because the gap between their “perfect” avatars and authentic souls is too wide.
+		- [[Cards/Brokenness]]: The excessive control perfectionists pursue in their lives is rooted in their unique brokenness.
+		- [[Cards/The False Self]]: The avatar presented by the perfectionist is The False Self.
+		- [[Cards/Self-rejection]]: Perfectionist tendencies make us reject ourselves. 
+
+## Notes
+- The relationship between **puzzles** and perfection
+	- Imagine a puzzle piece shaped like a perfect shape...there is no such thing. ==The imperfection makes it what it is.==
+	- A puzzle piece has an imperfect shape so it can ==connect to a bigger picture.==
+	- What does it really mean to be perfect?
+- **Perfection:** excessive control over the processes and outcomes of one's life 
+	- Flawlessness; nothing goes wrong; nothing needs to be added
+		- always defined in terms of ==the negative==
+	- perfectionists have rigid views of the world
+	- The roots of anxiety and depression come from perfectionist attitudes
+	- 3 insights about its **dangers:**
+		- [[Perfectionism disables us from seeing life as it truly is]]
+			- Perfectionism ==shelters== you from real-life situations: its difficulties, complexities, and paradoxes.
+				- E.G. Ateneo can be seen as the perfect campus...but it can also lead to students living sheltered lifestyles.
+			- Reality does not perfectly fit what we want it to be.
+				- Life is full of mysteries, not just problems. See: [[Cards/Problem versus Mystery]]
+			- When it comes to dating, this is a common mentality: "I would have rather have real than perfect."
+				- But remember: your fixation on the perfect might be ==keeping you from the real goal.==
+				- ^ Relevant to the examples mentioned by Margaret Self in "[[Sources/Inner Compass]]"
+		- [[Perfectionism renders growth unnecessary and obsolete]]
+			- If perfection is such a dangerous thing, then why pursue it at all? Should we just settle for mediocrity, then?
+				- The way elite athletes handle defeat is fascinating. The best have a good attitude. Defeats are not attacks on ego; they're learning opportunties. (Remember: [[Defeats are learning opportunties]])
+				- Being a great athlete is not always about winning, but also about learning how to lose well. (Remember: [[Learn how to lose well]])
+				- "Gracious in defeat"
+				- If you truly have respect for your game, you know that there is always so much more to learn.
+			- The good life is about being in a **dynamic state of growth** rather than a static state of perfection.
+			- Mediocrity is judged in the process, not in the result. 
+				- What makes you truly mediocre is not giving your best effort.
+		- [[Perfectionism makes us harm ourselves and others more]]
+			- Examples:
+				- Hitler's genocide and Duterte's *tokhang*. Both of these exemplify how conceptions of what is clean and pure have negative connotations, since they are often used to perpetuate evil.
+				- Tiger parents, disagreements with loved ones
+			- Perfectionism has **victims.**
+- Important: [[Do not let the perfect be the enemy of the good]].
+	- ==The good is consistently real==, while perfection is often an illusion.
+	- ^ So you can find peace and gratitude in this.
+	- Advice: Don't become **too fixed on your goal** to the point that you forget **the joy of the process.**
+- The good enables you to be **grateful** for what you have now, and **desirous** for what is better. This is where [[Cards/Desire]] comes in.

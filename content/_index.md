@@ -8,34 +8,32 @@ title: Bianca's Digital Garden
 
 Hi, I'm Bianca. Welcome to my digital garden, where I nurture my thoughts. I take notes because I have too many tabs open in my 5 MB brain :') and don't want to forget all the wonderful things I get to learn.
 
-Warning: This website is forever a work in progress! Some notes may have weird formatting too + broken links. Currently trying to fix that.
-
 ## Main Maps of Content (MOCs) 🧭
 
 Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/01/dewey-decimal-classification-system-chart_211133.png):
 + **General works 📂**
-  + [[Projects MOC]]
-  + [[School MOC]]
-  + [[Thesis MOC]]
+  + [[Atlas/Maps/Projects MOC]]
+  + [[Atlas/Maps/School MOC]]
+  + [[Atlas/Projects/Thesis]]
 + **Philosophy and psychology 💭**
-  + [[Philosophy MOC]]
-    + [[Mindfulness MOC]]
-  + [[Psychology MOC]]
-    + [[Attention MOC]]
-  + [[Personal Development MOC]]
-  + [[Education MOC]]
+  + [[Atlas/Maps/Philosophy MOC]]
+    + [[Atlas/Maps/Mindfulness MOC]]
+  + [[Atlas/Maps/Psychology MOC]]
+    + [[Atlas/Maps/Attention MOC]]
+  + [[Atlas/Maps/Personal Development MOC]]
+  + [[Atlas/Maps/Education MOC]]
 + **Religion 🛐**
-  + [[Spirituality MOC]]
+  + [[Atlas/Maps/Spirituality MOC]]
 + **Social sciences 👥**
-  + [[Sociology MOC]]
+  + [[Atlas/Maps/Sociology MOC]]
 + **Languages**
-  + [[Words MOC]]
+  + [[Atlas/Maps/Words MOC]]
 + **Technology ⚙️**
-  + [[Technology MOC]]
-  + [[Innovation MOC]]
-  + [[Business MOC]]
+  + [[Atlas/Maps/Technology MOC]]
+  + [[Atlas/Maps/Innovation MOC]]
+  + [[Atlas/Maps/Business MOC]]
 + **Arts and recreation 🎭**
-  + [[Art MOC]]
-  + [[Design MOC]]
-  + [[Creativity MOC]]
+  + [[Atlas/Maps/Art MOC]]
+  + [[Atlas/Maps/Design MOC]]
+  + [[Atlas/Maps/Creativity MOC]]
 

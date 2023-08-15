@@ -1,0 +1,41 @@
+---
+title: "Self-rejection"
+---
+## Reference
+- **Source:** [[Atlas/Maps/DLQ 10 MOC]]
+- **Keywords:** [[Cards/permanent notes]]
+- **Relevant Notes:**
+	- Module 1A
+		- [[Cards/Problem versus Mystery]]: When we reject ourselves, we treat ourselves as a problem. Accepting that we are mysteries is crucial for getting to truly know ourselves
+		- [[Cards/Absolute Certainty versus Wonder]]: When we reject ourselves, we resort to reductionism. A sense of wonder is needed in order to accept ourselves.
+		- [[Cards/Order and Chaos]]: Self-rejection can happen either through self-restriction (excessive order) or self-indulgence (excessive chaos).
+		- [[Cards/Perfectionism]]: Perfectionist tendencies make us reject ourselves. 
+		- [[Cards/Desire]]: When we reject ourselves, making our desires value-adding is impossible.
+	- Module 1B
+		- [[Cards/The First Principle and Foundation]]
+		- [[Cards/Discernment]]: 
+		- [[Cards/Desolation]]: 
+		- [[Cards/Consolation]]:
+		- [[Cards/Disordered attachments]]: what our brokenness can create; its manifestations
+	- Module 2
+		- [[Cards/Tangibles]]:
+		- [[Cards/The Divided Life]]: a life dictated by personas created from tangibles.
+		- [[Cards/Brokenness]]: self-rejection is a manifestation of what happens when we bitterly act on our brokenness
+		- [[Cards/The False Self]]: what happens to us if we let our brokenness stay raw and unprocessed
+
+## Notes
+- Our strongest enemy is **self-rejection**.
+	- It's why we fall into the temptations of the [[Cards/Tangibles]].
+		- 1st effect of self-rejection
+	- We easily depend on these when we believe that there is no [[Cards/The True Self]]
+		- We think that we are worthless and unlovable
+		- "I tend to blame myself -- not just for what I did, but for who I am."
+- According to [[Brene Brown]] in *[[The Gifts of Imperfection]]*, the difference between shame and guilt is best understood as the differences between **"I am bad"** and **"I did something bad".**
+	- Guilt = "I did somethig bad."
+	- Shame = "I am bad."
+		- The moment you associate your mistake with your character...it becomes harder to address that. Changing identities is difficult.
+		- This is the 2nd effect of self-rejection: it's harder to be accountable
+			- Remember: your [[Cards/Brokenness]] is an explanation, not an excuse
+- If self-rejection is your default, "your life can be scarcely more than a long struggle for survival."
+	- A.K.A. [[Cards/The Divided Life]]
+	- You cannot truly know yourself if your default step is to **reject yourself.**

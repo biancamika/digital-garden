@@ -1,4 +1,4 @@
-![[images/Our overprotective society.png]]
+![[Extras/Media/Images/Our overprotective society.png]]
 
 Once, in one of my hikes up in Japan’s Northern Alps, I met a Japanese teacher with a troop of boys, probably around 11 to 12 years old, hiking on the same trail. “Sugoi!” I said, expressing amazement over the boys’ determination to climb the mountain.
 

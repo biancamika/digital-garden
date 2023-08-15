@@ -1,0 +1,45 @@
+---
+title: "Order and Chaos"
+---
+## Reference
+- **Source:** [[Atlas/Maps/DLQ 10 MOC]]
+- **Keywords:** [[Cards/permanent notes]]
+- **Relevant Notes:**
+	- Module 1A
+		- [[Cards/Problem versus Mystery]]: the straightforward nature of problems make them appealing for those who desire order, while mysteries are really chaotic...hence why they teach us how to adjust
+		- [[Cards/Absolute Certainty versus Wonder]]: the former happens when we crave for too much order; the latter happens when we allow for balance
+		- [[Cards/Perfectionism]]: perfectionists always desire order in their lives.
+		- [[Cards/Desire]]: if desire is the energy that moves our lives, then being able to channel our desires means allowing spce for both order and chaos
+	- Module 1B
+		- [[Cards/The First Principle and Foundation]]
+		- [[Cards/Discernment]]: 
+		- [[Cards/Desolation]]: 
+		- [[Cards/Consolation]]:
+	- Module 2
+		- [[Cards/Tangibles]]: To live a good life, we need to learn how to treat our tangibles like advisors instead of dictators. This requires a balance between order and chaos; the former gives us the direction we need while the latter teaches us adaptation.
+		- [[Cards/The Divided Life]]: a Divided Life consists of either too much order or too much chaos.
+		- [[Cards/Brokenness]]: A balanced approach is needed in order to make the most of our brokenness.
+		- [[Cards/The False Self]]: Both The False Self and The True Self are integral to our identities; to live a good life, we must balance these selves by closing the gap between them (a.k.a. integrating our role and our soul).
+		- [[Cards/Self-rejection]]: Self-rejection can happen either through self-restriction (excessive order) or self-indulgence (excessive chaos).
+
+## Notes
+- Why are Ateneans so indecisive? Why do we always say "Yes and no"
+	- Because we approach things with nuance, knowing that we live in a world full of nuances
+- Thinking in absolutes leads to **deadly polarizations.** (See [[Cards/Absolute Certainty versus Wonder]])
+- **Traps in decision-making** are disabling to living.
+	- Analysis paralysis: cannot decide
+	- Absolute certainty: already decided 
+	- Apathetic  avoidance: not caring
+- **Order** = what we know; **chaos** = what we don't know
+- We need both **order and chaos** to live a good life.
+	- Chaos strengthens order, makes it more flexible.
+	- But of course, you can have too much order.
+	- Imagine a life of pure order or pure chaos.
+- Order sets the **direction**; chaos teaches you how to **adjust**.
+- E.G. Rock v.s. bamboo as pictures of strength
+	- Rocks are too predictable, doesn't allow flexibility and growth
+	- Bamboos are more flexible and adaptable, making them better images of strength
+	- Balance = simultaneously structured and spontaneous
+- The world is complex and paradoxical...make a **firm decision** that comes from **careful consideration.** 
+- Partial and resonable certitude.
+	- See [[Sources/The Need for Certainty]]

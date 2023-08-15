@@ -52,7 +52,7 @@ Based on https://medium.com/@WeWorkUX/the-atomic-unit-of-research-insight-17d619
 - https://public.flourish.studio/visualisation/10409593/
 
 
-![[images/CLA Example.png]]
+![[Extras/Media/Images/CLA Example.png]]
 
 ##### Methodology
 - https://sts-munich.de/student-voices/rawabi-sti/

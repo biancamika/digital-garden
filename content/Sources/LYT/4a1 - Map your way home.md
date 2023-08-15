@@ -1,0 +1,12 @@
+---
+title: "4a1 - Map your way home"
+---
+- All roads lead to home. But we haven't finished all the roads yet. That's what we will do in this unit.
+- Using the theory of [[Cards/Idea Emergence]] as our guide, let's recap of our current progress:
+	- We built little pockets of knowledge: New notes with a few links.
+	- We built them up and connected them more robustly: Living, evergreen notes.
+	- We built groups of related thought: Maps of content.
+	- Now we are going to connect our whole knowledge system via a network of fast-moving  and slow-moving notes.
+- [[Cards/Idea Emergence]] shows a simplified view of our ==personal knowledge network.== You can also look at it as a personalized network for continual sensemaking. If Germany has the autobahn, this is our infobahn.  
+- With that analogy in mind, now is the time for us to complete our [[Cards/Idea Emergence]] superhighway—to make our PKM system a fully operational thinking network—a sustainable PKM planet.  
+- Because that's the promise of the program: to **_build your custom PKM system_**.  Let's do exactly that in the following lessons.
