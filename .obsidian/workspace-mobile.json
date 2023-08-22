@@ -13,13 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ed9d4a86f3822aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "40c7a3928b58ed13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d6988eb5d6efe84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Cards/Street politics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24f7efb97b18aac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Sources/The Quiet Encroachment of The Ordinary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
+            "file": "content/Sources/The Quiet Encroachment of The Ordinary.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
+            "file": "content/Sources/The Quiet Encroachment of The Ordinary.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-16.md"
+            "file": "content/Sources/The Quiet Encroachment of The Ordinary.md"
           }
         }
       }
@@ -141,8 +184,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb56b5ec86b87cae",
+  "active": "24f7efb97b18aac5",
   "lastOpenFiles": [
+    "content/Cards/Productive power.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-18.md",
+    "content/Cards/Relations of power.md",
+    "content/Cards/Subjectivity.md",
+    "content/Sources/The Quiet Encroachment of The Ordinary.md",
+    "content/Cards/Street politics.md",
+    "content/Cards/Quiet encroachment.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-22.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-15.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
     "content/Cards/Novum.md",
     "content/Cards/Sonder.md",
     "content/Cards/Niche.md",
@@ -159,16 +212,6 @@
     "content/Cards/Estrangement.md",
     "content/Cards/Maganimity.md",
     "content/Cards/Brand mood.md",
-    "content/Cards/Ascetism.md",
-    "content/Cards/Acedia.md",
-    "content/Cards/long tail.md",
-    "content/Cards/Shadow work.md",
-    "content/Cards/sick systems.md",
-    "content/Cards/Sweet Spot.md",
-    "content/Cards/Praxis.md",
-    "content/Cards/Modernism.md",
-    "content/Cards/Imaginaries.md",
-    "content/Cards/Metamodernism.md",
     "content/Extras/Media/Images/Mindset.png",
     "content/Extras/Media/Images/image.jpg",
     "content/Extras/Media/Images/N vs N^2.png",
