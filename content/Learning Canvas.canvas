@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"db1f4bf92efc38af","x":-720,"y":-340,"width":380,"height":200,"type":"text","text":"I want to learn:\n- [ ] AI art (i.e. Stable Diffusion/Midjourney)\n- [ ] Calisthenics shit"},
+		{"id":"c5c85329395f8d42","x":-220,"y":-320,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=dMkiOex_cKU"},
+		{"id":"8b8d2f49a1e142e2","x":-220,"y":80,"width":400,"height":300,"type":"file","file":"Cards/Prompt engineering.md"}
+	],
+	"edges":[]
+}

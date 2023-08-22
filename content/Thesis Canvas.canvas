@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"file","file":"Atlas/Projects/Thesis.md","id":"005cff51c31a7a13","x":-1000,"y":-540,"width":620,"height":520},
+		{"type":"file","file":"Atlas/Projects/CHI Paper.md","id":"016934b9f39e9929","x":-320,"y":-540,"width":640,"height":520},
+		{"id":"cc49a9840604be0d","x":-1000,"y":60,"width":420,"height":200,"type":"text","text":"TO-DO:\n- [ ] Outreach graphic\n- [ ] Email template"}
+	],
+	"edges":[]
+}
