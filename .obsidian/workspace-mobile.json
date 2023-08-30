@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-18.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,37 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "40c7a3928b58ed13",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d6988eb5d6efe84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Cards/Street politics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24f7efb97b18aac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Sources/The Quiet Encroachment of The Ordinary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Research protocol",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -124,7 +93,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -136,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Sources/The Quiet Encroachment of The Ordinary.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Sources/The Quiet Encroachment of The Ordinary.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Sources/The Quiet Encroachment of The Ordinary.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md"
           }
         }
       }
@@ -184,18 +153,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24f7efb97b18aac5",
+  "active": "2fedc53139bfc6dc",
   "lastOpenFiles": [
-    "content/Cards/Productive power.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-23.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-18.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
+    "content/Cards/Street politics.md",
+    "content/Sources/The Quiet Encroachment of The Ordinary.md",
+    "content/Thesis Canvas.canvas",
+    "content/Learning Canvas.canvas",
+    "content/Cards/Productive power.md",
     "content/Cards/Relations of power.md",
     "content/Cards/Subjectivity.md",
-    "content/Sources/The Quiet Encroachment of The Ordinary.md",
-    "content/Cards/Street politics.md",
     "content/Cards/Quiet encroachment.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-22.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-15.md",
-    "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
     "content/Cards/Novum.md",
     "content/Cards/Sonder.md",
     "content/Cards/Niche.md",
@@ -210,8 +183,6 @@
     "content/Atlas/Maps/Art MOC.md",
     "content/Cards/Brokenness.md",
     "content/Cards/Estrangement.md",
-    "content/Cards/Maganimity.md",
-    "content/Cards/Brand mood.md",
     "content/Extras/Media/Images/Mindset.png",
     "content/Extras/Media/Images/image.jpg",
     "content/Extras/Media/Images/N vs N^2.png",
