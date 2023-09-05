@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-09-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c60afe8dd46f5aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Cards/Understanding by Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12ae320e18c6fbcf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f06c2b7104dc595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Cards/Enduring Understandings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +126,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e73a2ea5451b0fd2",
@@ -105,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
+            "file": "content/Cards/Enduring Understandings.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
+            "file": "content/Cards/Enduring Understandings.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md"
+            "file": "content/Cards/Enduring Understandings.md"
           }
         }
       }
@@ -153,10 +186,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fedc53139bfc6dc",
+  "active": "1f06c2b7104dc595",
   "lastOpenFiles": [
-    "content/Miscellaneous Notes/Daily Notes/2023-08-23.md",
+    "content/Cards/Understanding by Design.md",
+    "content/Cards/Enduring Understandings.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-09-05.md",
+    "static/icon.png",
+    "CODE_OF_CONDUCT.md",
+    "content/Extras/Media/Images/Curricular Priorities and Assessment Methods.png",
+    "content/Extras/Media/Images/Curricular Priorities.png",
     "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-23.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-18.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
     "content/Cards/Street politics.md",
@@ -179,10 +219,6 @@
     "content/Cards/Panopticon.md",
     "content/Cards/Eusociality.md",
     "content/Cards/Discernment.md",
-    "content/Cards/Reductionism.md",
-    "content/Atlas/Maps/Art MOC.md",
-    "content/Cards/Brokenness.md",
-    "content/Cards/Estrangement.md",
     "content/Extras/Media/Images/Mindset.png",
     "content/Extras/Media/Images/image.jpg",
     "content/Extras/Media/Images/N vs N^2.png",
@@ -190,9 +226,6 @@
     "content/Extras/Media/Images/image 1.jpg",
     "content/Extras/Media/Images/CSCI 21 1.png",
     "content/Extras/Media/Images/github-pages.png",
-    "content/Extras/Media/Images/Hero Journey.png",
-    "content/Extras/Media/Images/Rose Window.png",
-    "content/Extras/Media/Images/Nested tags.png",
     "content/Atlas/Maps",
     "content/Atlas/Projects",
     "content/Atlas",
