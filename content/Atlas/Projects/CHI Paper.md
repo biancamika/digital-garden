@@ -91,25 +91,44 @@ title: "CHI Paper MOC"
 - [ ] Write about desired research protocol, put in presentation and ask for feedback from Jordan
 - [ ] Write out your research questions
 
-### Email to Ma'am Nikki
-I'm also planning to set a meeting with my department chairperson to ask for permission about this pala (my adviser can be really unresponsive kasi); here's a draft for the email I will supposedly send.
-
---- 
-Subject Title: Meeting Request: External Academic Collaboration for Thesis Project
-
 ---
+## Research Protocol
+### Project Overview 
+**Title of Project:** 
+**Keywords:** Generative AI, Design Futuring, Speculative Design, 
 
-Dear Ma'am Nikki:
+#### Background and Current Approaches
 
-May I request to have a onsite/online meeting with you during the first two weeks of school (August 9-19)?
+#### Rationale and Objectives
+### Research Questions 
+1. In what ways does AI support the generation of ideas for an utopian future for youth in developing countries?
+2. What are utopian and dystopian futures typically imagined by youth in developing countries, and what role does technology play in these?
+3. How might design fictions as a method of futuring elicit new ideas that speak to concepts of a utopian reality for youth in developing countries?
 
-Recently, I consulted with human-computer interaction (HCI) researchers about my thesis, since it tackles the same field. They think that it has the potential to get published as a conference paper, particular for the ACM Conference on Human Factors in Computing Systems (CHI). However, they know that they cannot get directly involved since my thesis is affiliated with ADMU, and that my adviser is in charge of it. What they suggest I can do instead is make one part of my thesis project — the research process — the subject of the conference paper; everything else (i.e. the creative process) would then be covered by my thesis. 
+Notes:
+- maybe replace AI with AI art generators? unless ChatGPT will also be used
+#### Hypothesis Statements 
+### Conditions and Variables
+### Technical Script 
+to see how were gonna do the studies/workshops. 
+### Targeted Contributions 
+- Empirical 
+- Artifact
+- Method?
+### Evaluations
+#### Pilot Study Protocol
+##### Study Design
+- Goal of the pilot
+- Overview of methods
+##### Task
 
-Thus, I would like to ask if it is possible to collaborate with these researchers (from the Manila ACM SIGCHI Chapter) for my thesis. I would love to take on this opportunity; CHI is considered a Tier 1 conference, so I believe that getting published would be beneficial for ADMU, especially for the Interdisciplinary Studies department. But I want to ensure that I navigate this correctly, without stepping on anyone's toes; hence, I wish to meet with you so that I can give you more context. 
+##### Measure (Analysis Criteria)
 
-Thank you!
+##### Results
+
+### Resources
+- https://www.figma.com/community/file/1074773789352934150/Comics-in-Figma
+- https://www.figma.com/community/file/1228326072903106794/AI-Comic-A-Day
 
 
-P.S. Notes on my current situation:
-- I finished IDS 199.1 last year, and I'll be taking IDS 199.2 this coming 2nd semester. I did this intentionally so that I could have an extended timeline for my thesis.
-- I don't have ethics clearance yet; I sent my revised documents to Sir. Peter during the Second Semester, but he hasn't signed them until now. This is okay, since I'm planning to revise my reseach protocol
+
