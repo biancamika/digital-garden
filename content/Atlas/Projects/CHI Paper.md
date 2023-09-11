@@ -100,6 +100,12 @@ title: "CHI Paper MOC"
 #### Background and Current Approaches
 
 #### Rationale and Objectives
+- Rationale
+	- Provides the justification or reasoning behind the research project. Explains why the study is necessary and why the research question or problem is worth investigating.
+	- Discuss the background context of the research, including any gaps in current knowledge or literature, potential practical implications, and the significance of the research problem.
+- Objectives
+	- Outline the specific goals or outcomes the researcher aims to achieve through the research project. They define what the study intends to accomplish.
+	- Clear, concise statements that describe the expected results or milestones of the research. They may include specific research questions, hypotheses, or tasks.
 ### Research Questions 
 1. In what ways does AI support the generation of ideas for an utopian future for youth in developing countries?
 2. What are utopian and dystopian futures typically imagined by youth in developing countries, and what role does technology play in these?
@@ -108,27 +114,88 @@ title: "CHI Paper MOC"
 Notes:
 - maybe replace AI with AI art generators? unless ChatGPT will also be used
 #### Hypothesis Statements 
+- AI Art generators make the process of design futuring easier and more efficient
+- Imagined futures are deemed "utopian" or "dystopian" depending on the accessibility and impact of technology in these scenarios
+- Design methods as a method of futuring can foster critical thinking and imagination
 ### Conditions and Variables
+#### Possible Conditions
+- No AI tool v.s. with AI tool?
+	- best tested out in a group setting, like a workshop. creating design fictions w/ ai v.s. w/o
+- w/ design fiction v.s. w/o design fiction
+	- pre-study and post-study, measure level of critical thinking and imagination? but how
+#### Possible Variables
+- RQ 1
+	- Independent variable: Use of AI-driven idea generation tools
+	- Dependent variable:  the amount of creative support a user feels during the design futuring process
+- RQ 2
+	- Independent variable: Imagined/elicited futures from participants
+	- Dependent variable: Role of technology in the scenarios? Or perceptions regarding role of technology?
+- RQ 3
+	- Independent variable: Use of design fictions as a futuring method
+	- Dependent variable: Critical thinking and imagination?
+- Others
+	- Participant demographics: Collect demographic information about your study participants, such as age, gender, educational background, and experience with technology.
+	- Cultural context: Consider the cultural context of participants and how it may influence their responses and perceptions.
 ### Technical Script 
 to see how were gonna do the studies/workshops. 
 ### Targeted Contributions 
 - Empirical 
+	- The utility of AI art generators in the design futuring process
+	- Findings on how much design fictions can foster critical thinking and imagination?
+	- Elicited futures from youth in developing countries
 - Artifact
-- Method?
+	- Workbook (a novel system)
+	- Website gallery of participants' design fiction outputs (if this counts as novel designs)
+- Methodological
+	- reevaluating design sprint method of Ivanov et. al (One Week into the Future)
+	- introducing a "reflective" component based on method from Harrington & Dilahunt (Eliciting Tech Futures from...)
 ### Evaluations
-#### Pilot Study Protocol
+#### Study 1: Pilot Study Protocol
 ##### Study Design
-- Goal of the pilot
-- Overview of methods
+- Only one participant will be recruited for this pilot study.
+- The goal of this pilot study
+	- Evaluating the impact of introducing a "reflective" component into Ivanov et. al's design sprint method
+	- Evaluating the results of using AI art generators for design futuring
+- The participant will undergo a 5 day sprint wherein they will do the following:
+	- Get introduced to design futuring + Stable Diffusion
+	- Envision utopian and dystopian futures through co-designed? speculative design fictions
+	- Produce concept sketches, storyboards, and comics that examine the implications of these futures
 ##### Task
 
 ##### Measure (Analysis Criteria)
+- Qualitative instruments: 
+	- 1:1 Interview
+	- Content + thematic analysis
+- Quantitative instruments:
+	- [Creativity Support Index](https://dl.acm.org/doi/10.1145/2617588)
+		- [Mixed-Initiative Creativity Support Index](https://dl.acm.org/doi/abs/10.1145/3581641.3584095): MICSI rates co-creative systems along experiential axes relevant to AI co-creation. We administer MICSI and a short qualitative interview to users who engaged with the Reframer variants on two distinct creative tasks.
+	- Can be collected through VideoAsk platform
 
 ##### Results
+
+#### Study 2: Testing with Focus Group
+- Assessing effects and potential benefits will be done in a further and larger user study.
+
+#### Study 3 (Complementary): Workshop Setting
+
+
+### To-Do
+- [ ] Design workbook
+- [ ] Create educational content for VideoAsk
+
+- To read (for background and current approaches):
+	- Human-AI Co-creation: Evaluating the Impact of Large-Scale Text-to-Image Generative Models on the Creative Process 
+	- A Poetics of Potential Form: The Role of Architectural Creative Writing in Augmented Visual Imagination (AVI)
+	- Trash to Treasure: Using text-to-image models to inform the design of physical artefacts
 
 ### Resources
 - https://www.figma.com/community/file/1074773789352934150/Comics-in-Figma
 - https://www.figma.com/community/file/1228326072903106794/AI-Comic-A-Day
+- To request:
+	- https://dl.acm.org/doi/abs/10.1145/3591196.3596616 (background and current approaches)
+	- https://dl.acm.org/doi/abs/10.1145/3581641.3584095 (instrument)
+	- https://dl.acm.org/doi/10.1145/3596925 (background and current approaches)
+	- https://dl.acm.org/doi/abs/10.1145/3591196.3596819
 
 
 
