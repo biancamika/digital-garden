@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fedc53139bfc6dc",
+            "id": "12ae320e18c6fbcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-29.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-09-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12ae320e18c6fbcf",
+            "id": "2fedc53139bfc6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
+                "file": "content/Miscellaneous Notes/Daily Notes/2023-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-29.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-09-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-29.md",
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-09-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Miscellaneous Notes/Daily Notes/2023-08-29.md"
+            "file": "content/Miscellaneous Notes/Daily Notes/2023-09-05.md"
           }
         }
       }
@@ -153,10 +153,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb56b5ec86b87cae",
+  "active": "12ae320e18c6fbcf",
   "lastOpenFiles": [
+    "content/Miscellaneous Notes/Daily Notes/2023-09-08.md",
     "content/Miscellaneous Notes/Daily Notes/2023-09-05.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-30.md",
+    "content/Atlas/Projects/CHI Paper.md",
+    "content/Miscellaneous Notes/Daily Notes/2023-08-29.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-16.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-18.md",
     "content/Miscellaneous Notes/Daily Notes/2023-08-22.md",
@@ -183,9 +186,6 @@
     "content/Cards/Desolation.md",
     "content/Cards/Collatio.md",
     "content/Cards/Catachresis.md",
-    "content/Cards/Panopticon.md",
-    "content/Cards/Eusociality.md",
-    "content/Cards/Discernment.md",
     "content/Extras/Media/Images/Mindset.png",
     "content/Extras/Media/Images/image.jpg",
     "content/Extras/Media/Images/N vs N^2.png",
