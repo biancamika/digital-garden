@@ -99,13 +99,15 @@ title: '"Art Through the Ages - The Roman Empire"'
 ![[Extras/Media/Images/Cerveteri Necropolis.png]]
 
  #### Tomb of the Leopards
+ - Etruscans also decorated their underground burial chambers with mural paintings
+ - Painted tombs are rare because only the wealthiest families could afford this
 
  #### Capitoline Wolf
 
  #### Aule Metele
 
 ### Roman Art
- ## Cues
+## Cues
 - First, Second, Third and Fourth styles
 - Veristic
 - Classical style

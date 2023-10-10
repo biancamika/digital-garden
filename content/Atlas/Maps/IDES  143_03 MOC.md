@@ -11,7 +11,7 @@ FROM "Miscellaneous Notes/Daily Notes" AND #IDS143_03
 
 ## Outline
 ### Greek Art
-- [[A History of Art in Three Colors]]
+- [[A History of Art in Three Colors - Gold]]
 - [[Art of the Western World - The Classical Ideal]]
 - [[Sources/Art Through the Ages - Ancient Greece]]
 ### Roman Art
