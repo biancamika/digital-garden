@@ -2,7 +2,7 @@
 title: '"A History of Art in Three Colors - Gold"'
 ---
 ## Information
-- **Source:** [[Atlas/Maps/IDES  143_03 MOC|IDES  143_03 MOC]]
+- **Source:** [[Atlas/Maps/IDS  143_03 MOC|IDS  143_03 MOC]]
 	- https://www.youtube.com/watch?v=pkLn_4xBaMk
 	- https://subsaga.com/bbc/documentaries/arts/a-history-of-art-in-three-colours/1-gold.html
 - **Tags:** #art #history 
