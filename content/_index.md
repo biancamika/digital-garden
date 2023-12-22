@@ -14,7 +14,7 @@ Inspired by the [Dewey Decimal System](https://www.printablee.com/postpic/2014/0
 + **General works 📂**
   + [[Atlas/Maps/Projects MOC]]
   + [[Atlas/Maps/School MOC]]
-  + [[Atlas/Projects/Thesis]]
+  + [[Atlas/Projects/E-MAHINASYON]]
 + **Philosophy and psychology 💭**
   + [[Atlas/Maps/Philosophy MOC]]
     + [[Atlas/Maps/Mindfulness MOC]]

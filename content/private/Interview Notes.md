@@ -87,11 +87,86 @@ title: '"Interview Notes"'
 		- Can be a downside of her optimistic scenario...she acknowledges this
 	- Dating is an unnatural process...people think really superficially
 		- standards set by K-Pop idols or celebrities
+- **Entertainment** (kind of related to socialization)
+	- Tiktok algorithm 
 - 
 
 ###### Probable
 
 ### Foresight
+#### MB
+- Personal background
+	- Value: "For whom?"; "Para kanino?"
+- Envision
+	- Emerging technologies: 
+		- Artificial intelligence
+			- powered by massive, unconsented data collection
+		- digitalization/digital transformation
+			- people may not realize the implications...E.G. privacy
+	- How the PH interacts in a global economy
+		- AI is built on labor....outsourcing companies (e.g. labelling)
+	- Climate change implications
+	- Lifestyle/behavior
+		- Context: pandemic -> massive adoption of technologies
+		- doesn't think that there would be fundamental changes; things would just be expressed differently
+		- evolution of values: culture of family...in social media
+			- would people converse via VR? AI-generated avatars?
+			- essence remains the same
+		- we're still the same society
+		- Look at how barangays converse...very community-based
+		- internet cafes as the center of hangouts
+		- tiktoks and mobas as bonding activities...Filipinos finding ways to pass the time despite intense hardships
+- Context
+	- Economy is built around service sector (largely fuelled by BPO)
+		- Because of AI...there may be no need for this industry...or this sector may integrate AI. Loss of jobs + new jobs
+		- things are getting more expensive
+	- Ecological
+		- AI acquires massive computing power....massive energy output. data centers, computer chips, etc.
+		- will further intensify climate change, which PH is at the forefront of
+		- more rapid dipilidation of our ecosystems due to the pressing need for technological advancement
+	- Socio-cultural + Political
+		- Filipino family; Filipino community
+		- Social media influencing people at such a fast scale
+		- What will develop in the next few decades: the pace? at which information is disseminated
+			- E..G. phone calling years ago v.s. text messaging now
+		- makes it easier for bad actors to disseminate misinformation
+		- habits of content consumption (from radio to internet)
+		- AI will probably further blur boundaries...make it easier to track?
+		- Cambridge Analytica
+- Interpret
+	- GCash: example of sudden adoption bc of the pandemic (necessity)
+		- Treated as a black box (especially since it's so adaptable)
+		- E.G. scams are so easy....bc of little security
+		- Extended family supporting each other
+	- Filipinos treat technology like a black box
+		- they care about the end, not the means?
+- History
+	- Things happen out of necessity
+	- local culture mismatches with global culture (e.g. BTS wouldn't have been as big)
+	- affordability of the internet
+#### MA
+- Personal background
+	- Values
+		- Doesn't feel like he represents digital rights advocacy as much
+- Significant emerging technologies
+	- A lot of the technologies we think will appear in the next two decades is already here, but it's maybe not in the Philippines.
+		- National ID system
+		- SIM card registration
+	- Digital money
+		- E.G. Amazon paying workers with points
+		- Digital entrapments of finance
+	- Really restrictive technologies will become more present; a lot of what we describe as dystopian set-ups are already happening everywhere
+	- Digitalization as development 
+- Changes in lifestyle or behavior patterns
+- How might our values, priorities, and aspirations evolve?
+- Cultural practices or traditions
+	- social media and memory
+- Impact on various systems
+- What values do these institutions hold?
+	- US empire, colonization....values of dispossesion
+- I just need to ask about:
+	- Interpretation
+	- Historicization
 #### LB
 ##### Notes
 - social networking and e-commerce were raw concepts back then, they couldn't really be executed without big corporations
@@ -158,16 +233,130 @@ title: '"Interview Notes"'
 	- binance's ban in the Philippines
 	- Another example: Starlink internet
 	- conflict between techology's advancement and nation-state limits
-
+#### JD
+- a matter of representation of people in color in the design field
+- every designer feels like they're creating something good and impactful
+- it could be argued that there's too much being designed
+- core values/principles
+	- there is always a path forward, even if there are roadblocks in the way. you just gotta make sacrifices
+		- didn't come from a privileged background
+	- never views life as linear
+		- there's always multiple ways to accomplish something
+	- doesn't give up on things easily
+	- communicating in the right way, being mature and self-aware
+	- hardest one: being honest and being your true self
+		- company encourages him to be his best self
+- emerging technologies/trends
+	- digital identity...there's no one source of identity in the philippines
+		- because of stupid laws, poor governance...
+		- compared to Singapore and Australia as good examples. they use that digital identity and it's so smooth
+		- it's a bit creepy, but it makes accessing basic services so much easier
+		- horror example: China, social scores
+			- lack of trust in governance
+		- he sees it as a plus for attracting expats, foreign talent...growing the tech market...it's definitely a must
+		- really depends on who is in charge
+	- finance, digital banking system
+		- feels like it won't improve....due to distrust in financial institutions 
+	- it would just be nice to see PH not just rely on normal electricity....lean into solar energy, green energy type of technology
+		- PH has so much natural resources
+		- infrastructure of power lines in the Philippines is such as mess
+	- TL;DR: digital identity, green energy, and digital banking
+		- interesting answers...i was expecting AI LOL
+- behavior/lifestyle changes
+	- you'll see privilege...some socioeconomic split with the digital identity
+		- rich people (from BGC/Makati lol) will be incentivized (e.g. book flights easier)
+		- people who haven't been onboarded are going to struggle (will be seen as waste of time?)
+	- same thing for green energy
+		- may be attached to expensive hotels that can afford it, benefits rich people that stay there
+		- you have to pay a premium for hydroelectricity
+		- that's capitalism lol
+	- digital banking
+		- depends on the type of people willing to transfer, solely based on education
+		- how do you make it easy to save? what is it like to transfer money?
+		- digital banking in Australia is nice. Problem is you need a digital identity. you need to verify yourself
+		- it's really hard to build trust
+			- when you build trust your customers, you have to ensure safety and security (especially when it comes to money)
+		- educational status is another thing. those with more education are more likely to sign up. tech literacy v.s. tech illiteracy
+			- language barriers (e.g. everything is in English)
+- values/aspirations/priorities
+	- Fil-Am: rumours will spread like wildfire among titas of manila
+	- gen alphas will be skeptical of course....
+	- all about hearsay...that's how Filipino culture works. people hear from TVs, messenger, whatsapp. People rely on word of trust from family
+	- Same applies if they see it on Kumu, if they see it w/ some celebrity
+	- people would brag about it....
+		- my digital identity made it easy for me to do this, to do that....weird stories like that
+		- my house is powered by the ocean lol
+- cultural practices
+	- what if the PH implemented a social score?
+		- we're super Catholic/Christian...that may impact someone's status in the church....
+		- it could be like PsychoPass...your score is affected by your moral misdeeds.
+		- This could affect the community the person is involved in. Shows how technology could affect church, politics, etc.
+	- pros: ensures history isn't erased (see last elections). cons: could be hacked, someone could be exposed
+	- Tribalism would definitely happen
+	- same with electricity. community using green electricity v.s. regular electricity. people with disaster lose access to power. latter will be inclined to steal from former?
+- systems
+	- economic
+		- electricity: good long-term!
+		- digital identity: depends on how you use it...socioeconomic split may occur...class warfare
+		- banking: not sure
+	- political
+		- digital identity: definitely would have impact. if people have your identity, they could use it against you. community will judge you based on your history.
+		- electricity: green energy companies v.s. standard energy companies
+			- US still wants to do coal
+		- banking: PH government having issues with an upstart tech company
+	- socio-cultural
+		- digital identity and digital banking: cultural clash between if its good or not.
+		- electricity: just trusting if hydroelectricity is a good thing or a bad thing
+	- ecological
+		- electricity: of course going green is good
+		- digital banks: maybe it saves you the trip of going to actual banks
+		- digital identity: saves a lot of paperwork, everything becomes digitized
+- interpretations
+	- digital identity: 
+		- mystery sickness (like COVID)? "Does so and so have it?".
+		- having an identity is like being vaccinated...if you're not protected
+		- anti-vaxxers: "i'm never giving my information to the government!"; isolate themselves from ease of access to other services
+	- green energy:
+		- education. people are scared of what they don't know about. similar to a vaccine/sickness....
+		- new technology replacing what we're used to (e.g. regular electricity)
+		- machines showing up in the water...so weird...is that good or bad?
+		- changes the landscape. changes my land. changes what i'm used to.
+	- digital banking:
+		- also about trust. can i trust this? i'm skeptical. this is new.
+		- my teenage son uses it to save money,  but i've never heard
+- history
+	- a lot of entrepreneurs tried to do startups...but lack of digital identity blocked them
+	- governance prevented them (e.g. you need to be a citizen)
+	- electricity, weather patterns: PH keeps getting hit by cyclones all the time. and people always lose electricity because power sources keep getting knocked out. how do you build infrastructure for this?
+	- digital banks. the Philippines is easily swayed by trendy apps...transferring money from somewhere to somewhere....
+	- Follow-up
+		- ask: is this kind of resistance of foreign talent good? or bad?
+			- depends on the foreign talent
+			- it's so hard to get jobs in the country
+			- Singapore is the same way
+			- bribing is a thing. there needs to be measures in place
+			- there's so much opportunity in the PH to make good decisions. he just wishes it was easier to make such decisions
+		- ask about his experiences in previous developed countries...how did they introduce such innovations
+			- Thailand ascending in a way where people are taking advantage of the rules of the government (e.g. legalization of marijuana). Tourist industry picked up after this. Farmers are also picking up a lot
+				- a vice has now become a good for the economy
+			- bangkok: dispenseries everywhere
+			- vietnam is trying to go green, but it's so hard because they have so much plastic holders for food. but they're trying to ban plastic, motorcycles in downtown, etc.
+				- also trynig a subway system?
+				- increased prices on gasoline, trying to get people to ride electric bikes
+				- wi
+		- why is remittance so important to Filipinos?
+			- a lot of migrant workers
 
 ## Ideas
 ### General
 - i guess i can put all the hypothetical technology ideas in the research report
 	- Does it have to be in PDF? what if i make a website version? I'm not good at print lol. Just format it after WeTransfer trends reports, or Kontinentalist 
-- Sir. Martin asked for 
+- Just use summary notes for categorizing themes like socialization. don't highlight the full line.
+- Sir. Martin asked for me to look at similar short stories/films so that we could extrapolate their narrative structures
 ### Narratives
 - Kids study in the metaverse because real life is destroyed? They learn about what their country used to be like online...
 	- Of course this is very prone to propaganda, to misinformation
 	- Information comes from LLMs, visuals come from VR/AR?
 	- Related interviews: Kirsten's pessimistic future, Jianna
 - Lakwatsera/lakwatsero: show how terrible our transport infrastructure is, for both users and drivers
+- Mukhang pera: financial transactions, world coin type of shit

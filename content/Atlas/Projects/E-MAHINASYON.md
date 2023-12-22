@@ -1,5 +1,5 @@
 ---
-title: "Thesis MOC"
+title: '"E-MAHINASYON"'
 ---
 ## Overview
 - WIP Title: "E-MAHINASYON: Design Fictions Materializing Future Technological Imaginaries in the Philippines"
@@ -7,7 +7,10 @@ title: "Thesis MOC"
 	- *Black Mirror* set in the Philippine context
 	- A set of speculative fiction stories accompanied by AI art
 	- Custom website
-- [[Interview Notes]]
+
+### Research
+- [[private/Interview Notes]]
+- [[Cards/Abductive thematic analysis]]
 
 ## Ideas
 - **Concepts**

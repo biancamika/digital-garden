@@ -4,8 +4,8 @@ title: "Projects MOC"
 Research/note dumps for personal things I've worked on...where seedlings of thought grow into trees of knowledge
 
 ## Ongoing
-- [[Atlas/Projects/Thesis]]
-- [[Atlas/Projects/CHI Paper]]
+- [[Atlas/Projects/E-MAHINASYON]]
+- [[Atlas/Projects/AI-Enabled Design Futuring]]
 
 ## Completed
 ### Essays
