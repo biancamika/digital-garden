@@ -602,27 +602,27 @@ But AI must still be used with caution; without intentional human guidance, mach
 
 ###### Methodology
 
-- Intro pargaraph...research question
-	- We will first be conducting an exploratory study primarily aimed at answering our research question: How can generative AI best support the design futuring process?
-- Participants
-	- We will be recruiting five participants: computer science students working at a university research laboratory in the Philippines. They are expected to already be familiar with using generative AI tools (e.g. ChatGPT, Dall-E)
-	- Convenience sampling
-- Pilot Study Design (a.k.a. Tools and Procedure)
-	- Based on part of Ivanov et. al's design futuring sprint 
-	- Workshop parts:
-		- Introduction:
-		- Participants fill up template describing area of study
-		- Participants will then generate scenes for 6 prompts
-			- Task-specific examples provided: impact prompts, researcher's area of study
-		- Post-Workshop Survey:
-- Data Collection and Analysis
-	- After the workshop is completed, the participants will be interviewed
-	- To BLANK, we will be conducting a thematic analysis of
+We will be conducting a pilot study primarily aimed at answering our research question: **How can generative AI best support the design futuring process?**
 
+**Participants**
+Through convenience sampling, we will be recruiting five participants: computer science students working at a university research laboratory in the Philippines. Given their technical background, they are expected to already be familiar with using generative AI tools (e.g. ChatGPT, Dall-E). They should also be currently working on a research project, since they will be required to explore it in the pilot study.
+
+**Study Design**
+The participants will go through a 90-120 minute workshop based on the first day of Ivanov et. al's design futuring sprint. We will be using a within-subjects design where all participants do the activities on their own, and then try doing the same activities with the help of generative AI. The workshop will consist  of the following parts:
+
+- **Introduction:** The workshop facilitator will give a participants an overview of the workshop. Then, the participants will be shown guidelines on prompt engineering, to help them with the upcoming workshop activities. 
+- **Research Review:** The participants will write about their area of study, using the canvas template from Ivanov et. al's workbook (Figure 1). Then, after writing their own answers, the participants will use ChatGPT 4 to answer each section in the canvas. Answers written by both the participants and ChatGPT will be placed beside each other for easy comparison.
+- **Generating Exercise:** Once they have an overview of their domain, the participants will use DALL-E 3 to generate fictional depictions of the future, in response to six prompts (Figure 2). After generating images on their own, the participants will refer ChatGPT 4 as an industry expert, asking it how it would answer those prompts. These prompts would then be translated into images with ChatGPT 4. Similar to the previous activity, images made by descriptions from both the participants and ChatGPT will be placed beside each other for easy comparison.
+- **Focus Group Discussion:** After a short break, the facilitator will interview the participants about their experience with design futuring, and how generative AI affected this. 
+
+**Documentation and Analysis**
+The workshop will take place remotely via Zoom, allowing for easy recording. We will be using a shared Figjam whiteboard throughout the whole workshop; all prompts and outputs (i.e. answers, images) will be placed here. To evaluate the participants' experience with generative AI, we will be transcribing and conducting a thematic analysis of the FGD.
 
 
 - https://ai.torchbox.com/thinking/2023-06-16-generative-ai-powerful-tools-to-imagine-explore-better-futures
-- [[Cards/Research through Design|Research through Design]] + [[Cards/Speculative design|Speculative design]] could help us understand how to develop systems for the future
+
+
+###### Limitations and Future Work
 
 - explore how AI-enabled design futuring works for different groups. how national and cultural demographics (e.g. WEIRD) influence aesthetics. what do people consider positive and negative?
 	- can tie in how to make AI adaptable? and less biased?
